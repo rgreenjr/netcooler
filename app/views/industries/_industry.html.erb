@@ -1,0 +1,2 @@
+<p class="industry"><%= link_to h(industry.name), industry %></p>
+<p class="companies"><%= link_to pluralize(number_with_delimiter(industry.companies.size), "Company"), companies_url + "?industry_id=#{industry.id}" %></p>

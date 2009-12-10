@@ -1,0 +1,15 @@
+<div id="<%= @category %>">
+  
+  <% if @posts.nil? or @posts.empty? %>
+    <p style="margin: 40px 25px; font-size: x-large; color: #555; text-align: center">Be the first to post.</p>
+  <% else %>
+    <% for post in @posts do %>
+      <%= render :partial => 'posts/summary', :locals => { :post => post } %>
+    <% end %>
+    
+    <p>&nbsp;</p>
+    <%= will_paginate @posts %>
+
+  <% end %>
+  
+</div>

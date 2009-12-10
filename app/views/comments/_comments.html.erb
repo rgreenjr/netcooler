@@ -1,0 +1,8 @@
+<% if not post.comments.empty? %>
+  <% type = post.question? ? 'Answer' : 'Comment' %>
+  <h2 class="section"><%= pluralize(post.comments.size, type) %></h2>
+<% end %>
+
+<div id="comments">
+  <%= render :partial => "comments/comment", :collection => post.comments %>
+</div>

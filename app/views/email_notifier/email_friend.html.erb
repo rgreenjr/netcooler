@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <title>Netcooler: <%= @post_title %></title>
+</head>
+<body>
+  <p><%= @sender.username %> thought you would be interested in a posting at Netcooler about <%= h(@company.name) %>.</p>
+  <p>Follow this link.  When you get there: comment, rate, share!</p>
+  <p><%= link_to @post_title, @post_url %></p>
+  <p>Message from <%= @sender.username %>:</p>
+  <blockquote><%= @message %></blockquote>
+  <p>Netcooler organizes community-generated and rated news, gossip, and Q&A about companies. Tap into it to find out what people are saying about your company, or one you're thinking about joining!</p>
+  <p>Visit <a href="http://www.netcooler.com/">Netcooler</a> to discover more posts like this.</p>
+</body>
+</html>   

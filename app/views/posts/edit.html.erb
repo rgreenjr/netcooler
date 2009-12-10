@@ -1,0 +1,19 @@
+<% @page_title = "Edit #{@post.category}" %>
+
+<h1><%= @page_title %></h1>
+<h2>Posts are editable for 5 minutes after creation (HTML tags are not allowed).</h2>
+
+<p class="post-data"><%= posted_by_with_date(@post) %></p>
+
+<% if @post.editable_by?(current_user) %>
+  <div class="form">
+    <% form_for :post, :url => post_url(@post), :html => { :method => :put } do |form| %>
+      <%= render :partial => 'posts/form', :locals => { :form => form } %>
+      <%= image_submit_tag 'save.gif', :class => 'submit' %> <%= link_to image_tag('cancel.gif'), @post %>
+    <% end %>
+  </div>
+<% elsif @post.author?(current_user) %>
+  <p>This <%= @post.category %> is no longer editable. Return to <%= link_to h(@post.title), @post %></p>
+<% else %>
+  <p>You may only edit your own posts. Return to <%= link_to h(@post.title), @post %></p>
+<% end %>

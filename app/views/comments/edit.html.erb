@@ -1,0 +1,18 @@
+<% @page_title = 'Edit Comment' %>
+
+<h1><%= @page_title %></h1>
+<h2><%= h @comment.commentable.company.name %> - <%= h @comment.commentable.title %></h2>
+<p>Comments are editable for 5 minutes after their creation.</p>
+
+<% if @comment.editable_by?(current_user) %>
+  <div id="post-form">
+  <% form_for :comment, :url => comment_url(@comment), :html => { :method => :put } do |form| %>
+    <%= render :partial => 'form', :locals => { :form => form } %>
+    <%= image_submit_tag "save.gif" %>  <%= link_to image_tag('cancel.gif'), post_url(@comment.commentable) %>
+  <% end %>
+  </div>
+<% elsif @comment.author?(current_user) %>
+  <p>This post is no longer editable. Return to <%= link_to h(@comment.commentable.title), post_url(@comment.commentable) %></p>
+<% else %>
+  <p>You may only edit your own posts. Return to <%= link_to h(@comment.commentable.title), post_url(@comment.commentable) %></p>
+<% end %>

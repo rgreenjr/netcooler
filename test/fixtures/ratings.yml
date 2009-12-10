@@ -1,0 +1,39 @@
+news_rating:
+  id:             1
+  user_id:        1
+  value:          1
+  rateable_id:    1
+  rateable_type:  News
+  created_at:     <%= Time.now.to_s(:db) %>
+
+gossip_rating:
+  id:             2
+  user_id:        2
+  value:          1
+  rateable_id:    1
+  rateable_type:  Gossip
+  created_at:     <%= Time.now.to_s(:db) %>
+
+question_rating:
+  id:             3
+  user_id:        3
+  value:          1
+  rateable_id:    1
+  rateable_type:  Question
+  created_at:     <%= Time.now.to_s(:db) %>
+
+company_rating:
+  id:             4
+  user_id:        2
+  value:          1
+  rateable_id:    1
+  rateable_type:  Company
+  created_at:     <%= Time.now.to_s(:db) %>
+
+question_rating:
+  id:             5
+  user_id:        3
+  value:          1
+  rateable_id:    1
+  rateable_type:  Comment
+  created_at:     <%= Time.now.to_s(:db) %>

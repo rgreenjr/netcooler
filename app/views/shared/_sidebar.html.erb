@@ -1,0 +1,21 @@
+<!--[start:shared/sidebar]-->
+
+<div id="sidebar">
+  <% rounded_box(nil, 'green') do %>
+    <p style="margin: 0"><strong>What's Netcooler?</strong></p>
+    <p>Netcooler is a site that organizes community-generated and rated news, gossip, and Q&amp;A about companies.</p>
+    <p style="margin: 0">Tap into it to find out what people are saying about your company, or one you're thinking about joining!</p>
+  <% end %>
+  
+  <% cache('sidebar_tags') do %>
+    <%= render :partial => 'tags/cloud',  :locals => { :tags => Tag.find_popular,       :title => 'Popular Tags' } %>
+    <%= render :partial => 'tags/cloud',  :locals => { :tags => Tag.find_recently_used, :title => 'Recent Tags' } %>
+  <% end %>                               
+                                          
+  <% cache('sidebar_companies') do %>
+  	<%= render :partial => 'shared/bubble', :locals => { :companies => Company.find_newest, :title => 'New Companies' } %>
+  <% end %>
+
+</div>
+
+<!--[end:shared/sidebar]-->

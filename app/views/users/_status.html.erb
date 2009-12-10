@@ -1,0 +1,12 @@
+<% if admin? %>
+  <div class='user-status' style="border-top: 1px solid #c7d3df">
+    <p>User status: <%= user_status_icon(@user) %> <strong><%= user.status %></strong>
+    <% submit_value = user.blocked? ? 'Registered'        : 'Blocked' %>
+    <% submit_image = user.blocked? ? 'activate-user.gif' : 'deactivate-user.gif' %>
+    <% form_for :user, :html => { :method => :put } do |form| %>
+      <%= form.hidden_field :status, :value => submit_value %>
+      <%= image_submit_tag submit_image %>
+    <% end %>
+    </p>
+  </div>
+<% end %>

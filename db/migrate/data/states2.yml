@@ -1,0 +1,2477 @@
+# This file contains the states and provinces for several international countries.
+
+# United Kingdom
+aberdeenshire:
+  name: Aberdeenshire
+  abbreviation: Aberdeenshire
+  country_name: United Kingdom
+
+angus:
+  name: Angus
+  abbreviation: Angus
+  country_name: United Kingdom
+
+argyll:
+  name: Argyll
+  abbreviation: Argyll
+  country_name: United Kingdom
+
+ayrshire:
+  name: Ayrshire
+  abbreviation: Ayrshire
+  country_name: United Kingdom
+
+antrim:
+  name: Antrim
+  abbreviation: Antrim
+  country_name: United Kingdom
+
+ards:
+  name: Ards
+  abbreviation: Ards
+  country_name: United Kingdom
+
+armagh:
+  name: Armagh
+  abbreviation: Armagh
+  country_name: United Kingdom
+
+avon:
+  name: Avon
+  abbreviation: Avon
+  country_name: United Kingdom
+
+banffshire:
+  name: Banffshire
+  abbreviation: Banffshire
+  country_name: United Kingdom
+
+berwickshire:
+  name: Berwickshire
+  abbreviation: Berwickshire
+  country_name: United Kingdom
+
+ballymena:
+  name: Ballymena
+  abbreviation: Ballymena
+  country_name: United Kingdom
+
+ballymoney:
+  name: Ballymoney
+  abbreviation: Ballymoney
+  country_name: United Kingdom
+
+banbridge:
+  name: Banbridge
+  abbreviation: Banbridge
+  country_name: United Kingdom
+
+bath_north_east_somerset:
+  name: Bath & North East Somerset
+  abbreviation: Bath & North East Somerset
+  country_name: United Kingdom
+
+bedfordshire:
+  name: Bedfordshire
+  abbreviation: Bedfordshire
+  country_name: United Kingdom
+
+belfast:
+  name: Belfast
+  abbreviation: Belfast
+  country_name: United Kingdom
+
+berkshire:
+  name: Berkshire
+  abbreviation: Berkshire
+  country_name: United Kingdom
+
+blackburn:
+  name: Blackburn
+  abbreviation: Blackburn
+  country_name: United Kingdom
+
+blackpool:
+  name: Blackpool
+  abbreviation: Blackpool
+  country_name: United Kingdom
+
+borders:
+  name: Borders
+  abbreviation: Borders
+  country_name: United Kingdom
+
+bournemouth:
+  name: Bournemouth
+  abbreviation: Bournemouth
+  country_name: United Kingdom
+
+bracknell_forest:
+  name: Bracknell Forest
+  abbreviation: Bracknell Forest
+  country_name: United Kingdom
+
+brighton_hove:
+  name: Brighton & Hove
+  abbreviation: Brighton & Hove
+  country_name: United Kingdom
+
+bristol:
+  name: Bristol
+  abbreviation: Bristol
+  country_name: United Kingdom
+
+buckinghamshire:
+  name: Buckinghamshire
+  abbreviation: Buckinghamshire
+  country_name: United Kingdom
+
+caithness:
+  name: Caithness
+  abbreviation: Caithness
+  country_name: United Kingdom
+
+clackmannanshire:
+  name: Clackmannanshire
+  abbreviation: Clackmannanshire
+  country_name: United Kingdom
+
+cambridgeshire:
+  name: Cambridgeshire
+  abbreviation: Cambridgeshire
+  country_name: United Kingdom
+
+carrickfergus:
+  name: Carrickfergus
+  abbreviation: Carrickfergus
+  country_name: United Kingdom
+
+castlereagh:
+  name: Castlereagh
+  abbreviation: Castlereagh
+  country_name: United Kingdom
+
+central:
+  name: Central
+  abbreviation: Central
+  country_name: United Kingdom
+
+cheshire:
+  name: Cheshire
+  abbreviation: Cheshire
+  country_name: United Kingdom
+
+cleveland:
+  name: Cleveland
+  abbreviation: Cleveland
+  country_name: United Kingdom
+
+clwyd:
+  name: Clwyd
+  abbreviation: Clwyd
+  country_name: United Kingdom
+
+coleraine:
+  name: Coleraine
+  abbreviation: Coleraine
+  country_name: United Kingdom
+
+cookstown:
+  name: Cookstown
+  abbreviation: Cookstown
+  country_name: United Kingdom
+
+cornwall:
+  name: Cornwall
+  abbreviation: Cornwall
+  country_name: United Kingdom
+
+craigavon:
+  name: Craigavon
+  abbreviation: Craigavon
+  country_name: United Kingdom
+
+cumbria:
+  name: Cumbria
+  abbreviation: Cumbria
+  country_name: United Kingdom
+
+dumfriesshire:
+  name: Dumfriesshire
+  abbreviation: Dumfriesshire
+  country_name: United Kingdom
+
+dunbartonshire:
+  name: Dunbartonshire
+  abbreviation: Dunbartonshire
+  country_name: United Kingdom
+
+darlington:
+  name: Darlington
+  abbreviation: Darlington
+  country_name: United Kingdom
+
+derbyshire:
+  name: Derbyshire
+  abbreviation: Derbyshire
+  country_name: United Kingdom
+
+devon:
+  name: Devon
+  abbreviation: Devon
+  country_name: United Kingdom
+
+dorset:
+  name: Dorset
+  abbreviation: Dorset
+  country_name: United Kingdom
+
+down:
+  name: Down
+  abbreviation: Down
+  country_name: United Kingdom
+
+dumfries_and_galloway:
+  name: Dumfries and Galloway
+  abbreviation: Dumfries and Galloway
+  country_name: United Kingdom
+
+dungannon:
+  name: Dungannon
+  abbreviation: Dungannon
+  country_name: United Kingdom
+
+durham:
+  name: Durham
+  abbreviation: Durham
+  country_name: United Kingdom
+
+dyfed:
+  name: Dyfed
+  abbreviation: Dyfed
+  country_name: United Kingdom
+
+east_lothian:
+  name: East Lothian
+  abbreviation: East Lothian
+  country_name: United Kingdom
+
+east_riding:
+  name: East Riding
+  abbreviation: East Riding
+  country_name: United Kingdom
+
+east_sussex:
+  name: East Sussex
+  abbreviation: East Sussex
+  country_name: United Kingdom
+
+essex:
+  name: Essex
+  abbreviation: Essex
+  country_name: United Kingdom
+
+fermanagh:
+  name: Fermanagh
+  abbreviation: Fermanagh
+  country_name: United Kingdom
+
+fife:
+  name: Fife
+  abbreviation: Fife
+  country_name: United Kingdom
+
+gloucestershire:
+  name: Gloucestershire
+  abbreviation: Gloucestershire
+  country_name: United Kingdom
+
+grampian:
+  name: Grampian
+  abbreviation: Grampian
+  country_name: United Kingdom
+
+greater_london:
+  name: Greater London
+  abbreviation: Greater London
+  country_name: United Kingdom
+
+greater_manchester:
+  name: Greater Manchester
+  abbreviation: Greater Manchester
+  country_name: United Kingdom
+
+gwent:
+  name: Gwent
+  abbreviation: Gwent
+  country_name: United Kingdom
+
+gwynedd:
+  name: Gwynedd
+  abbreviation: Gwynedd
+  country_name: United Kingdom
+
+herefordshire:
+  name: Herefordshire
+  abbreviation: Herefordshire
+  country_name: United Kingdom
+
+halton:
+  name: Halton
+  abbreviation: Halton
+  country_name: United Kingdom
+
+hampshire:
+  name: Hampshire
+  abbreviation: Hampshire
+  country_name: United Kingdom
+
+hartlepool:
+  name: Hartlepool
+  abbreviation: Hartlepool
+  country_name: United Kingdom
+
+hereford_and_worcester:
+  name: Hereford and Worcester
+  abbreviation: Hereford and Worcester
+  country_name: United Kingdom
+
+hertfordshire:
+  name: Hertfordshire
+  abbreviation: Hertfordshire
+  country_name: United Kingdom
+
+highland:
+  name: Highland
+  abbreviation: Highland
+  country_name: United Kingdom
+
+humberside:
+  name: Humberside
+  abbreviation: Humberside
+  country_name: United Kingdom
+
+inverness_shire:
+  name: Inverness-Shire
+  abbreviation: Inverness-Shire
+  country_name: United Kingdom
+
+isle_of_arran:
+  name: Isle of Arran
+  abbreviation: Isle of Arran
+  country_name: United Kingdom
+
+isle_of_barra:
+  name: Isle of Barra
+  abbreviation: Isle of Barra
+  country_name: United Kingdom
+
+isle_of_benbecula:
+  name: Isle of Benbecula
+  abbreviation: Isle of Benbecula
+  country_name: United Kingdom
+
+isle_of_bute:
+  name: Isle of Bute
+  abbreviation: Isle of Bute
+  country_name: United Kingdom
+
+isle_of_canna:
+  name: Isle of Canna
+  abbreviation: Isle of Canna
+  country_name: United Kingdom
+
+isle_of_coll:
+  name: Isle of Coll
+  abbreviation: Isle of Coll
+  country_name: United Kingdom
+
+isle_of_colonsay:
+  name: Isle of Colonsay
+  abbreviation: Isle of Colonsay
+  country_name: United Kingdom
+
+isle_of_cumbrae:
+  name: Isle of Cumbrae
+  abbreviation: Isle of Cumbrae
+  country_name: United Kingdom
+
+isle_of_eigg:
+  name: Isle of Eigg
+  abbreviation: Isle of Eigg
+  country_name: United Kingdom
+
+isle_of_gigha:
+  name: Isle of Gigha
+  abbreviation: Isle of Gigha
+  country_name: United Kingdom
+
+isle_of_harris:
+  name: Isle of Harris
+  abbreviation: Isle of Harris
+  country_name: United Kingdom
+
+isle_of_iona:
+  name: Isle of Iona
+  abbreviation: Isle of Iona
+  country_name: United Kingdom
+
+isle_of_islay:
+  name: Isle of Islay
+  abbreviation: Isle of Islay
+  country_name: United Kingdom
+
+isle_of_jura:
+  name: Isle of Jura
+  abbreviation: Isle of Jura
+  country_name: United Kingdom
+
+isle_of_lewis:
+  name: Isle of Lewis
+  abbreviation: Isle of Lewis
+  country_name: United Kingdom
+
+isle_of_mull:
+  name: Isle of Mull
+  abbreviation: Isle of Mull
+  country_name: United Kingdom
+
+isle_of_north_uist:
+  name: Isle of North Uist
+  abbreviation: Isle of North Uist
+  country_name: United Kingdom
+
+isle_of_rum:
+  name: Isle of Rum
+  abbreviation: Isle of Rum
+  country_name: United Kingdom
+
+isle_of_scalpay:
+  name: Isle of Scalpay
+  abbreviation: Isle of Scalpay
+  country_name: United Kingdom
+
+isle_of_skye:
+  name: Isle of Skye
+  abbreviation: Isle of Skye
+  country_name: United Kingdom
+
+isle_of_south_uist:
+  name: Isle of South Uist
+  abbreviation: Isle of South Uist
+  country_name: United Kingdom
+
+isle_of_tiree:
+  name: Isle of Tiree
+  abbreviation: Isle of Tiree
+  country_name: United Kingdom
+
+isles_of_scilly:
+  name: Isles of Scilly
+  abbreviation: Isles of Scilly
+  country_name: United Kingdom
+
+isle_of_wight:
+  name: Isle of Wight
+  abbreviation: Isle of Wight
+  country_name: United Kingdom
+
+kincardineshire:
+  name: Kincardineshire
+  abbreviation: Kincardineshire
+  country_name: United Kingdom
+
+kirkcudbrightshire:
+  name: Kirkcudbrightshire
+  abbreviation: Kirkcudbrightshire
+  country_name: United Kingdom
+
+kent:
+  name: Kent
+  abbreviation: Kent
+  country_name: United Kingdom
+
+kingston_upon_hull:
+  name: Kingston-Upon-Hull
+  abbreviation: Kingston-Upon-Hull
+  country_name: United Kingdom
+
+lanarkshire:
+  name: Lanarkshire
+  abbreviation: Lanarkshire
+  country_name: United Kingdom
+
+lancashire:
+  name: Lancashire
+  abbreviation: Lancashire
+  country_name: United Kingdom
+
+larne:
+  name: Larne
+  abbreviation: Larne
+  country_name: United Kingdom
+
+leicester_city:
+  name: Leicester City
+  abbreviation: Leicester City
+  country_name: United Kingdom
+
+leicestershire:
+  name: Leicestershire
+  abbreviation: Leicestershire
+  country_name: United Kingdom
+
+limavady:
+  name: Limavady
+  abbreviation: Limavady
+  country_name: United Kingdom
+
+lincolnshire:
+  name: Lincolnshire
+  abbreviation: Lincolnshire
+  country_name: United Kingdom
+
+lisburn:
+  name: Lisburn
+  abbreviation: Lisburn
+  country_name: United Kingdom
+
+london:
+  name: London
+  abbreviation: London
+  country_name: United Kingdom
+
+londonderry:
+  name: Londonderry
+  abbreviation: Londonderry
+  country_name: United Kingdom
+
+lothian:
+  name: Lothian
+  abbreviation: Lothian
+  country_name: United Kingdom
+
+luton:
+  name: Luton
+  abbreviation: Luton
+  country_name: United Kingdom
+
+midlothian:
+  name: Midlothian
+  abbreviation: Midlothian
+  country_name: United Kingdom
+
+morayshire:
+  name: Morayshire
+  abbreviation: Morayshire
+  country_name: United Kingdom
+
+magherafelt:
+  name: Magherafelt
+  abbreviation: Magherafelt
+  country_name: United Kingdom
+
+merseyside:
+  name: Merseyside
+  abbreviation: Merseyside
+  country_name: United Kingdom
+
+mid_glamorgan:
+  name: Mid Glamorgan
+  abbreviation: Mid Glamorgan
+  country_name: United Kingdom
+
+middlesbrough:
+  name: Middlesbrough
+  abbreviation: Middlesbrough
+  country_name: United Kingdom
+
+middlesex:
+  name: Middlesex
+  abbreviation: Middlesex
+  country_name: United Kingdom
+
+milton_keynes:
+  name: Milton Keynes
+  abbreviation: Milton Keynes
+  country_name: United Kingdom
+
+moyle:
+  name: Moyle
+  abbreviation: Moyle
+  country_name: United Kingdom
+
+nairn:
+  name: Nairn
+  abbreviation: Nairn
+  country_name: United Kingdom
+
+north_humberside:
+  name: North Humberside
+  abbreviation: North Humberside
+  country_name: United Kingdom
+
+newbury:
+  name: Newbury
+  abbreviation: Newbury
+  country_name: United Kingdom
+
+newry_and_mourne:
+  name: Newry and Mourne
+  abbreviation: Newry and Mourne
+  country_name: United Kingdom
+
+newtownabbey:
+  name: Newtownabbey
+  abbreviation: Newtownabbey
+  country_name: United Kingdom
+
+norfolk:
+  name: Norfolk
+  abbreviation: Norfolk
+  country_name: United Kingdom
+
+north_down:
+  name: North Down
+  abbreviation: North Down
+  country_name: United Kingdom
+
+north_lincolnshire:
+  name: North Lincolnshire
+  abbreviation: North Lincolnshire
+  country_name: United Kingdom
+
+north_somerset:
+  name: North Somerset
+  abbreviation: North Somerset
+  country_name: United Kingdom
+
+north_yorkshire:
+  name: North Yorkshire
+  abbreviation: North Yorkshire
+  country_name: United Kingdom
+
+northamptonshire:
+  name: Northamptonshire
+  abbreviation: Northamptonshire
+  country_name: United Kingdom
+
+northumberland:
+  name: Northumberland
+  abbreviation: Northumberland
+  country_name: United Kingdom
+
+nottingham_city:
+  name: Nottingham City
+  abbreviation: Nottingham City
+  country_name: United Kingdom
+
+nottinghamshire:
+  name: Nottinghamshire
+  abbreviation: Nottinghamshire
+  country_name: United Kingdom
+
+ntheast_lincolnshire:
+  name: Ntheast Lincolnshire
+  abbreviation: Ntheast Lincolnshire
+  country_name: United Kingdom
+
+omagh:
+  name: Omagh
+  abbreviation: Omagh
+  country_name: United Kingdom
+
+orkney:
+  name: Orkney
+  abbreviation: Orkney
+  country_name: United Kingdom
+
+oxfordshire:
+  name: Oxfordshire
+  abbreviation: Oxfordshire
+  country_name: United Kingdom
+
+peeblesshire:
+  name: Peeblesshire
+  abbreviation: Peeblesshire
+  country_name: United Kingdom
+
+perthshire:
+  name: Perthshire
+  abbreviation: Perthshire
+  country_name: United Kingdom
+
+peterborough:
+  name: Peterborough
+  abbreviation: Peterborough
+  country_name: United Kingdom
+
+plymouth:
+  name: Plymouth
+  abbreviation: Plymouth
+  country_name: United Kingdom
+
+poole:
+  name: Poole
+  abbreviation: Poole
+  country_name: United Kingdom
+
+portsmouth:
+  name: Portsmouth
+  abbreviation: Portsmouth
+  country_name: United Kingdom
+
+powys:
+  name: Powys
+  abbreviation: Powys
+  country_name: United Kingdom
+
+renfrewshire:
+  name: Renfrewshire
+  abbreviation: Renfrewshire
+  country_name: United Kingdom
+
+ross_shire:
+  name: Ross-Shire
+  abbreviation: Ross-Shire
+  country_name: United Kingdom
+
+roxburghshire:
+  name: Roxburghshire
+  abbreviation: Roxburghshire
+  country_name: United Kingdom
+
+reading:
+  name: Reading
+  abbreviation: Reading
+  country_name: United Kingdom
+
+redcar_and_cleveland:
+  name: Redcar and Cleveland
+  abbreviation: Redcar and Cleveland
+  country_name: United Kingdom
+
+rochester_upon_medway:
+  name: Rochester-upon-Medway
+  abbreviation: Rochester-upon-Medway
+  country_name: United Kingdom
+
+rutland:
+  name: Rutland
+  abbreviation: Rutland
+  country_name: United Kingdom
+
+south_humberside:
+  name: South Humberside
+  abbreviation: South Humberside
+  country_name: United Kingdom
+
+stirlingshire:
+  name: Stirlingshire
+  abbreviation: Stirlingshire
+  country_name: United Kingdom
+
+sutherland:
+  name: Sutherland
+  abbreviation: Sutherland
+  country_name: United Kingdom
+
+scotland:
+  name: Scotland
+  abbreviation: Scotland
+  country_name: United Kingdom
+
+shetland:
+  name: Shetland
+  abbreviation: Shetland
+  country_name: United Kingdom
+
+shropshire:
+  name: Shropshire
+  abbreviation: Shropshire
+  country_name: United Kingdom
+
+slough:
+  name: Slough
+  abbreviation: Slough
+  country_name: United Kingdom
+
+somerset:
+  name: Somerset
+  abbreviation: Somerset
+  country_name: United Kingdom
+
+south_glamorgan:
+  name: South Glamorgan
+  abbreviation: South Glamorgan
+  country_name: United Kingdom
+
+south_yorkshire:
+  name: South Yorkshire
+  abbreviation: South Yorkshire
+  country_name: United Kingdom
+
+southampton:
+  name: Southampton
+  abbreviation: Southampton
+  country_name: United Kingdom
+
+southend:
+  name: Southend
+  abbreviation: Southend
+  country_name: United Kingdom
+
+staffordshire:
+  name: Staffordshire
+  abbreviation: Staffordshire
+  country_name: United Kingdom
+
+south_gloucestershire:
+  name: South Gloucestershire
+  abbreviation: South Gloucestershire
+  country_name: United Kingdom
+
+stockton_on_tees:
+  name: Stockton-On-Tees
+  abbreviation: Stockton-On-Tees
+  country_name: United Kingdom
+
+strabane:
+  name: Strabane
+  abbreviation: Strabane
+  country_name: United Kingdom
+
+strathclyde:
+  name: Strathclyde
+  abbreviation: Strathclyde
+  country_name: United Kingdom
+
+suffolk:
+  name: Suffolk
+  abbreviation: Suffolk
+  country_name: United Kingdom
+
+surrey:
+  name: Surrey
+  abbreviation: Surrey
+  country_name: United Kingdom
+
+sussex:
+  name: Sussex
+  abbreviation: Sussex
+  country_name: United Kingdom
+
+tayside:
+  name: Tayside
+  abbreviation: Tayside
+  country_name: United Kingdom
+
+thamesdown:
+  name: Thamesdown
+  abbreviation: Thamesdown
+  country_name: United Kingdom
+
+thurrock:
+  name: Thurrock
+  abbreviation: Thurrock
+  country_name: United Kingdom
+
+torbay:
+  name: Torbay
+  abbreviation: Torbay
+  country_name: United Kingdom
+
+tyne_and_wear:
+  name: Tyne and Wear
+  abbreviation: Tyne and Wear
+  country_name: United Kingdom
+
+tyrone:
+  name: Tyrone
+  abbreviation: Tyrone
+  country_name: United Kingdom
+
+west_lothian:
+  name: West Lothian
+  abbreviation: West Lothian
+  country_name: United Kingdom
+
+wigtownshire:
+  name: Wigtownshire
+  abbreviation: Wigtownshire
+  country_name: United Kingdom
+
+warrington:
+  name: Warrington
+  abbreviation: Warrington
+  country_name: United Kingdom
+
+warwickshire:
+  name: Warwickshire
+  abbreviation: Warwickshire
+  country_name: United Kingdom
+
+west_glamorgan:
+  name: West Glamorgan
+  abbreviation: West Glamorgan
+  country_name: United Kingdom
+
+west_midlands:
+  name: West Midlands
+  abbreviation: West Midlands
+  country_name: United Kingdom
+
+west_sussex:
+  name: West Sussex
+  abbreviation: West Sussex
+  country_name: United Kingdom
+
+west_yorkshire:
+  name: West Yorkshire
+  abbreviation: West Yorkshire
+  country_name: United Kingdom
+
+western_isles:
+  name: Western Isles
+  abbreviation: Western Isles
+  country_name: United Kingdom
+
+wiltshire:
+  name: Wiltshire
+  abbreviation: Wiltshire
+  country_name: United Kingdom
+
+windsor_maidenhead:
+  name: Windsor & Maidenhead
+  abbreviation: Windsor & Maidenhead
+  country_name: United Kingdom
+
+wokingham:
+  name: Wokingham
+  abbreviation: Wokingham
+  country_name: United Kingdom
+
+worcestershire:
+  name: Worcestershire
+  abbreviation: Worcestershire
+  country_name: United Kingdom
+
+wrekin:
+  name: Wrekin
+  abbreviation: Wrekin
+  country_name: United Kingdom
+
+york:
+  name: York
+  abbreviation: York
+  country_name: United Kingdom
+
+yorkshire:
+  name: Yorkshire
+  abbreviation: Yorkshire
+  country_name: United Kingdom
+  
+# Canada
+alberta:
+  name: Alberta
+  abbreviation: Alberta
+  country_name: Canada
+
+british_columbia:
+  name: British Columbia
+  abbreviation: British Columbia
+  country_name: Canada
+
+manitoba:
+  name: Manitoba
+  abbreviation: Manitoba
+  country_name: Canada
+
+new_brunswick:
+  name: New Brunswick
+  abbreviation: New Brunswick
+  country_name: Canada
+
+newfoundland:
+  name: Newfoundland
+  abbreviation: Newfoundland
+  country_name: Canada
+
+northwest_territories:
+  name: Northwest Territories
+  abbreviation: Northwest Territories
+  country_name: Canada
+
+nova_scotia:
+  name: Nova Scotia
+  abbreviation: Nova Scotia
+  country_name: Canada
+
+nunavut:
+  name: Nunavut
+  abbreviation: Nunavut
+  country_name: Canada
+
+ontario:
+  name: Ontario
+  abbreviation: Ontario
+  country_name: Canada
+
+prince_edward_island:
+  name: Prince Edward Island
+  abbreviation: Prince Edward Island
+  country_name: Canada
+
+quebec:
+  name: Quebec
+  abbreviation: Quebec
+  country_name: Canada
+
+saskatchewan:
+  name: Saskatchewan
+  abbreviation: Saskatchewan
+  country_name: Canada
+
+yukon:
+  name: Yukon
+  abbreviation: Yukon
+  country_name: Canada
+  
+# Australia
+australian_capital_territory:
+  name: Australian Capital Territory
+  abbreviation: Australian Capital Territory
+  country_name: Australia
+
+new_south_wales:
+  name: New South Wales
+  abbreviation: New South Wales
+  country_name: Australia
+
+northern_territory:
+  name: Northern Territory
+  abbreviation: Northern Territory
+  country_name: Australia
+
+queensland:
+  name: Queensland
+  abbreviation: Queensland
+  country_name: Australia
+
+south_australia:
+  name: South Australia
+  abbreviation: South Australia
+  country_name: Australia
+
+tasmania:
+  name: Tasmania
+  abbreviation: Tasmania
+  country_name: Australia
+
+victoria:
+  name: Victoria
+  abbreviation: Victoria
+  country_name: Australia
+
+western_australia:
+  name: Western Australia
+  abbreviation: Western Australia
+  country_name: Australia
+  
+
+# France
+ain:
+  name: Ain
+  abbreviation: Ain
+  country_name: France
+
+aisne:
+  name: Aisne
+  abbreviation: Aisne
+  country_name: France
+
+allier:
+  name: Allier
+  abbreviation: Allier
+  country_name: France
+
+alpes_hautes:
+  name: Alpes (Hautes)
+  abbreviation: Alpes (Hautes)
+  country_name: France
+
+alpes_hte_provence:
+  name: Alpes (Hte-Provence)
+  abbreviation: Alpes (Hte-Provence)
+  country_name: France
+
+alpes_maritimes:
+  name: Alpes-Maritimes
+  abbreviation: Alpes-Maritimes
+  country_name: France
+
+ardeche:
+  name: Ardeche
+  abbreviation: Ardeche
+  country_name: France
+
+ardennes:
+  name: Ardennes
+  abbreviation: Ardennes
+  country_name: France
+
+ariege:
+  name: Ariege
+  abbreviation: Ariege
+  country_name: France
+
+aube:
+  name: Aube
+  abbreviation: Aube
+  country_name: France
+
+aude:
+  name: Aude
+  abbreviation: Aude
+  country_name: France
+
+aveyron:
+  name: Aveyron
+  abbreviation: Aveyron
+  country_name: France
+
+bas_rhin:
+  name: Bas-Rhin
+  abbreviation: Bas-Rhin
+  country_name: France
+
+bouches_du_rhone:
+  name: Bouches-du-Rhone
+  abbreviation: Bouches-du-Rhone
+  country_name: France
+
+calvados:
+  name: Calvados
+  abbreviation: Calvados
+  country_name: France
+
+cantal:
+  name: Cantal
+  abbreviation: Cantal
+  country_name: France
+
+charente:
+  name: Charente
+  abbreviation: Charente
+  country_name: France
+
+charente_maritime:
+  name: Charente-Maritime
+  abbreviation: Charente-Maritime
+  country_name: France
+
+cher:
+  name: Cher
+  abbreviation: Cher
+  country_name: France
+
+correze:
+  name: Correze
+  abbreviation: Correze
+  country_name: France
+
+corse_du_nord:
+  name: Corse-du-Nord
+  abbreviation: Corse-du-Nord
+  country_name: France
+
+corse_du_sud:
+  name: Corse-du-Sud
+  abbreviation: Corse-du-Sud
+  country_name: France
+
+cote_d_or:
+  name: Cote-d Or
+  abbreviation: Cote-d Or
+  country_name: France
+
+cotes_d_armor:
+  name: Cotes-d Armor
+  abbreviation: Cotes-d Armor
+  country_name: France
+
+creuse:
+  name: Creuse
+  abbreviation: Creuse
+  country_name: France
+
+dordogne:
+  name: Dordogne
+  abbreviation: Dordogne
+  country_name: France
+
+doubs:
+  name: Doubs
+  abbreviation: Doubs
+  country_name: France
+
+drome:
+  name: Drome
+  abbreviation: Drome
+  country_name: France
+
+essonne:
+  name: Essonne
+  abbreviation: Essonne
+  country_name: France
+
+eure:
+  name: Eure
+  abbreviation: Eure
+  country_name: France
+
+eure_et_loir:
+  name: Eure-et-Loir
+  abbreviation: Eure-et-Loir
+  country_name: France
+
+finistere:
+  name: Finistere
+  abbreviation: Finistere
+  country_name: France
+
+gard:
+  name: Gard
+  abbreviation: Gard
+  country_name: France
+
+garonne_haute:
+  name: Garonne (Haute)
+  abbreviation: Garonne (Haute)
+  country_name: France
+
+gers:
+  name: Gers
+  abbreviation: Gers
+  country_name: France
+
+gironde:
+  name: Gironde
+  abbreviation: Gironde
+  country_name: France
+
+guyane:
+  name: Guyane
+  abbreviation: Guyane
+  country_name: France
+
+haute_corse:
+  name: Haute-Corse
+  abbreviation: Haute-Corse
+  country_name: France
+
+haut_rhin:
+  name: Haut-Rhin
+  abbreviation: Haut-Rhin
+  country_name: France
+
+hauts_de_seine:
+  name: Hauts-de-Seine
+  abbreviation: Hauts-de-Seine
+  country_name: France
+
+herault:
+  name: Herault
+  abbreviation: Herault
+  country_name: France
+
+hors_france:
+  name: Hors-France
+  abbreviation: Hors-France
+  country_name: France
+
+ille_et_vilaine:
+  name: Ille-et-Vilaine
+  abbreviation: Ille-et-Vilaine
+  country_name: France
+
+indre:
+  name: Indre
+  abbreviation: Indre
+  country_name: France
+
+indre_et_loire:
+  name: Indre-et-Loire
+  abbreviation: Indre-et-Loire
+  country_name: France
+
+isere:
+  name: Isere
+  abbreviation: Isere
+  country_name: France
+
+jura:
+  name: Jura
+  abbreviation: Jura
+  country_name: France
+
+landes:
+  name: Landes
+  abbreviation: Landes
+  country_name: France
+
+loir_et_cher:
+  name: Loir-et-Cher
+  abbreviation: Loir-et-Cher
+  country_name: France
+
+loire:
+  name: Loire
+  abbreviation: Loire
+  country_name: France
+
+loire_haute:
+  name: Loire (Haute)
+  abbreviation: Loire (Haute)
+  country_name: France
+
+loire_atlantique:
+  name: Loire-Atlantique
+  abbreviation: Loire-Atlantique
+  country_name: France
+
+loiret:
+  name: Loiret
+  abbreviation: Loiret
+  country_name: France
+
+lot:
+  name: Lot
+  abbreviation: Lot
+  country_name: France
+
+lot_et_garonne:
+  name: Lot-et-Garonne
+  abbreviation: Lot-et-Garonne
+  country_name: France
+
+lozere:
+  name: Lozere
+  abbreviation: Lozere
+  country_name: France
+
+maine_et_loire:
+  name: Maine-et-Loire
+  abbreviation: Maine-et-Loire
+  country_name: France
+
+manche:
+  name: Manche
+  abbreviation: Manche
+  country_name: France
+
+marne:
+  name: Marne
+  abbreviation: Marne
+  country_name: France
+
+marne_haute:
+  name: Marne (Haute)
+  abbreviation: Marne (Haute)
+  country_name: France
+
+mayenne:
+  name: Mayenne
+  abbreviation: Mayenne
+  country_name: France
+
+meurthe_et_moselle:
+  name: Meurthe-et-Moselle
+  abbreviation: Meurthe-et-Moselle
+  country_name: France
+
+meuse:
+  name: Meuse
+  abbreviation: Meuse
+  country_name: France
+
+morbihan:
+  name: Morbihan
+  abbreviation: Morbihan
+  country_name: France
+
+moselle:
+  name: Moselle
+  abbreviation: Moselle
+  country_name: France
+
+nievre:
+  name: Nievre
+  abbreviation: Nievre
+  country_name: France
+
+nord:
+  name: Nord
+  abbreviation: Nord
+  country_name: France
+
+oise:
+  name: Oise
+  abbreviation: Oise
+  country_name: France
+
+orne:
+  name: Orne
+  abbreviation: Orne
+  country_name: France
+
+paris:
+  name: Paris
+  abbreviation: Paris
+  country_name: France
+
+pas_de_calais:
+  name: Pas-de-Calais
+  abbreviation: Pas-de-Calais
+  country_name: France
+
+puy_de_dome:
+  name: Puy-de-Dôme
+  abbreviation: Puy-de-Dôme
+  country_name: France
+
+pyrenees_hautes:
+  name: Pyrenees (Hautes)
+  abbreviation: Pyrenees (Hautes)
+  country_name: France
+
+pyrenees_atlantiques:
+  name: Pyrenees-Atlantiques
+  abbreviation: Pyrenees-Atlantiques
+  country_name: France
+
+pyrenees_orientales:
+  name: Pyrenees-Orientales
+  abbreviation: Pyrenees-Orientales
+  country_name: France
+
+rhone:
+  name: Rhone
+  abbreviation: Rhone
+  country_name: France
+
+reunion:
+  name: Réunion
+  abbreviation: Réunion
+  country_name: France
+
+saone_haute:
+  name: Saone (Haute)
+  abbreviation: Saone (Haute)
+  country_name: France
+
+saone_et_loire:
+  name: Saone-et-Loire
+  abbreviation: Saone-et-Loire
+  country_name: France
+
+sarthe:
+  name: Sarthe
+  abbreviation: Sarthe
+  country_name: France
+
+savoie:
+  name: Savoie
+  abbreviation: Savoie
+  country_name: France
+
+savoie_haute:
+  name: Savoie (Haute)
+  abbreviation: Savoie (Haute)
+  country_name: France
+
+seine_maritime:
+  name: Seine-Maritime
+  abbreviation: Seine-Maritime
+  country_name: France
+
+seine_saint_denis:
+  name: Seine-Saint-Denis
+  abbreviation: Seine-Saint-Denis
+  country_name: France
+
+seine_et_marne:
+  name: Seine-et-Marne
+  abbreviation: Seine-et-Marne
+  country_name: France
+
+sevres_deux:
+  name: Sevres (Deux)
+  abbreviation: Sevres (Deux)
+  country_name: France
+
+somme:
+  name: Somme
+  abbreviation: Somme
+  country_name: France
+
+tarn:
+  name: Tarn
+  abbreviation: Tarn
+  country_name: France
+
+tarn_et_garonne:
+  name: Tarn-et-Garonne
+  abbreviation: Tarn-et-Garonne
+  country_name: France
+
+territ_de_belfort:
+  name: Territ.-de-Belfort
+  abbreviation: Territ.-de-Belfort
+  country_name: France
+
+val_d_oise:
+  name: Val-d Oise
+  abbreviation: Val-d Oise
+  country_name: France
+
+val_de_marne:
+  name: Val-de-Marne
+  abbreviation: Val-de-Marne
+  country_name: France
+
+var:
+  name: Var
+  abbreviation: Var
+  country_name: France
+
+vaucluse:
+  name: Vaucluse
+  abbreviation: Vaucluse
+  country_name: France
+
+vendee:
+  name: Vendee
+  abbreviation: Vendee
+  country_name: France
+
+vienne:
+  name: Vienne
+  abbreviation: Vienne
+  country_name: France
+
+vienne_haute:
+  name: Vienne (Haute)
+  abbreviation: Vienne (Haute)
+  country_name: France
+
+vosges:
+  name: Vosges
+  abbreviation: Vosges
+  country_name: France
+
+yonne:
+  name: Yonne
+  abbreviation: Yonne
+  country_name: France
+
+yvelines:
+  name: Yvelines
+  abbreviation: Yvelines
+  country_name: France
+
+
+# Germany
+baden_wuerttemberg:
+  name: Baden-Wuerttemberg
+  abbreviation: Baden-Wuerttemberg
+  country_name: Germany
+
+bavaria:
+  name: Bavaria
+  abbreviation: Bavaria
+  country_name: Germany
+
+berlin:
+  name: Berlin
+  abbreviation: Berlin
+  country_name: Germany
+
+brandenburg:
+  name: Brandenburg
+  abbreviation: Brandenburg
+  country_name: Germany
+
+bremen:
+  name: Bremen
+  abbreviation: Bremen
+  country_name: Germany
+
+hamburg:
+  name: Hamburg
+  abbreviation: Hamburg
+  country_name: Germany
+
+hesse:
+  name: Hesse
+  abbreviation: Hesse
+  country_name: Germany
+
+lower_saxony:
+  name: Lower Saxony
+  abbreviation: Lower Saxony
+  country_name: Germany
+
+mecklenburg_vorpommern:
+  name: Mecklenburg-Vorpommern
+  abbreviation: Mecklenburg-Vorpommern
+  country_name: Germany
+
+north_rhine_westfalia:
+  name: North Rhine Westfalia
+  abbreviation: North Rhine Westfalia
+  country_name: Germany
+
+rhineland_palatinate:
+  name: Rhineland Palatinate
+  abbreviation: Rhineland Palatinate
+  country_name: Germany
+
+saarland:
+  name: Saarland
+  abbreviation: Saarland
+  country_name: Germany
+
+sachsen_anhalt:
+  name: Sachsen-Anhalt
+  abbreviation: Sachsen-Anhalt
+  country_name: Germany
+
+saxony:
+  name: Saxony
+  abbreviation: Saxony
+  country_name: Germany
+
+schleswig_holstein:
+  name: Schleswig-Holstein
+  abbreviation: Schleswig-Holstein
+  country_name: Germany
+
+thuringia:
+  name: Thuringia
+  abbreviation: Thuringia
+  country_name: Germany
+  
+# Italy
+abruzzo:
+  name: Abruzzo
+  abbreviation: Abruzzo
+  country_name: Italy
+
+aosta_valley:
+  name: Aosta Valley
+  abbreviation: Aosta Valley
+  country_name: Italy
+
+apulia:
+  name: Apulia
+  abbreviation: Apulia
+  country_name: Italy
+
+basilicata:
+  name: Basilicata
+  abbreviation: Basilicata
+  country_name: Italy
+
+calabria:
+  name: Calabria
+  abbreviation: Calabria
+  country_name: Italy
+
+campania:
+  name: Campania
+  abbreviation: Campania
+  country_name: Italy
+
+emilia_romagna:
+  name: Emilia-Romagna
+  abbreviation: Emilia-Romagna
+  country_name: Italy
+
+friuli_venezia_giulia:
+  name: Friuli-Venezia Giulia
+  abbreviation: Friuli-Venezia Giulia
+  country_name: Italy
+
+lazio:
+  name: Lazio
+  abbreviation: Lazio
+  country_name: Italy
+
+liguria:
+  name: Liguria
+  abbreviation: Liguria
+  country_name: Italy
+
+lombardy:
+  name: Lombardy
+  abbreviation: Lombardy
+  country_name: Italy
+
+marche:
+  name: Marche
+  abbreviation: Marche
+  country_name: Italy
+
+molise:
+  name: Molise
+  abbreviation: Molise
+  country_name: Italy
+
+piedmont:
+  name: Piedmont
+  abbreviation: Piedmont
+  country_name: Italy
+
+sardinia:
+  name: Sardinia
+  abbreviation: Sardinia
+  country_name: Italy
+
+sicily:
+  name: Sicily
+  abbreviation: Sicily
+  country_name: Italy
+
+trentino_alto_adige_s_dtirol:
+  name: Trentino-Alto Adige/Südtirol
+  abbreviation: Trentino-Alto Adige/Südtirol
+  country_name: Italy
+
+tuscany:
+  name: Tuscany
+  abbreviation: Tuscany
+  country_name: Italy
+
+umbria:
+  name: Umbria
+  abbreviation: Umbria
+  country_name: Italy
+
+veneto:
+  name: Veneto
+  abbreviation: Veneto
+  country_name: Italy
+
+# South Africa
+south_africa:
+  name: South Africa
+  abbreviation: South Africa
+  country_name: South Africa
+
+capetown:
+  name: Capetown
+  abbreviation: Capetown
+  country_name: South Africa
+
+eastern_cape:
+  name: Eastern Cape
+  abbreviation: Eastern Cape
+  country_name: South Africa
+
+freestate:
+  name: Freestate
+  abbreviation: Freestate
+  country_name: South Africa
+
+gauteng:
+  name: Gauteng
+  abbreviation: Gauteng
+  country_name: South Africa
+
+johannesburg:
+  name: Johannesburg
+  abbreviation: Johannesburg
+  country_name: South Africa
+
+kwazulu_natal:
+  name: Kwazulu/Natal
+  abbreviation: Kwazulu/Natal
+  country_name: South Africa
+
+mpumalanga:
+  name: Mpumalanga
+  abbreviation: Mpumalanga
+  country_name: South Africa
+
+north_west:
+  name: North-West
+  abbreviation: North-West
+  country_name: South Africa
+
+northern_cape:
+  name: Northern Cape
+  abbreviation: Northern Cape
+  country_name: South Africa
+
+northern_province:
+  name: Northern Province
+  abbreviation: Northern Province
+  country_name: South Africa
+
+transvaal:
+  name: Transvaal
+  abbreviation: Transvaal
+  country_name: South Africa
+
+western_cape:
+  name: Western Cape
+  abbreviation: Western Cape
+  country_name: South Africa
+
+# United Arab Emirates
+abu_dhabi:
+  name: Abu Dhabi
+  abbreviation: Abu Dhabi
+  country_name: United Arab Emirates
+
+ajman:
+  name: Ajman
+  abbreviation: Ajman
+  country_name: United Arab Emirates
+
+al_fujayrah:
+  name: Al Fujayrah
+  abbreviation: Al Fujayrah
+  country_name: United Arab Emirates
+
+dubayy:
+  name: Dubayy
+  abbreviation: Dubayy
+  country_name: United Arab Emirates
+
+ra_s_al_khaymah:
+  name: Ra's al Khaymah
+  abbreviation: Ra's al Khaymah
+  country_name: United Arab Emirates
+
+sharjah:
+  name: Sharjah
+  abbreviation: Sharjah
+  country_name: United Arab Emirates
+
+umm_al_qaywayn:
+  name: Umm al Qaywayn
+  abbreviation: Umm al Qaywayn
+  country_name: United Arab Emirates
+
+# Mexico
+aguascalientes:
+  name: Aguascalientes
+  abbreviation: Aguascalientes
+  country_name: Mexico
+
+baja_california_nort:
+  name: Baja California Nort
+  abbreviation: Baja California Nort
+  country_name: Mexico
+
+baja_california_sur:
+  name: Baja California Sur
+  abbreviation: Baja California Sur
+  country_name: Mexico
+
+campeche:
+  name: Campeche
+  abbreviation: Campeche
+  country_name: Mexico
+
+chiahuahua:
+  name: Chiahuahua
+  abbreviation: Chiahuahua
+  country_name: Mexico
+
+chiapas:
+  name: Chiapas
+  abbreviation: Chiapas
+  country_name: Mexico
+
+coahuila:
+  name: Coahuila
+  abbreviation: Coahuila
+  country_name: Mexico
+
+colima:
+  name: Colima
+  abbreviation: Colima
+  country_name: Mexico
+
+default_region:
+  name: Default Region
+  abbreviation: Default Region
+  country_name: Mexico
+
+distrito_federal:
+  name: Distrito Federal
+  abbreviation: Distrito Federal
+  country_name: Mexico
+
+durango:
+  name: Durango
+  abbreviation: Durango
+  country_name: Mexico
+
+estado_de_mexico:
+  name: Estado de Mexico
+  abbreviation: Estado de Mexico
+  country_name: Mexico
+
+guanajuato:
+  name: Guanajuato
+  abbreviation: Guanajuato
+  country_name: Mexico
+
+guerrero:
+  name: Guerrero
+  abbreviation: Guerrero
+  country_name: Mexico
+
+hidalgo:
+  name: Hidalgo
+  abbreviation: Hidalgo
+  country_name: Mexico
+
+jalisco:
+  name: Jalisco
+  abbreviation: Jalisco
+  country_name: Mexico
+
+michoacan:
+  name: Michoacan
+  abbreviation: Michoacan
+  country_name: Mexico
+
+morelos:
+  name: Morelos
+  abbreviation: Morelos
+  country_name: Mexico
+
+nayarit:
+  name: Nayarit
+  abbreviation: Nayarit
+  country_name: Mexico
+
+nuevo_leon:
+  name: Nuevo Leon
+  abbreviation: Nuevo Leon
+  country_name: Mexico
+
+oaxaca:
+  name: Oaxaca
+  abbreviation: Oaxaca
+  country_name: Mexico
+
+puebla:
+  name: Puebla
+  abbreviation: Puebla
+  country_name: Mexico
+
+queretaro:
+  name: Queretaro
+  abbreviation: Queretaro
+  country_name: Mexico
+
+quintanaroo:
+  name: Quintanaroo
+  abbreviation: Quintanaroo
+  country_name: Mexico
+
+san_luis_potosi:
+  name: San Luis Potosi
+  abbreviation: San Luis Potosi
+  country_name: Mexico
+
+sinaloa:
+  name: Sinaloa
+  abbreviation: Sinaloa
+  country_name: Mexico
+
+sonora:
+  name: Sonora
+  abbreviation: Sonora
+  country_name: Mexico
+
+tabasco:
+  name: Tabasco
+  abbreviation: Tabasco
+  country_name: Mexico
+
+tamaulipas:
+  name: Tamaulipas
+  abbreviation: Tamaulipas
+  country_name: Mexico
+
+tlaxacala:
+  name: Tlaxacala
+  abbreviation: Tlaxacala
+  country_name: Mexico
+
+veracruz:
+  name: Veracruz
+  abbreviation: Veracruz
+  country_name: Mexico
+
+yucatan:
+  name: Yucatan
+  abbreviation: Yucatan
+  country_name: Mexico
+
+zacatecas:
+  name: Zacatecas
+  abbreviation: Zacatecas
+  country_name: Mexico
+  
+# Finland
+ahvenanmaa:
+  name: Ahvenanmaa
+  abbreviation: Ahvenanmaa
+  country_name: Finland
+
+etela_suomi:
+  name: Etelä-Suomi
+  abbreviation: Etelä-Suomi
+  country_name: Finland
+
+ita_suomi:
+  name: Itä-Suomi
+  abbreviation: Itä-Suomi
+  country_name: Finland
+
+lappi:
+  name: Lappi
+  abbreviation: Lappi
+  country_name: Finland
+
+lansi_suomi:
+  name: Länsi-Suomi
+  abbreviation: Länsi-Suomi
+  country_name: Finland
+
+oulu:
+  name: Oulu
+  abbreviation: Oulu
+  country_name: Finland
+
+# India
+andamans_nicobar:
+  name: Andamans/Nicobar
+  abbreviation: Andamans/Nicobar
+  country_name: India
+
+andhra_pradesh:
+  name: Andhra Pradesh
+  abbreviation: Andhra Pradesh
+  country_name: India
+
+arunachal_pradesh:
+  name: Arunachal Pradesh
+  abbreviation: Arunachal Pradesh
+  country_name: India
+
+assam:
+  name: Assam
+  abbreviation: Assam
+  country_name: India
+
+bengal:
+  name: Bengal
+  abbreviation: Bengal
+  country_name: India
+
+bihar:
+  name: Bihar
+  abbreviation: Bihar
+  country_name: India
+
+chandigarh:
+  name: Chandigarh
+  abbreviation: Chandigarh
+  country_name: India
+
+dadra_and_nagar_have:
+  name: Dadra and Nagar Have
+  abbreviation: Dadra and Nagar Have
+  country_name: India
+
+daman_and_diu:
+  name: Daman and Diu
+  abbreviation: Daman and Diu
+  country_name: India
+
+goa:
+  name: Goa
+  abbreviation: Goa
+  country_name: India
+
+gujarat:
+  name: Gujarat
+  abbreviation: Gujarat
+  country_name: India
+
+haryana:
+  name: Haryana
+  abbreviation: Haryana
+  country_name: India
+
+himachal_pradesh:
+  name: Himachal Pradesh
+  abbreviation: Himachal Pradesh
+  country_name: India
+
+jammu_and_kashmir:
+  name: Jammu & Kashmir
+  abbreviation: Jammu & Kashmir
+  country_name: India
+
+karnataka:
+  name: Karnataka
+  abbreviation: Karnataka
+  country_name: India
+
+kerala:
+  name: Kerala
+  abbreviation: Kerala
+  country_name: India
+
+ladakh:
+  name: Ladakh
+  abbreviation: Ladakh
+  country_name: India
+
+lakshadweep:
+  name: Lakshadweep
+  abbreviation: Lakshadweep
+  country_name: India
+
+madhya_pradesh:
+  name: Madhya Pradesh
+  abbreviation: Madhya Pradesh
+  country_name: India
+
+maharashtra:
+  name: Maharashtra
+  abbreviation: Maharashtra
+  country_name: India
+
+manipur:
+  name: Manipur
+  abbreviation: Manipur
+  country_name: India
+
+meghalaya:
+  name: Meghalaya
+  abbreviation: Meghalaya
+  country_name: India
+
+mizoram:
+  name: Mizoram
+  abbreviation: Mizoram
+  country_name: India
+
+nagaland:
+  name: Nagaland
+  abbreviation: Nagaland
+  country_name: India
+
+new_delhi:
+  name: New Delhi
+  abbreviation: New Delhi
+  country_name: India
+
+orrisa:
+  name: Orrisa
+  abbreviation: Orrisa
+  country_name: India
+
+pondicherry:
+  name: Pondicherry
+  abbreviation: Pondicherry
+  country_name: India
+
+punjab:
+  name: Punjab
+  abbreviation: Punjab
+  country_name: India
+
+rajasthan:
+  name: Rajasthan
+  abbreviation: Rajasthan
+  country_name: India
+
+sikkim:
+  name: Sikkim
+  abbreviation: Sikkim
+  country_name: India
+
+tamil_nadu:
+  name: Tamil Nadu
+  abbreviation: Tamil Nadu
+  country_name: India
+
+tripura:
+  name: Tripura
+  abbreviation: Tripura
+  country_name: India
+
+uttar_pradesh:
+  name: Uttar Pradesh
+  abbreviation: Uttar Pradesh
+  country_name: India
+
+west_bengal:
+  name: West Bengal
+  abbreviation: West Bengal
+  country_name: India
+
+# Indonesia
+bali_bali:
+  name: Bali Bali
+  abbreviation: Bali Bali
+  country_name: Indonesia
+
+bengkulu_bengkulu:
+  name: Bengkulu Bengkulu
+  abbreviation: Bengkulu Bengkulu
+  country_name: Indonesia
+
+di_aceh_aceh:
+  name: DI Aceh Aceh
+  abbreviation: DI Aceh Aceh
+  country_name: Indonesia
+
+di_yogyakarta_yogyak:
+  name: DI Yogyakarta Yogyak
+  abbreviation: DI Yogyakarta Yogyak
+  country_name: Indonesia
+
+dki_jakarta_jakarta:
+  name: DKI Jakarta Jakarta
+  abbreviation: DKI Jakarta Jakarta
+  country_name: Indonesia
+
+irian_jaya_irian_jay:
+  name: Irian Jaya Irian Jay
+  abbreviation: Irian Jaya Irian Jay
+  country_name: Indonesia
+
+jambi_jambi:
+  name: Jambi Jambi
+  abbreviation: Jambi Jambi
+  country_name: Indonesia
+
+jawa_barat_west_java:
+  name: Jawa Barat West Java
+  abbreviation: Jawa Barat West Java
+  country_name: Indonesia
+
+jawa_tengah_central:
+  name: Jawa Tengah Central
+  abbreviation: Jawa Tengah Central
+  country_name: Indonesia
+
+jawa_timur_east_java:
+  name: Jawa Timur East Java
+  abbreviation: Jawa Timur East Java
+  country_name: Indonesia
+
+kalimantan_barat_wes:
+  name: Kalimantan Barat Wes
+  abbreviation: Kalimantan Barat Wes
+  country_name: Indonesia
+
+kalimantan_selatan_s:
+  name: Kalimantan Selatan S
+  abbreviation: Kalimantan Selatan S
+  country_name: Indonesia
+
+kalimantan_tengah_ce:
+  name: Kalimantan Tengah Ce
+  abbreviation: Kalimantan Tengah Ce
+  country_name: Indonesia
+
+kalimantan_timur_eas:
+  name: Kalimantan Timur Eas
+  abbreviation: Kalimantan Timur Eas
+  country_name: Indonesia
+
+lampung_lampung:
+  name: Lampung Lampung
+  abbreviation: Lampung Lampung
+  country_name: Indonesia
+
+maluku_maluku:
+  name: Maluku Maluku
+  abbreviation: Maluku Maluku
+  country_name: Indonesia
+
+nusa_tenggara_barat:
+  name: Nusa Tenggara Barat
+  abbreviation: Nusa Tenggara Barat
+  country_name: Indonesia
+
+nusa_tenggara_timur:
+  name: Nusa Tenggara Timur
+  abbreviation: Nusa Tenggara Timur
+  country_name: Indonesia
+
+riau_riau:
+  name: Riau Riau
+  abbreviation: Riau Riau
+  country_name: Indonesia
+
+sulawesi_selatan_sou:
+  name: Sulawesi Selatan Sou
+  abbreviation: Sulawesi Selatan Sou
+  country_name: Indonesia
+
+sulawesi_tengah_cent:
+  name: Sulawesi Tengah Cent
+  abbreviation: Sulawesi Tengah Cent
+  country_name: Indonesia
+
+sulawesi_tenggara_so:
+  name: Sulawesi Tenggara So
+  abbreviation: Sulawesi Tenggara So
+  country_name: Indonesia
+
+sulawesi_utara_north:
+  name: Sulawesi Utara North
+  abbreviation: Sulawesi Utara North
+  country_name: Indonesia
+
+sumatera_barat_west:
+  name: Sumatera Barat West
+  abbreviation: Sumatera Barat West
+  country_name: Indonesia
+
+sumatera_selatan_sou:
+  name: Sumatera Selatan Sou
+  abbreviation: Sumatera Selatan Sou
+  country_name: Indonesia
+
+sumatera_utara_north:
+  name: Sumatera Utara North
+  abbreviation: Sumatera Utara North
+  country_name: Indonesia
+
+timor_timur_east_tim:
+  name: Timor Timur East Tim
+  abbreviation: Timor Timur East Tim
+  country_name: Indonesia
+
+# Sweden
+blekinge_lan:
+  name: Blekinge Län
+  abbreviation: Blekinge Län
+  country_name: Sweden
+
+dalarnas_lan:
+  name: Dalarnas Län
+  abbreviation: Dalarnas Län
+  country_name: Sweden
+
+gotlands_lan:
+  name: Gotlands Län
+  abbreviation: Gotlands Län
+  country_name: Sweden
+
+gavleborgs_lan:
+  name: Gävleborgs Län
+  abbreviation: Gävleborgs Län
+  country_name: Sweden
+
+hallands_lan:
+  name: Hallands Län
+  abbreviation: Hallands Län
+  country_name: Sweden
+
+jamtlands_lan:
+  name: Jämtlands Län
+  abbreviation: Jämtlands Län
+  country_name: Sweden
+
+jonkopings_lan:
+  name: Jönköpings Län
+  abbreviation: Jönköpings Län
+  country_name: Sweden
+
+kalmar_lan:
+  name: Kalmar Län
+  abbreviation: Kalmar Län
+  country_name: Sweden
+
+kronobergs_lan:
+  name: Kronobergs Län
+  abbreviation: Kronobergs Län
+  country_name: Sweden
+
+norrbottens_lan:
+  name: Norrbottens Län
+  abbreviation: Norrbottens Län
+  country_name: Sweden
+
+skane_lan:
+  name: Skåne Län
+  abbreviation: Skåne Län
+  country_name: Sweden
+
+stockholms_lan:
+  name: Stockholms Län
+  abbreviation: Stockholms Län
+  country_name: Sweden
+
+sodermanlands_lan:
+  name: Södermanlands Län
+  abbreviation: Södermanlands Län
+  country_name: Sweden
+
+uppsala_lan:
+  name: Uppsala Län
+  abbreviation: Uppsala Län
+  country_name: Sweden
+
+varmlands_lan:
+  name: Värmlands Län
+  abbreviation: Värmlands Län
+  country_name: Sweden
+
+vasterbottens_lan:
+  name: Västerbottens Län
+  abbreviation: Västerbottens Län
+  country_name: Sweden
+
+vasternorrlands_lan:
+  name: Västernorrlands Län
+  abbreviation: Västernorrlands Län
+  country_name: Sweden
+
+vastmanlands_lan:
+  name: Västmanlands Län
+  abbreviation: Västmanlands Län
+  country_name: Sweden
+
+vastra_gotalands_lan:
+  name: Västra Götalands Län
+  abbreviation: Västra Götalands Län
+  country_name: Sweden
+
+orebro_lan:
+  name: Örebro Län
+  abbreviation: Örebro Län
+  country_name: Sweden
+
+ostergotlands_lan:
+  name: Östergötlands Län
+  abbreviation: Östergötlands Län
+  country_name: Sweden
+

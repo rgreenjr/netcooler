@@ -1,0 +1,20 @@
+development:
+  adapter:  mysql
+  database: netcooler_development
+  username: rgreen
+  password: pass
+  encoding: utf8
+  
+test:
+  adapter:  mysql
+  database: netcooler_test
+  username: rgreen
+  password: pass
+  encoding: utf8
+
+production:
+  adapter:  mysql
+  database: netcooler_production
+  username: rgreen
+  password: pass
+  encoding: utf8

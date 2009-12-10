@@ -1,0 +1,6748 @@
+company_1:
+  id:           1
+  name:         Wal-Mart
+  industry:     Retail
+  city:         Bentonville
+  state:        Arkansas
+
+company_2:
+  id:           2
+  name:         Exxon Mobil
+  industry:     Energy
+  city:         Irving
+  state:        Texas
+
+company_3:
+  id:           3
+  name:         General Motors
+  industry:     Manufacturing
+  city:         Detroit
+  state:        Michigan
+
+company_4:
+  id:           4
+  name:         Ford Motor
+  industry:     Manufacturing
+  city:         Detroit
+  state:        Michigan
+
+company_5:
+  id:           5
+  name:         Enron
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_6:
+  id:           6
+  name:         General Electric
+  industry:     Manufacturing
+  city:         Fairfield
+  state:        Connecticut
+
+company_7:
+  id:           7
+  name:         Citigroup
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_8:
+  id:           8
+  name:         ChevronTexaco
+  industry:     Energy
+  city:         San Ramon
+  state:        California
+
+company_9:
+  id:           9
+  name:         IBM
+  industry:     Technology
+  city:         Armonk
+  state:        New York
+
+company_10:
+  id:           10
+  name:         Philip Morris
+  industry:     Agriculture
+  city:         London
+  state:        International
+
+company_11:
+  id:           11
+  name:         Verizon Communications
+  industry:     Telecommunications
+  city:         New York
+  state:        New York
+
+company_12:
+  id:           12
+  name:         American International Group
+  industry:     Insurance
+  city:         New York
+  state:        New York
+
+company_13:
+  id:           13
+  name:         American Electric Power
+  industry:     Energy
+  city:         Columbus
+  state:        Ohio
+
+company_14:
+  id:           14
+  name:         Duke Energy
+  industry:     Energy
+  city:         Charlotte
+  state:        North Carolina
+
+company_15:
+  id:           15
+  name:         AT&T
+  industry:     Telecommunications
+  city:         San Antonio
+  state:        Texas
+
+company_16:
+  id:           16
+  name:         Boeing
+  industry:     Manufacturing
+  city:         Chicago
+  state:        Illinois
+
+company_17:
+  id:           17
+  name:         El Paso
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_18:
+  id:           18
+  name:         Home Depot
+  industry:     Retail
+  city:         Vinnings
+  state:        Georgia
+
+company_19:
+  id:           19
+  name:         Bank of America Corp.
+  industry:     Finance
+  city:         San Francisco
+  state:        California
+
+company_20:
+  id:           20
+  name:         Fannie Mae
+  industry:     Finance
+  city:         Washington
+  state:        District of Columbia
+
+company_21:
+  id:           21
+  name:         J.P. Morgan Chase & Co.
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_22:
+  id:           22
+  name:         Kroger
+  industry:     Retail
+  city:         Cincinnati
+  state:        Ohio
+
+company_23:
+  id:           23
+  name:         Cardinal Health
+  industry:     Healthcare
+  city:         Dublin
+  state:        Ohio
+
+company_24:
+  id:           24
+  name:         Merck
+  industry:     Healthcare
+  city:         Whitehouse Station
+  state:        New Jersey
+
+company_25:
+  id:           25
+  name:         State Farm Insurance Cos.
+  industry:     Insurance
+  city:         Bloomington
+  state:        Illinois
+
+company_26:
+  id:           26
+  name:         Reliant Energy
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_27:
+  id:           27
+  name:         SBC Communications
+  industry:     Telecommunications
+  city:         San Antonio
+  state:        Texas
+
+company_28:
+  id:           28
+  name:         Hewlett-Packard
+  industry:     Technology
+  city:         Palo Alto
+  state:        California
+
+company_29:
+  id:           29
+  name:         Morgan Stanley Dean Witter
+  industry:     Finance
+  city:        New York
+  state:        New York
+
+company_30:
+  id:           30
+  name:         Dynegy
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_31:
+  id:           31
+  name:         McKesson
+  industry:     Healthcare
+  city:         San Francisco
+  state:        California
+
+company_32:
+  id:           32
+  name:         Sears Roebuck
+  industry:     Retail
+  city:         Chicago
+  state:        Illinois
+
+company_33:
+  id:           33
+  name:         Aquila
+  industry:     Energy
+  city:         Kansas City
+  state:        Missouri
+
+company_34:
+  id:           34
+  name:         Target
+  industry:     Retail
+  city:         Minneapolis
+  state:        Minnesota
+
+company_35:
+  id:           35
+  name:         Procter & Gamble
+  industry:     Consumer Goods
+  city:         Cincinnati
+  state:        Ohio
+
+company_36:
+  id:           36
+  name:         Merrill Lynch
+  industry:     Finance
+  city:        New York
+  state:        New York
+
+company_37:
+  id:           37
+  name:         AOL Time Warner
+  industry:     Telecommunications
+  city:         Dulles
+  state:        Virginia
+
+company_38:
+  id:           38
+  name:         Albertson's
+  industry:     Retail
+  city:         Boise
+  state:        Idaho
+
+company_39:
+  id:           39
+  name:         Berkshire Hathaway
+  industry:     Insurance
+  city:         Omaha
+  state:        Nebraska
+
+company_40:
+  id:           40
+  name:         Kmart
+  industry:     Retail
+  city:         Chicago
+  state:        Illinois
+
+company_41:
+  id:           41
+  name:         Freddie Mac
+  industry:     Finance
+  city:         McLean
+  state:        Virginia
+
+company_43:
+  id:           43
+  name:         Marathon Oil
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_44:
+  id:           44
+  name:         Costco Wholesale
+  industry:     Retail
+  city:         Seattle
+  state:        Washington
+
+company_45:
+  id:           45
+  name:         Safeway
+  industry:     Retail
+  city:         Pleasanton
+  state:        California
+
+company_46:
+  id:           46
+  name:         Compaq Computer
+  industry:     Technology
+  city:         Houston
+  state:        Texas
+
+company_47:
+  id:           47
+  name:         Johnson & Johnson
+  industry:     Healthcare
+  city:         Brunswick
+  state:        New Jersey
+
+company_48:
+  id:           48
+  name:         Conoco
+  industry:     Energy
+  city:         Ponca City
+  state:        Oklahoma
+
+company_49:
+  id:           49
+  name:         Pfizer
+  industry:     Healthcare
+  city:        New York
+  state:        New York
+
+company_50:
+  id:           50
+  name:         J.C. Penney
+  industry:     Retail
+  city:         Plano
+  state:        Texas
+
+company_51:
+  id:           51
+  name:         MetLife
+  industry:     Insurance
+  city:        New York
+  state:        New York
+
+company_52:
+  id:           52
+  name:         Mirant
+  industry:     Energy
+  city:         Atlanta
+  state:        Georgia
+
+company_53:
+  id:           53
+  name:         Dell Computer
+  industry:     Technology
+  city:         Round Rock
+  state:        Texas
+
+company_54:
+  id:           54
+  name:         Goldman Sachs Group
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_55:
+  id:           55
+  name:         United Parcel Service
+  industry:     Transportation
+  city:         Sandy Springs
+  state:        Georgia
+
+company_56:
+  id:           56
+  name:         Motorola
+  industry:     Technology
+  city:      Schaumburg
+  state:        Illinois
+
+company_57:
+  id:           57
+  name:         Allstate
+  industry:     Insurance
+  city:         Northbrook
+  state:        Illinois
+
+company_58:
+  id:           58
+  name:         TXU
+  industry:     Energy
+  city:         Dallas
+  state:        Texas
+
+company_59:
+  id:           59
+  name:         United Technologies
+  industry:     Manufacturing
+  city:         Hartford
+  state:        Connecticut
+
+company_60:
+  id:           60
+  name:         Dow Chemical
+  industry:     Manufacturing
+  city:         Midland
+  state:        Michigan
+
+company_61:
+  id:           61
+  name:         ConAgra
+  industry:     Consumer Goods
+  city:         Omaha
+  state:        Nebraska
+
+company_62:
+  id:           62
+  name:         Prudential Financial
+  industry:     Finance
+  city:         Newark
+  state:        New Jersey
+
+company_63:
+  id:           63
+  name:         PepsiCo
+  industry:     Consumer Goods
+  city:         Purchase
+  state:        New York
+
+company_64:
+  id:           64
+  name:         Wells Fargo
+  industry:     Finance
+  city:         San Francisco
+  state:        California
+
+company_65:
+  id:           65
+  name:         Intel
+  industry:     Technology
+  city:         Santa Clara
+  state:        California
+
+company_66:
+  id:           66
+  name:         International Paper
+  industry:     Manufacturing
+  city:         Memphis
+  state:        Tennessee
+
+company_67:
+  id:           67
+  name:         Delphi
+  industry:     Manufacturing
+  city:         Troy
+  state:        Michigan
+
+company_68:
+  id:           68
+  name:         Sprint
+  industry:     Telecommunications
+  city:         Reston
+  state:        Virginia
+
+company_69:
+  id:           69
+  name:         New York Life Insurance
+  industry:     Insurance
+  city:         New York
+  state:        New York
+
+company_70:
+  id:           70
+  name:         E.I. du Pont de Nemours
+  industry:     Manufacturing
+  city:         Wilmington
+  state:        Delaware
+
+company_71:
+  id:           71
+  name:         Georgia-Pacific
+  industry:     Manufacturing
+  city:         Atlanta
+  state:        Georgia
+
+company_72:
+  id:           72
+  name:         Microsoft
+  industry:     Technology
+  city:         Redmond
+  state:        Washington
+
+company_73:
+  id:           73
+  name:         Walt Disney
+  industry:     Entertainment
+  city:         Burbank
+  state:        California
+
+company_74:
+  id:           74
+  name:         Aetna
+  industry:     Insurance
+  city:         Hartford
+  state:        Connecticut
+
+company_75:
+  id:           75
+  name:         Ingram Micro
+  industry:     Technology
+  city:         Santa Ana
+  state:        California
+
+company_76:
+  id:           76
+  name:         Lucent Technologies
+  industry:     Technology
+  city:         Murray Hill
+  state:        New Jersey
+
+company_77:
+  id:           77
+  name:         Lockheed Martin
+  industry:     Manufacturing
+  city:         Bethesda
+  state:        Maryland
+
+company_78:
+  id:           78
+  name:         Walgreen
+  industry:     Retail
+  city:         Deerfield
+  state:        Illinois
+
+company_79:
+  id:           79
+  name:         Bank One Corp.
+  industry:     Finance
+  city:         Chicago
+  state:        Illinois
+
+company_80:
+  id:           80
+  name:         TIAA-CREF
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_81:
+  id:           81
+  name:         Phillips Petroleum
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_82:
+  id:           82
+  name:         BellSouth
+  industry:     Telecommunications
+  city:         Atlanta
+  state:        Georgia
+
+company_83:
+  id:           83
+  name:         Honeywell International
+  industry:     Manufacturing
+  city:         Morristown
+  state:        New Jersey
+
+company_84:
+  id:           84
+  name:         UnitedHealth Group
+  industry:     Healthcare
+  city:         Minnetonka
+  state:        Minnesota
+
+company_85:
+  id:           85
+  name:         Viacom
+  industry:     Entertainment
+  city:         New York
+  state:        New York
+
+company_86:
+  id:           86
+  name:         Supervalu
+  industry:     Retail
+  city:         Eden Prarie
+  state:        Minnesota
+
+company_87:
+  id:           87
+  name:         PG&E Corp.
+  industry:     Energy
+  city:         San Francisco
+  state:        California
+
+company_88:
+  id:           88
+  name:         Alcoa
+  industry:     Manufacturing
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_89:
+  id:           89
+  name:         American Express
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_90:
+  id:           90
+  name:         Wachovia Corp.
+  industry:     Finance
+  city:         Charlotte
+  state:        North Carolina
+
+company_91:
+  id:           91
+  name:         Lehman Brothers Holdings
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_92:
+  id:           92
+  name:         Cisco Systems
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_93:
+  id:           93
+  name:         CVS
+  industry:     Retail
+  city:         Woonsocket
+  state:        Rhode Island
+
+company_94:
+  id:           94
+  name:         Lowe's
+  industry:     Retail
+  city:         Mooresville
+  state:        North Carolina
+
+company_95:
+  id:           95
+  name:         Sysco
+  industry:     Food Services
+  city:         Houston
+  state:        Texas
+
+company_96:
+  id:           96
+  name:         Bristol-Myers Squibb
+  industry:     Healthcare
+  city:         New York
+  state:        New York
+
+company_97:
+  id:           97
+  name:         Electronic Data Systems
+  industry:     Technology
+  city:         Plano
+  state:        Texas
+
+company_98:
+  id:           98
+  name:         Caterpillar
+  industry:     Manufacturing
+  city:         Peoria
+  state:        Illinois
+
+company_99:
+  id:           99
+  name:         Coca-Cola
+  industry:     Consumer Goods
+  city:         Atlanta
+  state:        Georgia
+
+company_100:
+  id:           100
+  name:         Archer Daniels Midland
+  industry:     Other
+  city:         Minneapolis
+  state:        Minnesota
+
+company_101:
+  id:           101
+  name:         AutoNation
+  industry:     Retail
+  city:         Fort Lauderdale
+  state:        Florida
+
+company_102:
+  id:           102
+  name:         Qwest Communications
+  industry:     Telecommunications
+  city:         Denver
+  state:        Colorado
+
+company_103:
+  id:           103
+  name:         FedEx
+  industry:     Other
+  city:         Memphis
+  state:        Tennessee
+
+company_104:
+  id:           104
+  name:         Mass. Mutual Life Insurance
+  industry:     Insurance
+  city:         Springfield
+  state:        Massachusetts
+
+company_105:
+  id:           105
+  name:         Pharmacia
+  industry:     Other
+  city:         Stockholm
+  state:        International
+
+company_106:
+  id:           106
+  name:         FleetBoston Financial
+  industry:     Finance
+  city:         Boston
+  state:        Massachusetts
+
+company_107:
+  id:           107
+  name:         Cigna
+  industry:     Insurance
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_108:
+  id:           108
+  name:         AMR
+  industry:     Other
+  city:         Fort Worth
+  state:        Texas
+
+company_109:
+  id:           109
+  name:         Loews
+  industry:     Retail
+  city:         New York
+  state:        New York
+
+company_110:
+  id:           110
+  name:         Solectron
+  industry:     Other
+  city:         Milpitas
+  state:        California
+
+company_111:
+  id:           111
+  name:         Johnson Controls
+  industry:     Other
+  city:         Milwaukee
+  state:        Wisconsin
+
+company_112:
+  id:           112
+  name:         Sun Microsystems
+  industry:     Technology
+  city:         Santa Clara
+  state:        California
+
+company_113:
+  id:           113
+  name:         HCA
+  industry:     Healthcare
+  city:         Nashville
+  state:        Tennessee
+
+company_114:
+  id:           114
+  name:         Visteon
+  industry:     Manufacturing
+  city:         Detroit
+  state:        Michigan
+
+company_115:
+  id:           115
+  name:         Sara Lee
+  industry:     Other
+  city:         Downers Grove
+  state:        Illinois
+
+company_116:
+  id:           116
+  name:         Washington Mutual
+  industry:     Insurance
+  city:         Seattle
+  state:        Washington
+
+company_117:
+  id:           117
+  name:         Tech Data
+  industry:     Technology
+  city:         Clearwater
+  state:        Florida
+
+company_118:
+  id:           118
+  name:         Federated Department Stores
+  industry:     Retail
+  city:         Cincinnati
+  state:       Ohio
+
+company_119:
+  id:           119
+  name:         Raytheon
+  industry:     Manufacturing
+  city:         Waltham
+  state:        Massachusetts
+
+company_120:
+  id:           120
+  name:         Xerox
+  industry:     Telecommunications
+  city:         Rochester
+  state:        New York
+
+company_121:
+  id:           121
+  name:         U.S. Bancorp
+  industry:     Finance
+  city:         Portland
+  state:        Oregon
+
+company_123:
+  id:           123
+  name:         Abbott Laboratories
+  industry:     Technology
+  city:         North Chicago
+  state:        Illinois
+
+company_124:
+  id:           124
+  name:         Northwestern Mutual
+  industry:     Insurance
+  city:         Milwaukee
+  state:        Wisconsin
+
+company_125:
+  id:           125
+  name:         UAL
+  industry:     Transportation
+  city:         Chicago
+  state:        Illinois
+
+company_126:
+  id:           126
+  name:         Minnesota Mining & Mfg.
+  industry:     Manufacturing
+  city:         Maplewood
+  state:        Minnesota
+
+company_127:
+  id:           127
+  name:         AmerisourceBergen
+  industry:     Healthcare
+  city:         Chesterbrook
+  state:        Pennsylvania
+
+company_128:
+  id:           128
+  name:         Coca-Cola Enterprises
+  industry:     Consumer Goods
+  city:         Atlanta
+  state:        Georgia
+
+company_130:
+  id:           130
+  name:         Emerson Electric
+  industry:     Manufacturing
+  city:         St. Louis
+  state:        Missouri
+
+company_131:
+  id:           131
+  name:         Best Buy
+  industry:     Retail
+  city:         Richfield
+  state:        Minnesota
+
+company_132:
+  id:           132
+  name:         Rite Aid
+  industry:     Retail
+  city:         Camp Hill
+  state:        Pennsylvania
+
+company_133:
+  id:           133
+  name:         Publix Super Markets
+  industry:     Retail
+  city:         Lakeland
+  state:        Florida
+
+company_134:
+  id:           134
+  name:         Hartford Financial Services
+  industry:     Finance
+  city:         Hartford
+  state:        Connecticut
+
+company_135:
+  id:           135
+  name:         Exelon
+  industry:     Energy
+  city:         Chicago
+  state:        Illinois
+
+company_136:
+  id:           136
+  name:         Nationwide
+  industry:     Insurance
+  city:         Columbus
+  state:        Ohio
+
+company_137:
+  id:           137
+  name:         Xcel Energy
+  industry:     Energy
+  city:         Minneapolis
+  state:        Minnesota
+
+company_138:
+  id:           138
+  name:         Valero Energy
+  industry:     Energy
+  city:         San Antonio
+  state:        Texas
+
+company_139:
+  id:           139
+  name:         McDonald's
+  industry:     Food Services
+  city:         Oak Brook
+  state:        Illinois
+
+company_140:
+  id:           140
+  name:         Weyerhaeuser
+  industry:     Manufacturing
+  city:        Federal Way
+  state:        Washington
+
+company_141:
+  id:           141
+  name:         Kimberly-Clark
+  industry:     Consumer Goods
+  city:         Neenah
+  state:        Wisconsin
+
+company_142:
+  id:           142
+  name:         Liberty Mutual Insurance Group
+  industry:     Insurance
+  city:         Boston
+  state:        Massachusetts
+
+company_143:
+  id:           143
+  name:         May Department Stores
+  industry:     Retail
+  city:         St. Louis
+  state:        Missouri
+
+company_144:
+  id:           144
+  name:         Goodyear Tire & Rubber
+  industry:     Manufacturing
+  city:         Akron
+  state:        Ohio
+
+company_145:
+  id:           145
+  name:         Wyeth
+  industry:     Healthcare
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_146:
+  id:           146
+  name:         Occidental Petroleum
+  industry:     Energy
+  city:         Los Angeles
+  state:        California
+
+company_147:
+  id:           147
+  name:         Household International
+  industry:     Finance
+  city:         London
+  state:        International
+
+company_148:
+  id:           148
+  name:         Delta Air Lines
+  industry:     Transportation
+  city:         Atlanta
+  state:        Georgia
+
+company_149:
+  id:           149
+  name:         Gap
+  industry:     Retail
+  city:         San Francisco
+  state:        California
+
+company_150:
+  id:           150
+  name:         Lear
+  industry:     Manufacturing
+  city:         Southfield
+  state:        Michigan
+
+company_151:
+  id:           151
+  name:         Northrop Grumman
+  industry:     Manufacturing
+  city:         Denver
+  state:        Colorado
+
+company_152:
+  id:           152
+  name:         Amerada Hess
+  industry:     Energy
+  city:         New York
+  state:        New York
+
+company_153:
+  id:           153
+  name:         Halliburton
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_154:
+  id:           154
+  name:         Deere
+  industry:     Manufacturing
+  city:         Moline
+  state:        Illinois
+
+company_155:
+  id:           155
+  name:         Eastman Kodak
+  industry:     Consumer Goods
+  city:         Rochester
+  state:        New York
+
+company_156:
+  id:           156
+  name:         CMS Energy
+  industry:     Energy
+  city:         Jackson
+  state:        Michigan
+
+company_157:
+  id:           157
+  name:         Circuit City Stores
+  industry:     Retail
+  city:         Richmond
+  state:        Virginia
+
+company_158:
+  id:           158
+  name:         Cinergy
+  industry:     Energy
+  city:         Cincinnati
+  state:       Ohio
+
+company_159:
+  id:           159
+  name:         Anheuser-Busch
+  industry:     Consumer Goods
+  city:         St. Louis
+  state:        Missouri
+
+company_160:
+  id:           160
+  name:         Winn-Dixie Stores
+  industry:     Retail
+  city:         Jacksonville
+  state:        Florida
+
+company_161:
+  id:           161
+  name:         Avnet
+  industry:     Technology
+  city:         Phoenix
+  state:       Arizona
+
+company_162:
+  id:           162
+  name:         WellPoint Health Networks
+  industry:     Healthcare
+  city:         Indianapolis
+  state:        Indiana
+
+company_163:
+  id:           163
+  name:         Sunoco
+  industry:     Energy
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_164:
+  id:           164
+  name:         Textron
+  industry:     Manufacturing
+  city:         Providence
+  state:        Rhode Island
+
+company_165:
+  id:           165
+  name:         Edison International
+  industry:     Energy
+  city:        Rosemead
+  state:        California
+
+company_166:
+  id:           166
+  name:         General Dynamics
+  industry:     Manufacturing
+  city:         Falls Church
+  state:        Virginia
+
+company_167:
+  id:           167
+  name:         Tenet Healthcare
+  industry:     Healthcare
+  city:         Dallas
+  state:        Texas
+
+company_168:
+  id:           168
+  name:         Union Pacific
+  industry:     Transportation
+  city:         Omaha
+  state:        Nebraska
+
+company_169:
+  id:           169
+  name:         PacifiCare Health Systems
+  industry:     Healthcare
+  city:         Cypress
+  state:        California
+
+company_171:
+  id:           171
+  name:         Eli Lilly
+  industry:     Healthcare
+  city:         Indianapolis
+  state:        Indiana
+
+company_172:
+  id:           172
+  name:         Waste Management
+  industry:     Other
+  city:         Houston
+  state:        Texas
+
+company_173:
+  id:           173
+  name:         Office Depot
+  industry:     Retail
+  city:         Del Ray Beach
+  state:        Florida
+
+company_174:
+  id:           174
+  name:         Williams
+  industry:     Energy
+  city:         Tulsa
+  state:        Oklahoma
+
+company_175:
+  id:           175
+  name:         Toys `R` Us
+  industry:     Retail
+  city:         Wayne
+  state:        New Jersey
+
+company_176:
+  id:           176
+  name:         Oracle
+  industry:     Technology
+  city:         Redwood Shores
+  state:        California
+
+company_177:
+  id:           177
+  name:         Tyson Foods
+  industry:     Consumer Goods
+  city:         Springdale
+  state:        Arkansas
+
+company_178:
+  id:           178
+  name:         Staples
+  industry:     Retail
+  city:         Framingham
+  state:        Massachusetts
+
+company_179:
+  id:           179
+  name:         TJX
+  industry:     Retail
+  city:         Framingham
+  state:        Massachusetts
+
+company_180:
+  id:           180
+  name:         Dominion Resources
+  industry:     Energy
+  city:         Richmond
+  state:        Virginia
+
+company_181:
+  id:           181
+  name:         Computer Sciences
+  industry:     Technology
+  city:         El Segundo
+  state:        California
+
+company_182:
+  id:           182
+  name:         Manpower
+  industry:     Other
+  city:         Milwaukee
+  state:        Wisconsin
+
+company_183:
+  id:           183
+  name:         Dana
+  industry:     Manufacturing
+  city:         Toledo
+  state:       Ohio
+
+company_184:
+  id:           184
+  name:         Anthem
+  industry:     Insurance
+  city:         New York
+  state:        New York
+
+company_185:
+  id:           185
+  name:         Allegheny Energy
+  industry:     Energy
+  city:         Greensburg
+  state:        Pennsylvania
+
+company_186:
+  id:           186
+  name:         Whirlpool
+  industry:     Manufacturing
+  city:         Benton Harbor
+  state:        Michigan
+
+company_187:
+  id:           187
+  name:         Humana
+  industry:     Healthcare
+  city:         Louisville
+  state:       Kentucky
+
+company_188:
+  id:           188
+  name:         Southern
+  industry:     Energy
+  city:         Atlanta
+  state:        Georgia
+
+company_189:
+  id:           189
+  name:         Marriott International
+  industry:     Other
+  city:         Bethesda
+  state:        Maryland
+
+company_190:
+  id:           190
+  name:         MBNA
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_191:
+  id:           191
+  name:         Arrow Electronics
+  industry:     Technology
+  city:         Melville
+  state:        New York
+
+company_192:
+  id:           192
+  name:         Health Net
+  industry:     Healthcare
+  city:         Woodland Hills
+  state:        California
+
+company_193:
+  id:           193
+  name:         Marsh & McLennan
+  industry:     Insurance
+  city:         New York
+  state:        New York
+
+company_194:
+  id:           194
+  name:         Northwest Airlines
+  industry:     Transportation
+  city:         Eagan
+  state:        Minnesota
+
+company_195:
+  id:           195
+  name:         Public Service Enterprise Group
+  industry:     Energy
+  city:        Trenton
+  state:        New Jersey
+
+company_196:
+  id:           196
+  name:         Schering-Plough
+  industry:     Healthcare
+  city:         Kenilworth
+  state:        New Jersey
+
+company_197:
+  id:           197
+  name:         Illinois Tool Works
+  industry:     Manufacturing
+  city:         Glenview
+  state:        Illinois
+
+company_198:
+  id:           198
+  name:         Comcast
+  industry:     Telecommunications
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_199:
+  id:           199
+  name:         Consolidated Edison
+  industry:     Energy
+  city:         New York
+  state:        New York
+
+company_200:
+  id:           200
+  name:         Entergy
+  industry:     Energy
+  city:         Little Rock
+  state:        Arkansas
+
+company_201:
+  id:           201
+  name:         AES
+  industry:     Energy
+  city:         Arlington
+  state:        Virginia
+
+company_202:
+  id:           202
+  name:         AFLAC
+  industry:     Insurance
+  city:         Columbus
+  state:        Georgia
+
+company_203:
+  id:           203
+  name:         NiSource
+  industry:     Energy
+  city:         Merrillville
+  state:        Indiana
+
+company_204:
+  id:           204
+  name:         Nike
+  industry:     Retail
+  city:        Beaverton
+  state:        Oregon
+
+company_205:
+  id:           205
+  name:         UnumProvident
+  industry:     Insurance
+  city:         Chattanooga
+  state:        Tennessee
+
+company_206:
+  id:           206
+  name:         H.J. Heinz
+  industry:     Consumer Goods
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_207:
+  id:           207
+  name:         Colgate-Palmolive
+  industry:     Consumer Goods
+  city:         New York
+  state:        New York
+
+company_208:
+  id:           208
+  name:         Limited
+  industry:     Retail
+  city:         Columbus
+  state:        Ohio
+
+company_209:
+  id:           209
+  name:         John Hancock Financial Services
+  industry:     Finance
+  city:         Boston
+  state:        Massachusetts
+
+company_210:
+  id:           210
+  name:         Express Scripts
+  industry:     Retail
+  city:         St. Louis
+  state:        Missouri
+
+company_211:
+  id:           211
+  name:         Burlington Northern Santa Fe
+  industry:     Transportation
+  city:         St. Paul
+  state:        Minnesota
+
+company_212:
+  id:           212
+  name:         Agilent Technologies
+  industry:     Technology
+  city:         Santa Clara
+  state:        California
+
+company_213:
+  id:           213
+  name:         National City Corp.
+  industry:     Finance
+  city:         Cleveland
+  state:       Ohio
+
+company_214:
+  id:           214
+  name:         Fluor
+  industry:     Other
+  city:         Irving
+  state:        Texas
+
+company_216:
+  id:           216
+  name:         Continental Airlines
+  industry:     Transportation
+  city:         Houston
+  state:        Texas
+
+company_217:
+  id:           217
+  name:         Cendant
+  industry:     Other
+  city:         New York
+  state:        New York
+
+company_219:
+  id:           219
+  name:         Guardian Life Ins. Co. of America
+  industry:     Insurance
+  city:         New York
+  state:        New York
+
+company_220:
+  id:           220
+  name:         Kellogg
+  industry:     Consumer Goods
+  city:         Battle Creek
+  state:        Michigan
+
+company_221:
+  id:           221
+  name:         Principal Financial
+  industry:     Finance
+  city:         Des Moines
+  state:        Iowa
+
+company_222:
+  id:           222
+  name:         SCI Systems
+  industry:     Manufacturing
+  city:         San Jose
+  state:        California
+
+company_223:
+  id:           223
+  name:         Bear Stearns
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_224:
+  id:           224
+  name:         R.J. Reynolds Tobacco
+  industry:     Consumer Goods
+  city:         Winston-Salem
+  state:        North Carolina
+
+company_225:
+  id:           225
+  name:         Ashland
+  industry:     Manufacturing
+  city:         Covington
+  state:        Kentucky
+
+company_226:
+  id:           226
+  name:         FPL Group
+  industry:     Energy
+  city:         Juno Beach
+  state:        Florida
+
+company_227:
+  id:           227
+  name:         Progress Energy
+  industry:     Energy
+  city:         Raliegh
+  state:        North Carolina
+
+company_228:
+  id:           228
+  name:         Pepsi Bottling
+  industry:     Consumer Goods
+  city:         Somers
+  state:        New York
+
+company_229:
+  id:           229
+  name:         SunTrust Banks
+  industry:     Finance
+  city:         Richmond
+  state:        Virginia
+
+company_230:
+  id:           230
+  name:         Dillard's
+  industry:     Retail
+  city:         Little Rock
+  state:        Arkansas
+
+company_231:
+  id:           231
+  name:         Smurfit-Stone Container
+  industry:     Manufacturing
+  city:         Chicago
+  state:        Illinois
+
+company_232:
+  id:           232
+  name:         Anadarko Petroleum
+  industry:     Energy
+  city:         The Woodlands
+  state:        Texas
+
+company_233:
+  id:           233
+  name:         Masco
+  industry:     Manufacturing
+  city:         Taylor
+  state:        Michigan
+
+company_234:
+  id:           234
+  name:         US Airways Group
+  industry:     Transportation
+  city:         Tempe
+  state:        Arizona
+
+company_235:
+  id:           235
+  name:         Genuine Parts
+  industry:     Manufacturing
+  city:         Atlanta
+  state:        Georgia
+
+company_236:
+  id:           236
+  name:         Texas Instruments
+  industry:     Technology
+  city:         Dallas
+  state:        Texas
+
+company_237:
+  id:           237
+  name:         PPG Industries
+  industry:     Manufacturing
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_238:
+  id:           238
+  name:         CSX
+  industry:     Transportation
+  city:         Jacksonville
+  state:        Florida
+
+company_239:
+  id:           239
+  name:         Conseco
+  industry:     Finance
+  city:         Carmel
+  state:        Indiana
+
+company_240:
+  id:           240
+  name:         Gillette
+  industry:     Consumer Goods
+  city:         Boston
+  state:        Massachusetts
+
+company_241:
+  id:           241
+  name:         Sempra Energy
+  industry:     Energy
+  city:         San Diego
+  state:        California
+
+company_242:
+  id:           242
+  name:         FirstEnergy
+  industry:     Energy
+  city:         Akron
+  state:        Ohio
+
+company_243:
+  id:           243
+  name:         Clear Channel Communications
+  industry:     Entertainment
+  city:         San Antonio
+  state:        Texas
+
+company_244:
+  id:           244
+  name:         Cenex Harvest States
+  industry:     Energy
+  city:         Laurel
+  state:        Montana
+
+company_245:
+  id:           245
+  name:         DTE Energy
+  industry:     Energy
+  city:         Detroit
+  state:        Michigan
+
+company_246:
+  id:           246
+  name:         Aramark
+  industry:     Other
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_247:
+  id:           247
+  name:         Aon
+  industry:     Insurance
+  city:         Chicago
+  state:        Illinois
+
+company_248:
+  id:           248
+  name:         Baxter International
+  industry:     Healthcare
+  city:         Deerfield
+  state:        Illinois
+
+company_249:
+  id:           249
+  name:         Chubb
+  industry:     Insurance
+  city:         Warren
+  state:        New Jersey
+
+company_250:
+  id:           250
+  name:         Alltel
+  industry:     Telecommunications
+  city:         Little Rock
+  state:        Arkansas
+
+company_251:
+  id:           251
+  name:         Calpine
+  industry:     Energy
+  city:         San Jose
+  state:        California
+
+company_252:
+  id:           252
+  name:         Nextel Communications
+  industry:     Telecommunications
+  city:         Reston
+  state:        Virginia
+
+company_253:
+  id:           253
+  name:         Kohl's
+  industry:     Retail
+  city:         Menomonee Falls
+  state:        Wisconsin
+
+company_254:
+  id:           254
+  name:         Progressive
+  industry:     Insurance
+  city:         Mayfield Village
+  state:        Ohio
+
+company_255:
+  id:           255
+  name:         American Standard
+  industry:     Manufacturing
+  city:         Piscataway
+  state:        New Jersey
+
+company_256:
+  id:           256
+  name:         Boise Cascade
+  industry:     Retail
+  city:         Naperville
+  state:        Illinois
+
+company_257:
+  id:           257
+  name:         KeyCorp
+  industry:     Finance
+  city:         Cleveland
+  state:        Ohio
+
+company_258:
+  id:           258
+  name:         Applied Materials
+  industry:     Manufacturing
+  city:         Santa Clara
+  state:        California
+
+company_259:
+  id:           259
+  name:         Eaton
+  industry:     Manufacturing
+  city:         Cleveland
+  state:        Ohio
+
+company_260:
+  id:           260
+  name:         Capital One Financial
+  industry:     Finance
+  city:         McLean
+  state:        Virginia
+
+company_261:
+  id:           261
+  name:         Bank of New York Co.
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_262:
+  id:           262
+  name:         Crown Cork & Seal
+  industry:     Manufacturing
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_263:
+  id:           263
+  name:         EMC
+  industry:     Technology
+  city:         Hopkington
+  state:        Massachusetts
+
+company_264:
+  id:           264
+  name:         General Mills
+  industry:     Consumer Goods
+  city:         Golden Valley
+  state:        Minnesota
+
+company_266:
+  id:           266
+  name:         Automatic Data Processing
+  industry:     Technology
+  city:         Patterson
+  state:        New Jersey
+
+company_267:
+  id:           267
+  name:         Safeco
+  industry:     Insurance
+  city:         Seattle
+  state:        Washington
+
+company_268:
+  id:           268
+  name:         Tricon Global Restaurants
+  industry:     Food Services
+  city:         Louisville
+  state:        Kentucky
+
+company_269:
+  id:           269
+  name:         PNC Financial Services Group
+  industry:     Finance
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_270:
+  id:           270
+  name:         Newell Rubbermaid
+  industry:     Manufacturing
+  city:         Atlanta
+  state:        Georgia
+
+company_271:
+  id:           271
+  name:         KeySpan
+  industry:     Energy
+  city:         New York
+  state:        New York
+
+company_272:
+  id:           272
+  name:         Omnicom Group
+  industry:     Other
+  city:         New York
+  state:        New York
+
+company_273:
+  id:           273
+  name:         Northeast Utilities
+  industry:     Energy
+  city:         Berlin
+  state:        Connecticut
+
+company_274:
+  id:           274
+  name:         Plains All American Pipeline
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_275:
+  id:           275
+  name:         ArvinMeritor
+  industry:     Manufacturing
+  city:         Troy
+  state:        Michigan
+
+company_276:
+  id:           276
+  name:         Oneok
+  industry:     Energy
+  city:         Tulsa
+  state:        Oklahoma
+
+company_277:
+  id:           277
+  name:         Avaya
+  industry:     Telecommunications
+  city:         Basking Ridge
+  state:        New Jersey
+
+company_278:
+  id:           278
+  name:         Unocal
+  industry:     Energy
+  city:         Los Angeles
+  state:        California
+
+company_279:
+  id:           279
+  name:         Interpublic Group
+  industry:     Other
+  city:         New York
+  state:        New York
+
+company_280:
+  id:           280
+  name:         Navistar International
+  industry:     Manufacturing
+  city:         Warrenville
+  state:        Illinois
+
+company_281:
+  id:           281
+  name:         Centex
+  industry:     Real Estate
+  city:         Dallas
+  state:        Texas
+
+company_282:
+  id:           282
+  name:         Campbell Soup
+  industry:     Consumer Goods
+  city:         Camden
+  state:        New Jersey
+
+company_284:
+  id:           284
+  name:         First Data
+  industry:     Finance
+  city:         Cincinnati
+  state:        Ohio
+
+company_285:
+  id:           285
+  name:         Premcor
+  industry:     Energy
+  city:         Greenwich
+  state:        Connecticut
+
+company_286:
+  id:           286
+  name:         Lincoln National
+  industry:     Finance
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_287:
+  id:           287
+  name:         Gannett
+  industry:     Media
+  city:         McLean
+  state:        Virginia
+
+company_288:
+  id:           288
+  name:         Sonic Automotive
+  industry:     Manufacturing
+  city:         Charlotte
+  state:        North Carolina
+
+company_289:
+  id:           289
+  name:         Corning
+  industry:     Manufacturing
+  city:         Midland
+  state:        Michigan
+
+company_290:
+  id:           290
+  name:         Dean Foods
+  industry:     Consumer Goods
+  city:         Dallas
+  state:        Texas
+
+company_291:
+  id:           291
+  name:         BB&T Corp.
+  industry:     Finance
+  city:         Winston-Salem
+  state:        North Carolina
+
+company_292:
+  id:           292
+  name:         United Auto Group
+  industry:     Manufacturing
+  city:         Bloomfield Hills
+  state:        Michigan
+
+company_293:
+  id:           293
+  name:         Norfolk Southern
+  industry:     Transportation
+  city:         Norfolk
+  state:        Virginia
+
+company_294:
+  id:           294
+  name:         Science Applications Intl.
+  industry:     Technology
+  city:         La Jolla
+  state:        California
+
+company_295:
+  id:           295
+  name:         Paccar
+  industry:     Manufacturing
+  city:         Bellevue
+  state:        Washington
+
+company_296:
+  id:           296
+  name:         Gateway
+  industry:     Technology
+  city:         Irvine
+  state:        California
+
+company_297:
+  id:           297
+  name:         Saks
+  industry:     Retail
+  city:         Birmingham
+  state:        Alabama
+
+company_298:
+  id:           298
+  name:         Lennar
+  industry:     Real Estate
+  city:         Miami
+  state:        Florida
+
+company_299:
+  id:           299
+  name:         Avista
+  industry:     Energy
+  city:         Spokane
+  state:        Washington
+
+company_300:
+  id:           300
+  name:         Unisys
+  industry:     Technology
+  city:         Blue Bell
+  state:        Pennsylvania
+
+company_301:
+  id:           301
+  name:         Owens-Illinois
+  industry:     Manufacturing
+  city:         Perrysburg
+  state:        Ohio
+
+company_302:
+  id:           302
+  name:         Avon Products
+  industry:     Consumer Goods
+  city:         New York
+  state:        New York
+
+company_303:
+  id:           303
+  name:         Parker Hannifin
+  industry:     Manufacturing
+  city:         Cleveland
+  state:        Ohio
+
+company_304:
+  id:           304
+  name:         NCR
+  industry:     Technology
+  city:         Dayton
+  state:        Ohio
+
+company_305:
+  id:           305
+  name:         Smithfield Foods
+  industry:     Consumer Goods
+  city:         Smithfield
+  state:        Virginia
+
+company_306:
+  id:           306
+  name:         Rohm & Haas
+  industry:     Manufacturing
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_308:
+  id:           308
+  name:         ServiceMaster
+  industry:     Other
+  city:         Memphis
+  state:        Tennessee
+
+company_309:
+  id:           309
+  name:         PPL
+  industry:     Energy
+  city:         Allentown
+  state:        Pennsylvania
+
+company_310:
+  id:           310
+  name:         Air Products & Chemicals
+  industry:     Manufacturing
+  city:         Allentown
+  state:        Pennsylvania
+
+company_311:
+  id:           311
+  name:         Cummins
+  industry:     Energy
+  city:         Columbus
+  state:        Indiana
+
+company_313:
+  id:           313
+  name:         State Street Corp.
+  industry:     Finance
+  city:         Boston
+  state:        Massachusetts
+
+company_314:
+  id:           314
+  name:         Nordstrom
+  industry:     Retail
+  city:         Seattle
+  state:        Washington
+
+company_315:
+  id:           315
+  name:         Caremark Rx
+  industry:     Retail
+  city:         Nashville
+  state:        Tennessee
+
+company_316:
+  id:           316
+  name:         Allied Waste Industries
+  industry:     Other
+  city:         Scottsdale
+  state:        Arizona
+
+company_317:
+  id:           317
+  name:         Southwest Airlines
+  industry:     Transportation
+  city:         Dallas
+  state:        Texas
+
+company_318:
+  id:           318
+  name:         Medtronic
+  industry:     Technology
+  city:         Minneapolis
+  state:        Minnesota
+
+company_319:
+  id:           319
+  name:         Providian Financial
+  industry:     Finance
+  city:         San Francisco
+  state:        California
+
+company_320:
+  id:           320
+  name:         VF
+  industry:     Manufacturing
+  city:         Greensboro
+  state:        North Carolina
+
+company_321:
+  id:           321
+  name:         Federal-Mogul
+  industry:     Manufacturing
+  city:         Southfield
+  state:        Michigan
+
+company_322:
+  id:           322
+  name:         Eastman Chemical
+  industry:     Manufacturing
+  city:         Kingsport
+  state:        Tennessee
+
+company_323:
+  id:           323
+  name:         Baker Hughes
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_324:
+  id:           324
+  name:         Pulte Homes
+  industry:     Other
+  city:         Bloomfield Hills
+  state:        Michigan
+
+company_325:
+  id:           325
+  name:         Apple, Inc.
+  industry:     Technology
+  city:         Cupertino
+  state:        California
+
+company_326:
+  id:           326
+  name:         Dollar General
+  industry:     Retail
+  city:         Goodlettsville
+  state:        Tennessee
+
+company_327:
+  id:           327
+  name:         Fortune Brands
+  industry:     Consumer Goods
+  city:         Deerfield
+  state:        Illinois
+
+company_328:
+  id:           328
+  name:         R.R. Donnelley & Sons
+  industry:     Media
+  city:         Chicago
+  state:        Illinois
+
+company_329:
+  id:           329
+  name:         USA Networks
+  industry:     Media
+  city:         New York
+  state:        New York
+
+company_330:
+  id:           330
+  name:         Charles Schwab
+  industry:     Finance
+  city:         San Francisco
+  state:        California
+
+company_331:
+  id:           331
+  name:         BJ's Wholesale Club
+  industry:     Retail
+  city:         Natick
+  state:        Massachusetts
+
+company_332:
+  id:           332
+  name:         Ikon Office Solutions
+  industry:     Technology
+  city:         Malvern
+  state:        Pennsylvania
+
+company_333:
+  id:           333
+  name:         Tribune
+  industry:     Media
+  city:         Chicago
+  state:        Illinois
+
+company_334:
+  id:           334
+  name:         TransMontaigne
+  industry:     Energy
+  city:         Denver
+  state:        Colorado
+
+company_335:
+  id:           335
+  name:         Tesoro Petroleum
+  industry:     Energy
+  city:         San Antonio
+  state:        Texas
+
+company_336:
+  id:           336
+  name:         Praxair
+  industry:     Manufacturing
+  city:         Danbury
+  state:        Connecticut
+
+company_337:
+  id:           337
+  name:         American Family Ins. Group
+  industry:     Insurance
+  city:         Madison
+  state:        Wisconsin
+
+company_338:
+  id:           338
+  name:         Engelhard
+  industry:     Manufacturing
+  city:         Iselin
+  state:        New Jersey
+
+company_339:
+  id:           339
+  name:         Sherwin-Williams
+  industry:     Manufacturing
+  city:         Cleveland
+  state:        Ohio
+
+company_340:
+  id:           340
+  name:         Goodrich
+  industry:     Manufacturing
+  city:         Charlotte
+  state:        North Carolina
+
+company_341:
+  id:           341
+  name:         Ryder System
+  industry:     Transportation
+  city:         Miami
+  state:        Florida
+
+company_342:
+  id:           342
+  name:         CNF
+  industry:     Transportation
+  city:         Portland
+  state:        Oregon
+
+company_343:
+  id:           343
+  name:         Barnes & Noble
+  industry:     Retail
+  city:         New York
+  state:        New York
+
+company_344:
+  id:           344
+  name:         Graybar Electric
+  industry:     Energy
+  city:         St. Louis
+  state:        Missouri
+
+company_345:
+  id:           345
+  name:         Countrywide Credit Industries
+  industry:     Finance
+  city:         Calabasas
+  state:        California
+
+company_346:
+  id:           346
+  name:         AutoZone
+  industry:     Retail
+  city:         Memphis
+  state:        Tennessee
+
+company_347:
+  id:           347
+  name:         Mattel
+  industry:     Manufacturing
+  city:         El Segundo
+  state:        California
+
+company_348:
+  id:           348
+  name:         RadioShack
+  industry:     Retail
+  city:         Forth Worth
+  state:        Texas
+
+company_349:
+  id:           349
+  name:         Owens Corning
+  industry:     Manufacturing
+  city:         Toledo
+  state:        Ohio
+
+company_350:
+  id:           350
+  name:         W.W. Grainger
+  industry:     Manufacturing
+  city:         Lake Forest
+  state:        Illinois
+
+company_351:
+  id:           351
+  name:         Adams Resources & Energy
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_352:
+  id:           352
+  name:         Pitney Bowes
+  industry:     Other
+  city:         Stamford
+  state:        Connecticut
+
+company_353:
+  id:           353
+  name:         Dole Food
+  industry:     Agriculture
+  city:         Westlake Village
+  state:        California
+
+company_354:
+  id:           354
+  name:         ITT Industries
+  industry:     Manufacturing
+  city:         White Plains
+  state:        New York
+
+company_355:
+  id:           355
+  name:         KB Home
+  industry:     Other
+  city:         Los Angeles
+  state:        California
+
+company_356:
+  id:           356
+  name:         McGraw-Hill
+  industry:     Media
+  city:         New York
+  state:        New York
+
+company_357:
+  id:           357
+  name:         OfficeMax
+  industry:     Retail
+  city:         Naperville
+  state:        Illinois
+
+company_358:
+  id:           358
+  name:         Park Place Entertainment
+  industry:     Entertainment
+  city:         Las Vegas
+  state:        Nevada
+
+company_359:
+  id:           359
+  name:         Sierra Pacific Resources
+  industry:     Energy
+  city:         Reno
+  state:        Nevada
+
+company_360:
+  id:           360
+  name:         Estee Lauder
+  industry:     Consumer Goods
+  city:         New York
+  state:        New York
+
+company_361:
+  id:           361
+  name:         Maytag
+  industry:     Manufacturing
+  city:         Newton
+  state:        Iowa
+
+company_362:
+  id:           362
+  name:         Hershey Foods
+  industry:     Consumer Goods
+  city:         Hershey
+  state:        Pennsylvania
+
+company_363:
+  id:           363
+  name:         Pinnacle West Capital
+  industry:     Energy
+  city:         Phoenix
+  state:        Arizona
+
+company_364:
+  id:           364
+  name:         Dover
+  industry:     Manufacturing
+  city:         New York
+  state:        New York
+
+company_365:
+  id:           365
+  name:         Micron Technology
+  industry:     Technology
+  city:         Boise
+  state:        Idaho
+
+company_366:
+  id:           366
+  name:         Ameren
+  industry:     Energy
+  city:         St. Louis
+  state:        Missouri
+
+company_367:
+  id:           367
+  name:         Murphy Oil
+  industry:     Energy
+  city:         El Dorado
+  state:        Arkansas
+
+company_368:
+  id:           368
+  name:         D.R. Horton
+  industry:     Other
+  city:         Fort Worth
+  state:        Texas
+
+company_369:
+  id:           369
+  name:         Digg
+  industry:     Technology
+  city:         San Francisco
+  state:        California
+
+company_370:
+  id:           370
+  name:         Quantum
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_371:
+  id:           371
+  name:         Golden West Financial
+  industry:     Finance
+  city:        Charlotte
+  state:        North Carolina
+
+company_373:
+  id:           373
+  name:         Cablevision Systems
+  industry:     Entertainment
+  city:         Bethpage
+  state:        New York
+
+company_374:
+  id:           374
+  name:         Healthsouth
+  industry:     Healthcare
+  city:         Birmingham
+  state:        Alabama
+
+company_375:
+  id:           375
+  name:         Foot Locker
+  industry:     Retail
+  city:         New York
+  state:        New York
+
+company_376:
+  id:           376
+  name:         Administaff
+  industry:     Other
+  city:         Kingwood
+  state:        Texas
+
+company_377:
+  id:           377
+  name:         Black & Decker
+  industry:     Manufacturing
+  city:         Towson
+  state:        Maryland
+
+company_378:
+  id:           378
+  name:         Jabil Circuit
+  industry:     Technology
+  city:         St. Petersburg
+  state:        Florida
+
+company_379:
+  id:           379
+  name:         Mutual of Omaha Insurance
+  industry:     Insurance
+  city:         Omaha
+  state:        Nebraska
+
+company_380:
+  id:           380
+  name:         Rockwell Automation
+  industry:     Manufacturing
+  city:         Milwaukee
+  state:        Wisconsin
+
+company_382:
+  id:           382
+  name:         Longs Drug Stores
+  industry:     Retail
+  city:         Walnut Creek
+  state:        California
+
+company_383:
+  id:           383
+  name:         Levi Strauss
+  industry:     Manufacturing
+  city:         San Francisco
+  state:        California
+
+company_384:
+  id:           384
+  name:         Kelly Services
+  industry:     Other
+  city:         Troy
+  state:        Michigan
+
+company_385:
+  id:           385
+  name:         NorthWestern
+  industry:     Energy
+  city:         Sioux Falls
+  state:        South Dakota
+
+company_386:
+  id:           386
+  name:         Cooper Industries
+  industry:     Manufacturing
+  city:         Mount Vernon
+  state:        Ohio
+
+company_387:
+  id:           387
+  name:         Computer Associates Intl.
+  industry:     Technology
+  city:         Islandia
+  state:        New York
+
+company_388:
+  id:           388
+  name:         Comerica
+  industry:     Finance
+  city:      Dallas
+  state:        Texas
+
+company_389:
+  id:           389
+  name:         Temple-Inland
+  industry:     Manufacturing
+  city:         Austin
+  state:        Texas
+
+company_390:
+  id:           390
+  name:         Lexmark International
+  industry:     Manufacturing
+  city:         Lexington
+  state:        Kentucky
+
+company_391:
+  id:           391
+  name:         Nucor
+  industry:     Manufacturing
+  city:        Charlotte
+  state:        North Carolina
+
+company_392:
+  id:           392
+  name:         Hormel Foods
+  industry:     Consumer Goods
+  city:         Austin
+  state:        Minnesota
+
+company_393:
+  id:           393
+  name:         SPX
+  industry:     Technology
+  city:        Charlotte
+  state:        North Carolina
+
+company_394:
+  id:           394
+  name:         Leggett & Platt
+  industry:     Manufacturing
+  city:         Carthage
+  state:        Missouri
+
+company_395:
+  id:           395
+  name:         Nash Finch
+  industry:     Food Services
+  city:         Edina
+  state:        Minnesota
+
+company_396:
+  id:           396
+  name:         Jones Apparel Group
+  industry:     Retail
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_397:
+  id:           397
+  name:         Cox Communications
+  industry:     Telecommunications
+  city:         Atlanta
+  state:        Georgia
+
+company_398:
+  id:           398
+  name:         Mellon Financial Corp.
+  industry:     Finance
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_399:
+  id:           399
+  name:         Sanmina-SCI
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_400:
+  id:           400
+  name:         Regions Financial
+  industry:     Finance
+  city:         Birmingham
+  state:        Alabama
+
+company_401:
+  id:           401
+  name:         Darden Restaurants
+  industry:     Food Services
+  city:         Orlando
+  state:        Florida
+
+company_402:
+  id:           402
+  name:         Pathmark Stores
+  industry:     Retail
+  city:         Carteret
+  state:        New Jersey
+
+company_403:
+  id:           403
+  name:         Amgen
+  industry:     Technology
+  city:         Thousand Oaks
+  state:        California
+
+company_404:
+  id:           404
+  name:         MGM Mirage
+  industry:     Entertainment
+  city:         Las Vegas
+  state:        Nevada
+
+company_406:
+  id:           406
+  name:         Phelps Dodge
+  industry:     Other
+  city:         Phoenix
+  state:        Arizona
+
+company_407:
+  id:           407
+  name:         Echostar Communications
+  industry:     Telecommunications
+  city:         Denver
+  state:        Colorado
+
+company_408:
+  id:           408
+  name:         Group 1 Automotive
+  industry:     Retail
+  city:         Houston
+  state:        Texas
+
+company_409:
+  id:           409
+  name:         AK Steel Holding
+  industry:    Manufacturing
+  city:         Middletown
+  state:        Ohio
+
+company_410:
+  id:           410
+  name:         Autoliv
+  industry:     Manufacturing
+  city:         Stockholm
+  state:        International
+
+company_411:
+  id:           411
+  name:         MeadWestvaco
+  industry:     Manufacturing
+  city:         Richmond
+  state:        Virginia
+
+company_412:
+  id:           412
+  name:         Encompass Services
+  industry:     Other
+  city:         Houston
+  state:        Texas
+
+company_413:
+  id:           413
+  name:         Starwood Hotels & Resorts
+  industry:     Other
+  city:         White Plains
+  state:        New York
+
+company_414:
+  id:           414
+  name:         CDW Computer Centers
+  industry:     Technology
+  city:         Vernon Hills
+  state:        Illinois
+
+company_415:
+  id:           415
+  name:         Jacobs Engineering Group
+  industry:     Other
+  city:         Pasedena
+  state:        California
+
+company_417:
+  id:           417
+  name:         Charter Communications
+  industry:     Telecommunications
+  city:         St. Louis
+  state:        Missouri
+
+company_418:
+  id:           418
+  name:         American Financial Group
+  industry:     Finance
+  city:         Cincinnati
+  state:        Ohio
+
+company_420:
+  id:           420
+  name:         Wisconsin Energy
+  industry:     Energy
+  city:         Milwaukee
+  state:        WIsconsin
+
+company_421:
+  id:           421
+  name:         Constellation Energy
+  industry:     Energy
+  city:         Baltimore
+  state:        Maryland
+
+company_422:
+  id:           422
+  name:         United Stationers
+  industry:     Manufacturing
+  city:         Deerfield
+  state:        Illinois
+
+company_423:
+  id:           423
+  name:         Clorox
+  industry:     Consumer Goods
+  city:         Oakland
+  state:        California
+
+company_424:
+  id:           424
+  name:         Advanced Micro Devices
+  industry:     Technology
+  city:         Sunnyvale
+  state:        California
+
+company_425:
+  id:           425
+  name:         Steelcase
+  industry:     Manufacturing
+  city:         Grand Rapids
+  state:        Michigan
+
+company_426:
+  id:           426
+  name:         Fidelity National Financial
+  industry:     Finance
+  city:         Jacksonville
+  state:        Florida
+
+company_427:
+  id:           427
+  name:         Peter Kiewit Sons'
+  industry:     Construction
+  city:         Omaha
+  state:        Nebraska
+
+company_428:
+  id:           428
+  name:         FMC
+  industry:     Manufacturing
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_429:
+  id:           429
+  name:         Owens & Minor
+  industry:     Healthcare
+  city:         Mechanicsville
+  state:        Virginia
+
+company_430:
+  id:           430
+  name:         Avery Dennison
+  industry:     Manufacturing
+  city:         Pasadena
+  state:        California
+
+company_431:
+  id:           431
+  name:         Maxtor
+  industry:     Technology
+  city:         Milpitas
+  state:        California
+
+company_432:
+  id:           432
+  name:         Danaher
+  industry:     Manufacturing
+  city:         Washington
+  state:        District of Columbia
+
+company_433:
+  id:           433
+  name:         Energy East
+  industry:     Energy
+  city:         South Hackensack
+  state:        New Jersey
+
+company_434:
+  id:           434
+  name:         NTL
+  industry:     Media
+  city:         New York
+  state:        New York
+
+company_435:
+  id:           435
+  name:         Becton Dickinson
+  industry:     Technology
+  city:         Franklin Lakes
+  state:        New Jersey
+
+company_436:
+  id:           436
+  name:         Host Marriott
+  industry:     Hospitality
+  city:         Bethesda
+  state:        Maryland
+
+company_438:
+  id:           438
+  name:         SouthTrust Corp.
+  industry:     Finance
+  city:         Birmingham
+  state:        Alabama
+
+company_439:
+  id:           439
+  name:         Pacific LifeCorp
+  industry:     Insurance
+  city:         Newport
+  state:        California
+
+company_440:
+  id:           440
+  name:         Harrah's Entertainment
+  industry:     Entertainment
+  city:         Reno
+  state:        Nevada
+
+company_441:
+  id:           441
+  name:         Ball
+  industry:     Manufacturing
+  city:         Broomfield
+  state:        Colorado
+
+company_442:
+  id:           442
+  name:         Brunswick
+  industry:     Manufacturing
+  city:         Lake Forest
+  state:        Illinois
+
+company_443:
+  id:           443
+  name:         Family Dollar Stores
+  industry:     Retail
+  city:        Charlotte
+  state:        North Carolina
+
+company_444:
+  id:           444
+  name:         Wesco International
+  industry:     Manufacturing
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_446:
+  id:           446
+  name:         Kerr-McGee
+  industry:     Energy
+  city:         The Woodlands
+  state:        Texas
+
+company_447:
+  id:           447
+  name:         Quest Diagnostics
+  industry:     Technology
+  city:         Madison
+  state:        New Jersey
+
+company_448:
+  id:           448
+  name:         Smith International
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_449:
+  id:           449
+  name:         Spartan Stores
+  industry:     Retail
+  city:         Bryon Center
+  state:        Michigan
+
+company_450:
+  id:           450
+  name:         USA Education
+  industry:     Finance
+  city:         Reston
+  state:        Virginia
+
+company_451:
+  id:           451
+  name:         Interstate Bakeries
+  industry:     Consumer Goods
+  city:         Kansas City
+  state:        Missouri
+
+company_452:
+  id:           452
+  name:         Roundy's
+  industry:     Retail
+  city:         Milwaukee
+  state:        Wisconsin
+
+company_453:
+  id:           453
+  name:         Scana
+  industry:     Energy
+  city:         Columbia
+  state:        South Carolina
+
+company_454:
+  id:           454
+  name:         Liz Claiborne
+  industry:     Retail
+  city:         New York
+  state:        New York
+
+company_455:
+  id:           455
+  name:         Mohawk Industries
+  industry:     Manufacturing
+  city:         Calhoun
+  state:        Georgia
+
+company_456:
+  id:           456
+  name:         Adelphia Communications
+  industry:     Telecommunications
+  city:         Greenwood Village
+  state:        Colorado
+
+company_457:
+  id:           457
+  name:         Big Lots
+  industry:     Retail
+  city:         Columbus
+  state:        Ohio
+
+company_458:
+  id:           458
+  name:         Core-Mark International
+  industry:     Transportation
+  city:         San Francisco
+  state:        California
+
+company_459:
+  id:           459
+  name:         Emcor Group
+  industry:     Manufacturing
+  city:         Norwalk
+  state:        Connecticut
+
+company_460:
+  id:           460
+  name:         Foster Wheeler
+  industry:     Energy
+  city:         Perryville
+  state:        New Jersey
+
+company_461:
+  id:           461
+  name:         Borders Group
+  industry:     Retail
+  city:         Ann Arbor
+  state:        Michigan
+
+company_462:
+  id:           462
+  name:         Shopko Stores
+  industry:     Retail
+  city:         Green Bay
+  state:        Wisconsin
+
+company_463:
+  id:           463
+  name:         AmSouth Bancorp.
+  industry:     Finance
+  city:         Birmingham
+  state:        Alabama
+
+company_464:
+  id:           464
+  name:         Puget Energy
+  industry:     Energy
+  city:         Bellevue
+  state:        Washington
+
+company_465:
+  id:           465
+  name:         Tenneco Automotive
+  industry:     Manufacturing
+  city:         Lake Forest
+  state:        Illinois
+
+company_466:
+  id:           466
+  name:         Harley-Davidson
+  industry:     Manufacturing
+  city:         Milwaukee
+  state:        Wisconsin
+
+company_468:
+  id:           468
+  name:         Bethlehem Steel
+  industry:     Manufacturing
+  city:         Bethlehem
+  state:        Pennsylvania
+
+company_470:
+  id:           470
+  name:         Burlington Resources
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_472:
+  id:           472
+  name:         USG
+  industry:     Manufacturing
+  city:         Chicago
+  state:        Illinois
+
+company_473:
+  id:           473
+  name:         Yellow
+  industry:     Transportation
+  city:         Overland Park
+  state:        Kansas
+
+company_474:
+  id:           474
+  name:         Northern Trust Corp.
+  industry:     Finance
+  city:         Chicago
+  state:        Illinois
+
+company_475:
+  id:           475
+  name:         Aid Association for Lutherans
+  industry:     Finance
+  city:         Minneapolis
+  state:        Minnesota
+
+company_476:
+  id:           476
+  name:         Performance Food Group
+  industry:     Transportation
+  city:         Richmond
+  state:        Virginia
+
+company_477:
+  id:           477
+  name:         JDS Uniphase
+  industry:     Technology
+  city:         Milpitas
+  state:        California
+
+company_478:
+  id:           478
+  name:         Lyondell Chemical
+  industry:     Manufacturing
+  city:         Houston
+  state:       Texas
+
+company_479:
+  id:           479
+  name:         Airborne
+  industry:     Transportation
+  city:         Plantation
+  state:        Florida
+
+company_480:
+  id:           480
+  name:         Comdisco
+  industry:     Finance
+  city:         Rosemont
+  state:        Illinois
+
+company_481:
+  id:           481
+  name:         NSTAR
+  industry:     Energy
+  city:         Westwood
+  state:        Massachusetts
+
+company_482:
+  id:           482
+  name:         OGE Energy
+  industry:     Energy
+  city:         Oklahoma City
+  state:        Oklahoma
+
+company_483:
+  id:           483
+  name:         Staff Leasing
+  industry:     Other
+  city:         Bradenton
+  state:        Florida
+
+company_484:
+  id:           484
+  name:         Enterprise Products
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_485:
+  id:           485
+  name:         PepsiAmericas
+  industry:     Consumer Goods
+  city:         Minneapolis
+  state:        Minnesota
+
+company_486:
+  id:           486
+  name:         Cooper Tire & Rubber
+  industry:     Manufacturing
+  city:         Findlay
+  state:        Ohio
+
+company_487:
+  id:           487
+  name:         Coventry Health Care
+  industry:     Healthcare
+  city:         Bethesda
+  state:        Maryland
+
+company_488:
+  id:           488
+  name:         Anixter International
+  industry:     Manufacturing
+  city:         Glenview
+  state:        Illinois
+
+company_490:
+  id:           490
+  name:         Armstrong Holdings
+  industry:     Manufacturing
+  city:         Lancaster
+  state:        Pennsylvania
+
+company_491:
+  id:           491
+  name:         Equity Office Properties
+  industry:     Real Estate
+  city:         Chicago
+  state:        Illinois
+
+company_492:
+  id:           492
+  name:         Amazon.com
+  industry:     Technology
+  city:         Seattle
+  state:        Washington
+
+company_493:
+  id:           493
+  name:         Lennox International
+  industry:     Manufacturing
+  city:         Richardson
+  state:        Texas
+
+company_494:
+  id:           494
+  name:         American Axle & Mfg.
+  industry:     Manufacturing
+  city:         Detroit
+  state:        Michigan
+
+company_495:
+  id:           495
+  name:         C.H. Robinson Worldwide
+  industry:     Transportation
+  city:         Eden Prarie
+  state:        Minnesota
+
+company_496:
+  id:           496
+  name:         Kindred Healthcare
+  industry:     Healthcare
+  city:         Louisville
+  state:        Kentucky
+
+company_497:
+  id:           497
+  name:         Devon Energy
+  industry:     Energy
+  city:         Oklahoma City
+  state:        Oklahoma
+
+company_498:
+  id:           498
+  name:         Sealed Air
+  industry:     Manufacturing
+  city:         Elmwood Park
+  state:        New Jersey
+
+company_499:
+  id:           499
+  name:         Hilton Hotels
+  industry:     Hospitality
+  city:         Los Angeles
+  state:        California
+
+company_500:
+  id:           500
+  name:         New York Times
+  industry:     Media
+  city:         New York
+  state:        New York
+
+company_501:
+  id:           501
+  name:         Hughes Supply
+  industry:     Construction
+  city:         Atlanta
+  state:        Georgia
+
+company_502:
+  id:           502
+  name:         Vulcan Materials
+  industry:     Manufacturing
+  city:         Birmingham
+  state:        Alabama
+
+company_503:
+  id:           503
+  name:         Universal
+  industry:     Agriculture
+  city:         Richmond
+  state:        Virginia
+
+company_504:
+  id:           504
+  name:         Auto-Owners Insurance
+  industry:     Insurance
+  city:         Lansing
+  state:        Michigan
+
+company_505:
+  id:           505
+  name:         Neiman Marcus
+  industry:     Retail
+  city:         Dallas
+  state:        Texas
+
+company_506:
+  id:           506
+  name:         3Com
+  industry:     Technology
+  city:         Marlborough
+  state:        Massachusetts
+
+company_507:
+  id:           507
+  name:         H&R Block
+  industry:     Finance
+  city:         Kansas City
+  state:        Missouri
+
+company_508:
+  id:           508
+  name:         Reebok International
+  industry:     Manufacturing
+  city:         Bolton England
+  state:        International
+
+company_509:
+  id:           509
+  name:         Ross Stores
+  industry:     Retail
+  city:         Pleasanton
+  state:        California
+
+company_510:
+  id:           510
+  name:         Trigon Healthcare
+  industry:     Healthcare
+  city:         Indianapolis
+  state:        Indiana
+
+company_511:
+  id:           511
+  name:         Unified Western Grocers
+  industry:     Retail
+  city:         Commerce
+  state:        California
+
+company_512:
+  id:           512
+  name:         Payless Shoesource
+  industry:     Retail
+  city:         Topeka
+  state:        Kansas
+
+company_513:
+  id:           513
+  name:         TruServ
+  industry:     Retail
+  city:         Chicago
+  state:        Illinois
+
+company_515:
+  id:           515
+  name:         Knight-Ridder
+  industry:     Media
+  city:         San Jose
+  state:        California
+
+company_516:
+  id:           516
+  name:         Ace Hardware
+  industry:     Retail
+  city:         Chicago
+  state:        Illinois
+
+company_517:
+  id:           517
+  name:         United Rentals
+  industry:     Transportation
+  city:         Greenwich
+  state:        Connecticut
+
+company_518:
+  id:           518
+  name:         Fisher Scientific International
+  industry:     Technology
+  city:         Hampton
+  state:        New Hampshire
+
+company_519:
+  id:           519
+  name:         Hasbro
+  industry:     Manufacturing
+  city:         Pawtucket
+  state:        Rhode Island
+
+company_520:
+  id:           520
+  name:         KPMG Consulting
+  industry:     Finance
+  city:         Amsterdam
+  state:        International
+
+company_521:
+  id:           521
+  name:         Charter One Financial
+  industry:     Finance
+  city:         Vancouver
+  state:        International
+
+company_522:
+  id:           522
+  name:         Thermo Electron
+  industry:     Manufacturing
+  city:         Waltham
+  state:        Massachusetts
+
+company_523:
+  id:           523
+  name:         Universal Health Services
+  industry:     Healthcare
+  city:         King of Prussia
+  state:        Pennsylvania
+
+company_524:
+  id:           524
+  name:         A.G. Edwards
+  industry:     Finance
+  city:         St. Louis
+  state:        Missouri
+
+company_525:
+  id:           525
+  name:         Transocean Sedco Forex
+  industry:     Transportation
+  city:         Houston
+  state:        Texas
+
+company_526:
+  id:           526
+  name:         Rockwell Collins
+  industry:     Manufacturing
+  city:         Cedar Rapids
+  state:        Iowa
+
+company_527:
+  id:           527
+  name:         Solutia
+  industry:     Manufacturing
+  city:         St. Louis
+  state:        Missouri
+
+company_528:
+  id:           528
+  name:         Pactiv
+  industry:     Manufacturing
+  city:         Lake Forest 
+  state:        Illinois
+
+company_529:
+  id:           529
+  name:         Wackenhut
+  industry:     Other
+  city:         Palm Beach Gardens
+  state:        Florida
+
+company_530:
+  id:           530
+  name:         Pentair
+  industry:     Manufacturing
+  city:         Golden Valley
+  state:        Minnesota
+
+company_531:
+  id:           531
+  name:         Roadway
+  industry:     Transportation
+  city:         Akron
+  state:        Ohio
+
+company_532:
+  id:           532
+  name:         Alliant Energy
+  industry:     Energy
+  city:         Madison
+  state:        Wisconsin
+
+company_533:
+  id:           533
+  name:         Apache
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_534:
+  id:           534
+  name:         Ruddick
+  industry:     Other
+  city:         Charlotte
+  state:        North Carolina
+
+company_535:
+  id:           535
+  name:         Ryland Group
+  industry:     Construction
+  city:         Calabasas
+  state:        California
+
+company_536:
+  id:           536
+  name:         Crompton
+  industry:     Manufacturing
+  city:         Middlebury
+  state:        Connecticut
+
+company_537:
+  id:           537
+  name:         Reddit
+  industry:     Technology
+  city:         New York
+  state:        New York
+
+company_538:
+  id:           538
+  name:         IMC Global
+  industry:     Agriculture
+  city:         Plymouth
+  state:        Minnesota
+
+company_539:
+  id:           539
+  name:         Spherion
+  industry:     Other
+  city:         Fort Lauderdale
+  state:        Florida
+
+company_541:
+  id:           541
+  name:         Marshall & Ilsley Corp.
+  industry:     Finance
+  city:         Milwaukee
+  state:        Wisconsin
+
+company_542:
+  id:           542
+  name:         Guidant
+  industry:     Healthcare
+  city:         Indianapolis
+  state:        Indiana
+
+company_543:
+  id:           543
+  name:         Torchmark
+  industry:     Insurance
+  city:         McKinney
+  state:        Texas
+
+company_544:
+  id:           544
+  name:         Manor Care
+  industry:     Healthcare
+  city:         Toledo
+  state:        Ohio
+
+company_545:
+  id:           545
+  name:         Qualcomm
+  industry:     Telecommunications
+  city:         San Diego
+  state:        California
+
+company_546:
+  id:           546
+  name:         WPS Resources
+  industry:     Energy
+  city:         Chicago
+  state:        Illinois
+
+company_547:
+  id:           547
+  name:         Boston Scientific
+  industry:     Healthcare
+  city:         Natick
+  state:        Massachusetts
+
+company_548:
+  id:           548
+  name:         Triad Hospitals
+  industry:     Healthcare
+  city:         Plano
+  state:        Texas
+
+company_549:
+  id:           549
+  name:         PolyOne
+  industry:     Manufacturing
+  city:         Avon Lake
+  state:        Ohio
+
+company_550:
+  id:           550
+  name:         Starbucks
+  industry:     Food Services
+  city:         Seattle
+  state:        Washington
+
+company_551:
+  id:           551
+  name:         TECO Energy
+  industry:     Energy
+  city:         Tampa
+  state:        Florida
+
+company_552:
+  id:           552
+  name:         Sovereign Bancorp
+  industry:     Finance
+  city:         Reading
+  state:        Pennsylvania
+
+company_553:
+  id:           553
+  name:         Pantry
+  industry:     Retail
+  city:         Sanford
+  state:        North Carolina
+
+company_554:
+  id:           554
+  name:         Nacco Industries
+  industry:     Manufacturing
+  city:         Cleveland
+  state:        Ohio
+
+company_555:
+  id:           555
+  name:         Stanley Works
+  industry:     Manufacturing
+  city:         New Britain
+  state:        Connecticut
+
+company_556:
+  id:           556
+  name:         NVR
+  industry:     Construction
+  city:         Reston
+  state:        Virginia
+
+company_557:
+  id:           557
+  name:         Hercules
+  industry:     Manufacturing
+  city:         Wilmington
+  state:        Delaware
+
+company_558:
+  id:           558
+  name:         Sonoco Products
+  industry:     Manufacturing
+  city:         Hartsville
+  state:        South Carolina
+
+company_559:
+  id:           559
+  name:         Stryker
+  industry:     Technology
+  city:         Kalamazoo
+  state:        Michigan
+
+company_560:
+  id:           560
+  name:         Telephone & Data Systems
+  industry:     Telecommunications
+  city:         Chicago
+  state:        Illinois
+
+company_561:
+  id:           561
+  name:         Earthgrains
+  industry:     Consumer Goods
+  city:         Neenah
+  state:        Wisconsin
+
+company_562:
+  id:           562
+  name:         M & T Bank Corp.
+  industry:     Finance
+  city:         Buffalo
+  state:        New York
+
+company_563:
+  id:           563
+  name:         Stater Bros. Holdings
+  industry:     Retail
+  city:         Colton
+  state:        California
+
+company_564:
+  id:           564
+  name:         Citizens Communications
+  industry:     Telecommunications
+  city:         Stamford
+  state:        Connecticut
+
+company_566:
+  id:           566
+  name:         Popular
+  industry:     Finance
+  city:         San Juan
+  state:        International
+
+company_567:
+  id:           567
+  name:         Cincinnati Financial
+  industry:     Finance
+  city:         Cincinnati
+  state:        Ohio
+
+company_568:
+  id:           568
+  name:         Henry Schein
+  industry:     Healthcare
+  city:         Melville
+  state:        New York
+
+company_570:
+  id:           570
+  name:         Nicor
+  industry:     Energy
+  city:         Naperville
+  state:        Illinois
+
+company_571:
+  id:           571
+  name:         AGCO
+  industry:     Manufacturing
+  city:         Duluth
+  state:        Georgia
+
+company_572:
+  id:           572
+  name:         Unitrin
+  industry:     Insurance
+  city:         Vista
+  state:        California
+
+company_573:
+  id:           573
+  name:         Fleetwood Enterprises
+  industry:     Manufacturing
+  city:         Riverside
+  state:        California
+
+company_574:
+  id:           574
+  name:         Michaels Stores
+  industry:     Retail
+  city:         Irving
+  state:        Texas
+
+company_575:
+  id:           575
+  name:         International Multifoods
+  industry:     Consumer Goods
+  city:         Minnetonka
+  state:        Minnesota
+
+company_576:
+  id:           576
+  name:         American Greetings
+  industry:     Consumer Goods
+  city:         Cleveland
+  state:        Ohio
+
+company_577:
+  id:           577
+  name:         Reader's Digest Association
+  industry:     Media
+  city:         Chappaqua
+  state:        New York
+
+company_578:
+  id:           578
+  name:         Advance Auto Parts
+  industry:     Manufacturing
+  city:         Roanoke
+  state:        Virginia
+
+company_579:
+  id:           579
+  name:         Scientific-Atlanta
+  industry:     Telecommunications
+  city:         Lawrenceville
+  state:        Georgia
+
+company_580:
+  id:           580
+  name:         Service Corp. International
+  industry:     Other
+  city:         Houston
+  state:        Texas
+
+company_581:
+  id:           581
+  name:         Potomac Electric Power
+  industry:     Energy
+  city:         Washington
+  state:        District of Columbia
+
+company_582:
+  id:           582
+  name:         PetsMart
+  industry:     Retail
+  city:         Phoenix
+  state:        Arizona
+
+company_583:
+  id:           583
+  name:         Alberto-Culver
+  industry:     Consumer Goods
+  city:         Melrose Park
+  state:        Illinois
+
+company_584:
+  id:           584
+  name:         Penn Traffic
+  industry:     Retail
+  city:         Syracuse
+  state:        New York
+
+company_585:
+  id:           585
+  name:         Dura Automotive Systems
+  industry:     Manufacturing
+  city:         Rochester Hills
+  state:        Michigan
+
+company_586:
+  id:           586
+  name:         Brinker International
+  industry:     Food Services
+  city:         Dallas
+  state:        Texas
+
+company_587:
+  id:           587
+  name:         Sabre Holdings
+  industry:     Technology
+  city:         Southlake
+  state:        Texas
+
+company_588:
+  id:           588
+  name:         UGI
+  industry:     Energy
+  city:         Valley Forge
+  state:        Pennsylvania
+
+company_589:
+  id:           589
+  name:         Tower Automotive
+  industry:     Manufacturing
+  city:         Novi
+  state:        Michigan
+
+company_590:
+  id:           590
+  name:         Mandalay Resort Group
+  industry:     Hospitality
+  city:         Las Vegas
+  state:        Nevada
+
+company_591:
+  id:           591
+  name:         Footstar
+  industry:     Retail
+  city:         Marwah
+  state:        New Jersey
+
+company_592:
+  id:           592
+  name:         USFreightways
+  industry:     Transportation
+  city:         Mahwah
+  state:        New Jersey
+
+company_593:
+  id:           593
+  name:         First Tennessee National Corp.
+  industry:     Finance
+  city:         Memphis
+  state:        Tennessee
+
+company_594:
+  id:           594
+  name:         Netcooler, Inc.
+  industry:     Technology
+  city:         Austin
+  state:        Texas
+
+company_595:
+  id:           595
+  name:         Robert Half International
+  industry:     Other
+  city:         Menlo Park
+  state:        California
+
+company_596:
+  id:           596
+  name:         Bowater
+  industry:     Manufacturing
+  city:         Greenville
+  state:        South Carolina
+
+company_597:
+  id:           597
+  name:         Huntington Bancshares
+  industry:     Finance
+  city:         Columbus
+  state:        Ohio
+
+company_598:
+  id:           598
+  name:         Timken
+  industry:     Manufacturing
+  city:         Canton
+  state:        Ohio
+
+company_599:
+  id:           599
+  name:         Commercial Metals
+  industry:     Manufacturing
+  city:         Irving
+  state:        Texas
+
+company_600:
+  id:           600
+  name:         CellStar
+  industry:     Transportation
+  city:         Plainfield
+  state:        Indiana
+
+company_601:
+  id:           601
+  name:         Exide Technologies
+  industry:     Technology
+  city:         Alpharetta
+  state:        Georgia
+
+company_602:
+  id:           602
+  name:         Wm. Wrigley Jr.
+  industry:     Consumer Goods
+  city:         Chicago
+  state:        Illinois
+
+company_603:
+  id:           603
+  name:         Adolph Coors
+  industry:     Consumer Goods
+  city:         Golden 
+  state:        Colorado
+
+company_604:
+  id:           604
+  name:         Burlington Coat Factory
+  industry:     Retail
+  city:         Burlington
+  state:        New Jersey
+
+company_605:
+  id:           605
+  name:         Phoenix Companies
+  industry:     Finance
+  city:         Hartford
+  state:        Connecticut
+
+company_606:
+  id:           606
+  name:         Washington Post
+  industry:     Media
+  city:         Washington
+  state:        District of Columbia
+
+company_607:
+  id:           607
+  name:         ADC Telecommunications
+  industry:     Telecommunications
+  city:         Eden Prarie
+  state:        Minnesota
+
+company_608:
+  id:           608
+  name:         Constellation Brands
+  industry:     Consumer Goods
+  city:         Fairport
+  state:        New York
+
+company_609:
+  id:           609
+  name:         Bed Bath & Beyond
+  industry:     Retail
+  city:         Union Township
+  state:        New Jersey
+
+company_610:
+  id:           610
+  name:         Erie Insurance Group
+  industry:     Insurance
+  city:         Erie
+  state:        Pennsylvania
+
+company_611:
+  id:           611
+  name:         Wendy's International
+  industry:     Food Services
+  city:         Dublin
+  state:        Ohio
+
+company_612:
+  id:           612
+  name:         Old Republic International
+  industry:     Real Estate
+  city:         Chicago
+  state:        Illinois
+
+company_613:
+  id:           613
+  name:         McCormick
+  industry:     Consumer Goods
+  city:         Sparks
+  state:        Maryland
+
+company_614:
+  id:           614
+  name:         OM Group
+  industry:     Manufacturing
+  city:         Cleveland
+  state:        Ohio
+
+company_615:
+  id:           615
+  name:         Molex
+  industry:     Manufacturing
+  city:         Lisle
+  state:        Illinois
+
+company_616:
+  id:           616
+  name:         Louisiana-Pacific
+  industry:     Manufacturing
+  city:         Nashville
+  state:        Tennessee
+
+company_617:
+  id:           617
+  name:         Franklin Resources
+  industry:     Finance
+  city:         San Mateo
+  state:        California
+
+company_618:
+  id:           618
+  name:         Ecolab
+  industry:     Manufacturing
+  city:         St. Paul
+  state:        Minnesota
+
+company_619:
+  id:           619
+  name:         PNM Resources
+  industry:     Energy
+  city:         Albequerque
+  state:        New Mexico
+
+company_620:
+  id:           620
+  name:         BorgWarner
+  industry:     Manufacturing
+  city:         Auburn Hills
+  state:        Michigan
+
+company_621:
+  id:           621
+  name:         Broadwing
+  industry:     Telecommunications
+  city:         Austin
+  state:        Texas
+
+company_622:
+  id:           622
+  name:         L-3 Communications
+  industry:     Telecommunications
+  city:         New York
+  state:        New York
+
+company_623:
+  id:           623
+  name:         Weatherford International
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_624:
+  id:           624
+  name:         Precision Castparts
+  industry:     manufacturing
+  city:         Portland
+  state:        Oregon
+
+company_625:
+  id:           625
+  name:         Convergys
+  industry:     Other
+  city:         Cincinnati
+  state:        Ohio
+
+company_626:
+  id:           626
+  name:         URS
+  industry:     Construction
+  city:         San Francisco
+  state:        California
+
+company_627:
+  id:           627
+  name:         Pennzoil-Quaker State
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_628:
+  id:           628
+  name:         Value City
+  industry:     Retail
+  city:         Columbus
+  state:        Ohio
+
+company_629:
+  id:           629
+  name:         Bemis
+  industry:     Manufacturing
+  city:         Neenah
+  state:        Wisconsin
+
+company_630:
+  id:           630
+  name:         Kellwood
+  industry:     Consumer Goods
+  city:         Chesterfield
+  state:        Missouri
+
+company_631:
+  id:           631
+  name:         Belk
+  industry:     Consumer Goods
+  city:         Charlotte
+  state:        North Carolina
+
+company_632:
+  id:           632
+  name:         Analog Devices
+  industry:     Technology
+  city:         Norwood
+  state:        Massachusetts
+
+company_633:
+  id:           633
+  name:         Whole Foods Market
+  industry:     Retail
+  city:         Austin
+  state:        Texas
+
+company_634:
+  id:           634
+  name:         Peoples Energy
+  industry:     Energy
+  city:         Chicago
+  state:        Illinois
+
+company_635:
+  id:           635
+  name:         Mail-Well
+  industry:     Other
+  city:         Stamford
+  state:        Connecticut
+
+company_636:
+  id:           636
+  name:         Republic Services
+  industry:     Transportation
+  city:         Fort Lauderdale
+  state:        Florida
+
+company_637:
+  id:           637
+  name:         La-Z-Boy
+  industry:     Manufacturing
+  city:         Monroe
+  state:        Michigan
+
+company_638:
+  id:           638
+  name:         Ryerson Tull
+  industry:     Manufacturing
+  city:         Chicago
+  state:        Illinois
+
+company_639:
+  id:           639
+  name:         Chiquita Brands International
+  industry:     Agriculture
+  city:         Cincinnati
+  state:        Ohio
+
+company_641:
+  id:           641
+  name:         Herman Miller
+  industry:     Manufacturing
+  city:         Zeeland
+  state:        Michigan
+
+company_642:
+  id:           642
+  name:         Budget Group
+  industry:     Transportation
+  city:         Los Angeles
+  state:        California
+
+company_643:
+  id:           643
+  name:         BJ Services
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_644:
+  id:           644
+  name:         Toll Brothers
+  industry:     Construction
+  city:         Horsham
+  state:        Pennsylvania
+
+company_645:
+  id:           645
+  name:         Polo Ralph Lauren
+  industry:     Retail
+  city:         New York
+  state:        New York
+
+company_646:
+  id:           646
+  name:         Nabors Industries
+  industry:     Energy
+  city:         Bermuda
+  state:        International
+
+company_647:
+  id:           647
+  name:         MDU Resources Group
+  industry:     Energy
+  city:         Bismark
+  state:        North Dakota
+
+company_648:
+  id:           648
+  name:         Pilgrim's Pride
+  industry:     Food Services
+  city:         Pittsburg 
+  state:        Texas
+
+company_649:
+  id:           649
+  name:         Laboratory Corp. of America
+  industry:     Technology
+  city:         Burlington
+  state:        North Carolina
+
+company_650:
+  id:           650
+  name:         Tellabs
+  industry:     Telecommunications
+  city:         Naperville
+  state:        Illinois
+
+company_651:
+  id:           651
+  name:         Western Resources
+  industry:     Energy
+  city:         Topeka
+  state:        Kansas
+
+company_652:
+  id:           652
+  name:         Pep Boys-Manny, Moe & Jack
+  industry:     Retail
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_653:
+  id:           653
+  name:         Equity Residential Properties
+  industry:     Real Estate
+  city:         Chicago
+  state:        Illinois
+
+company_654:
+  id:           654
+  name:         LandAmerica Financial Group
+  industry:     Real Estate
+  city:         Glen Allen
+  state:        Virginia
+
+company_655:
+  id:           655
+  name:         Vectren
+  industry:     Energy
+  city:         Evansville
+  state:        Indiana
+
+company_656:
+  id:           656
+  name:         Cintas
+  industry:     Other
+  city:         Cincinnati
+  state:        Ohio
+
+company_657:
+  id:           657
+  name:         Omnicare
+  industry:     Healthcare
+  city:         Covington
+  state:        Kentucky
+
+company_658:
+  id:           658
+  name:         Maxxam
+  industry:     Real Estate
+  city:         Houston
+  state:        Texas
+
+company_659:
+  id:           659
+  name:         Alaska Air Group
+  industry:     Transportation
+  city:         Seattle
+  state:        Washington
+
+company_660:
+  id:           660
+  name:         American National Insurance
+  industry:     Insurance
+  city:         Galveston
+  state:        Texas
+
+company_661:
+  id:           661
+  name:         Allegheny Technologies
+  industry:     Manufacturing
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_662:
+  id:           662
+  name:         Outback Steakhouse
+  industry:     Food Services
+  city:         Tampa
+  state:        Florida
+
+company_663:
+  id:           663
+  name:         MDC Holdings
+  industry:     Construction
+  city:         Denver 
+  state:        Colorado
+
+company_664:
+  id:           664
+  name:         Sun Healthcare Group
+  industry:     Healthcare
+  city:         Irvine
+  state:        California
+
+company_665:
+  id:           665
+  name:         CenturyTel
+  industry:     Telecommunications
+  city:         Marion
+  state:        Louisiana
+
+company_666:
+  id:           666
+  name:         National Semiconductor
+  industry:     Technology
+  city:         Santa Clara
+  state:        California
+
+company_667:
+  id:           667
+  name:         Swift Transportation
+  industry:     Transportation
+  city:         Phoenix
+  state:        Arizona
+
+company_668:
+  id:           668
+  name:         CUNA Mutual Group
+  industry:     Finance
+  city:         Madison
+  state:        Wisconsin
+
+company_669:
+  id:           669
+  name:         Harsco
+  industry:     Manufacturing
+  city:         Camp Hill
+  state:        Pennsylvania
+
+company_670:
+  id:           670
+  name:         Hillenbrand Industries
+  industry:     Manufacturing
+  city:         Batesville
+  state:        Indiana
+
+company_671:
+  id:           671
+  name:         Wyndham International
+  industry:     Hospitality
+  city:         Parsippany
+  state:        New Jersey
+
+company_672:
+  id:           672
+  name:         Kla-Tencor
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_673:
+  id:           673
+  name:         MONY Group
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_674:
+  id:           674
+  name:         National Fuel Gas
+  industry:     Energy
+  city:         Williamsville
+  state:        New York
+
+company_675:
+  id:           675
+  name:         J.B. Hunt Transport Services
+  industry:     Transportation
+  city:         Lowell
+  state:        Arkansas
+
+company_676:
+  id:           676
+  name:         Williams-Sonoma
+  industry:     Retail
+  city:         San Francisco
+  state:        California
+
+company_677:
+  id:           677
+  name:         Snap-On
+  industry:     Manufacturing
+  city:         Kenosha
+  state:        Wisconsin
+
+company_679:
+  id:           679
+  name:         Insight Enterprises
+  industry:     Technology
+  city:         Tempe
+  state:        Arizona
+
+company_680:
+  id:           680
+  name:         Nortek
+  industry:     Technology
+  city:         Bologna
+  state:        International
+
+company_681:
+  id:           681
+  name:         PeopleSoft
+  industry:     Technology
+  city:         Denver
+  state:        Colorado
+
+company_682:
+  id:           682
+  name:         Synovus Financial Corp.
+  industry:     Finance
+  city:         Columbus
+  state:        Georgia
+
+company_683:
+  id:           683
+  name:         Zale
+  industry:     Retail
+  city:         Irving
+  state:        Texas
+
+company_684:
+  id:           684
+  name:         America West Holdings
+  industry:     Transportation
+  city:         Tempe
+  state:        Arizona
+
+company_685:
+  id:           685
+  name:         Affiliated Computer Services
+  industry:     Technology
+  city:         Dallas
+  state:        Texas
+
+company_686:
+  id:           686
+  name:         E*Trade Group
+  industry:     Finance
+  city:         New York
+  state:        New York
+
+company_687:
+  id:           687
+  name:         Simon Property Group
+  industry:     Real Estate
+  city:         Indianapolis
+  state:        Indiana
+
+company_688:
+  id:           688
+  name:         New Jersey Resources
+  industry:     Energy
+  city:         Wall
+  state:        New Jersey
+
+company_689:
+  id:           689
+  name:         Siebel Systems
+  industry:     Technology
+  city:         Redwood Shores
+  state:        California
+
+company_690:
+  id:           690
+  name:         Storage Technology
+  industry:     Technology
+  city:         Louisville
+  state:        Colorado
+
+company_691:
+  id:           691
+  name:         Quanta Services
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_692:
+  id:           692
+  name:         Zions Bancorp.
+  industry:     Finance
+  city:         Salt Lake City
+  state:        Utah
+
+company_693:
+  id:           693
+  name:         Compuware
+  industry:     Technology
+  city:         Detroit
+  state:        Michigan
+
+company_694:
+  id:           694
+  name:         RPM
+  industry:     Manufacturing
+  city:         Medina
+  state:        Ohio
+
+company_695:
+  id:           695
+  name:         Bell Microproducts
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_696:
+  id:           696
+  name:         General Cable Corporation
+  industry:     Manufacturing
+  city:         Highland Heights
+  state:        Kentucky
+
+company_697:
+  id:           697
+  name:         Volt Information Sciences
+  industry:     Other
+  city:         New York
+  state:        New York
+
+company_698:
+  id:           698
+  name:         Metaldyne
+  industry:     Manufacturing
+  city:         Plymouth
+  state:        Michigan
+
+company_699:
+  id:           699
+  name:         Charming Shoppes
+  industry:     Retail
+  city:         Bensalem
+  state:        Pennsylvania
+
+company_700:
+  id:           700
+  name:         Weis Markets
+  industry:     Retail
+  city:         Sunbury
+  state:        Pennsylvania
+
+company_701:
+  id:           701
+  name:         Dollar Tree Stores
+  industry:     Retail
+  city:         Chesapeake
+  state:        Virginia
+
+company_702:
+  id:           702
+  name:         Beckman Coulter
+  industry:     Manufacturing
+  city:         Fullerton
+  state:        California
+
+company_703:
+  id:           703
+  name:         Protective Life
+  industry:     Insurance
+  city:         Birmingham
+  state:        Alabama
+
+company_704:
+  id:           704
+  name:         CBRL Group
+  industry:     Food Services
+  city:         Lebanon
+  state:        Tennessee
+
+company_705:
+  id:           705
+  name:         Scholastic
+  industry:     Other
+  city:         New York
+  state:        New York
+
+company_706:
+  id:           706
+  name:         Harris
+  industry:     Telecommunications
+  city:         Melbourne
+  state:        Florida
+
+company_707:
+  id:           707
+  name:         Western Digital
+  industry:     Technology
+  city:         Lake Forest
+  state:        California
+
+company_708:
+  id:           708
+  name:         Ingles Markets
+  industry:     Retail
+  city:         Black Mountain
+  state:        North Carolina
+
+company_709:
+  id:           709
+  name:         ABM Industries
+  industry:     Manufacturing
+  city:         San Fancisco
+  state:        California
+
+company_710:
+  id:           710
+  name:         W.R. Berkley
+  industry:     Insurance
+  city:         Greenwich
+  state:        Connecticut
+
+company_711:
+  id:           711
+  name:         Silgan Holdings
+  industry:     Manufacturing
+  city:         Stamford
+  state:        Connecticut
+
+company_712:
+  id:           712
+  name:         WGL Holdings
+  industry:     Energy
+  city:         Washington
+  state:        District of Columbia
+
+company_713:
+  id:           713
+  name:         TravelCenters of America
+  industry:     Other
+  city:         Westlake
+  state:        Ohio
+
+company_714:
+  id:           714
+  name:         Southern Union
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_715:
+  id:           715
+  name:         SunGard Data Systems
+  industry:     Technology
+  city:         Wayne
+  state:        Pennsylvania
+
+company_716:
+  id:           716
+  name:         Casey's General Stores
+  industry:     Retail
+  city:         Ankeny
+  state:        Iowa
+
+company_717:
+  id:           717
+  name:         Safeguard Scientifics
+  industry:     Finance
+  city:         Wayne
+  state:        Pennsylvania
+
+company_718:
+  id:           718
+  name:         Brown-Forman
+  industry:     Consumer Goods
+  city:         Louisville
+  state:        Kentucky
+
+company_719:
+  id:           719
+  name:         CH2M Hill
+  industry:     Other
+  city:         Englewood
+  state:        Colorado
+
+company_720:
+  id:           720
+  name:         Walter Industries
+  industry:     Energy
+  city:         Tampa
+  state:        Florida
+
+company_721:
+  id:           721
+  name:         Valspar
+  industry:     Manufacturing
+  city:         Minneapolis
+  state:        Minnesota
+
+company_722:
+  id:           722
+  name:         Flowserve
+  industry:     Manufacturing
+  city:         Irving
+  state:        Texas
+
+company_723:
+  id:           723
+  name:         Teleflex
+  industry:     Manufacturing
+  city:         Limerick
+  state:        Pennsylvania
+
+company_724:
+  id:           724
+  name:         Trinity Industries
+  industry:     Manufacturing
+  city:         Dallas
+  state:        Texas
+
+company_725:
+  id:           725
+  name:         Ohio Casualty
+  industry:     Insurance
+  city:         Fairfield
+  state:        Ohio
+
+company_726:
+  id:           726
+  name:         Compass Bancshares
+  industry:     Finance
+  city:         Birmingham
+  state:        Alabama
+
+company_727:
+  id:           727
+  name:         Furniture Brands International
+  industry:     Consumer Goods
+  city:         St. louis
+  state:        Missouri
+
+company_728:
+  id:           728
+  name:         Fiserv
+  industry:     Technology
+  city:         Brookfield
+  state:        Wisconsin
+
+company_729:
+  id:           729
+  name:         Sentry Insurance Group
+  industry:     Insurance
+  city:         Stevens Point
+  state:        Wisconsin
+
+company_730:
+  id:           730
+  name:         DynCorp
+  industry:     Other
+  city:         Falls Chruch
+  state:        Virginia
+
+company_731:
+  id:           731
+  name:         Frontier Oil
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_733:
+  id:           733
+  name:         Corn Products International
+  industry:     Food Services
+  city:         Westchester
+  state:        Illinois
+
+company_734:
+  id:           734
+  name:         Health Management Associates
+  industry:     Healthcare
+  city:         Naples
+  state:        Florida
+
+company_735:
+  id:           735
+  name:         Marsh Supermarkets
+  industry:     Retail
+  city:         Indianapolis
+  state:        Iowa
+
+company_736:
+  id:           736
+  name:         Lithia Motors
+  industry:     Retail
+  city:         Medford
+  state:        Oregon
+
+company_737:
+  id:           737
+  name:         Magellan Health Services
+  industry:     Healthcare
+  city:         Avon
+  state:        Connecticut
+
+company_738:
+  id:           738
+  name:         Silicon Graphics
+  industry:     Technology
+  city:         Sunnyvale
+  state:        California
+
+company_740:
+  id:           740
+  name:         Carlisle
+  industry:     Manufacturing
+  city:         Charlotte
+  state:        North Carolina
+
+company_741:
+  id:           741
+  name:         Lubrizol
+  industry:     Manufacturing
+  city:         Wickliffe
+  state:        Ohio
+
+company_742:
+  id:           742
+  name:         International Flavors & Fragrances Inc.
+  industry:     Consumer Goods
+  city:         New York
+  state:        New York
+
+company_743:
+  id:           743
+  name:         Freeport-McMoRan Copper & Gold
+  industry:     Other
+  city:         Phoenix
+  state:        Arizona
+
+company_744:
+  id:           744
+  name:         Jack in the Box
+  industry:     Food Services
+  city:         San Diego
+  state:        California
+
+company_745:
+  id:           745
+  name:         Worthington Industries
+  industry:     Manufacturing
+  city:         Columbus
+  state:        Ohio
+
+company_746:
+  id:           746
+  name:         Brightpoint
+  industry:     Telecommunications
+  city:         Plainfiled
+  state:        Indiana
+
+company_747:
+  id:           747
+  name:         Linens'n Things
+  industry:     Retail
+  city:         Clifton
+  state:        New Jersey
+
+company_748:
+  id:           748
+  name:         Collins & Aikman
+  industry:     Manufacturing
+  city:         Southfield
+  state:        Michigan
+
+company_749:
+  id:           749
+  name:         PSS World Medical
+  industry:     Healthcare
+  city:         Jacksonville
+  state:        Florida
+
+company_750:
+  id:           750
+  name:         Amerco
+  industry:     Other
+  city:         reno
+  state:        Nevada
+
+company_751:
+  id:           751
+  name:         Terex
+  industry:     Manufacturing
+  city:         Westport
+  state:        Connecticut
+
+company_752:
+  id:           752
+  name:         McLeodUSA
+  industry:     Telecommunications
+  city:         Cedar Rapids
+  state:        Iowa
+
+company_753:
+  id:           753
+  name:         Gold Kist
+  industry:     Food Services
+  city:         Pittsburg
+  state:        Texas
+
+company_754:
+  id:           754
+  name:         Rent A Center
+  industry:     Retail
+  city:         Plano
+  state:        Texas
+
+company_755:
+  id:           755
+  name:         Kennametal
+  industry:     Other
+  city:         Latrobe
+  state:        Pennsylvania
+
+company_756:
+  id:           756
+  name:         Mid Atlantic Medical Services
+  industry:     Healthcare
+  city:         Minneapolis
+  state:        Minnesota
+
+company_757:
+  id:           757
+  name:         Beazer Homes USA
+  industry:     Real Estate
+  city:         Atlanta
+  state:        Georgia
+
+company_758:
+  id:           758
+  name:         Seaboard
+  industry:     Transportation
+  city:         Miami
+  state:        Florida
+
+company_759:
+  id:           759
+  name:         Minnesota Life Ins.
+  industry:     Insurance
+  city:         St. Paul
+  state:        Minnesota
+
+company_760:
+  id:           760
+  name:         Hon Industries
+  industry:     Manufacturing
+  city:         Muscatine
+  state:        Iowa
+
+company_761:
+  id:           761
+  name:         Packaging Corp. of America
+  industry:     Manufacturing
+  city:         Lake Forest
+  state:        Illinois
+
+company_762:
+  id:           762
+  name:         LSI Logic
+  industry:     Technology
+  city:         Milpitas
+  state:        California
+
+company_763:
+  id:           763
+  name:         Dow Jones
+  industry:     Media
+  city:         New York
+  state:        New York
+
+company_764:
+  id:           764
+  name:         WestPoint Stevens
+  industry:     Retail
+  city:         Westpoint
+  state:        Georgia
+
+company_765:
+  id:           765
+  name:         Equitable Resources
+  industry:     Energy
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_766:
+  id:           766
+  name:         Diebold
+  industry:     Technology
+  city:         North canton
+  state:        Ohio
+
+company_767:
+  id:           767
+  name:         W.R. Grace
+  industry:     Manufacturing
+  city:         Columbia
+  state:        Maryland
+
+company_768:
+  id:           768
+  name:         Brown Shoe
+  industry:     Consumer Goods
+  city:         St. louis
+  state:        Missouri
+
+company_769:
+  id:           769
+  name:         Sequa
+  industry:     Manufacturing
+  city:         New York
+  state:        New York
+
+company_770:
+  id:           770
+  name:         Potlatch
+  industry:     Other
+  city:         Spokane
+  state:        Washington
+
+company_771:
+  id:           771
+  name:         Scotts Company
+  industry:     Other
+  city:         Marysville
+  state:        Ohio
+
+company_772:
+  id:           772
+  name:         National Oilwell
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_773:
+  id:           773
+  name:         Primedia
+  industry:     Media
+  city:         New York
+  state:        New York
+
+company_774:
+  id:           774
+  name:         Hovnanian Enterprises
+  industry:     Real Estate
+  city:         Red bank
+  state:        New Jersey
+
+company_775:
+  id:           775
+  name:         Southern States Coop.
+  industry:     Agriculture
+  city:         Richmond
+  state:        Virginia
+
+company_776:
+  id:           776
+  name:         Paychex
+  industry:     Other
+  city:         Rochester
+  state:        New York
+
+company_777:
+  id:           777
+  name:         Hawaiian Electric Industries
+  industry:     Energy
+  city:         Honlulu
+  state:        Hawaii
+
+company_778:
+  id:           778
+  name:         Greenpoint Financial
+  industry:     Finance
+  city:         Mclean
+  state:        Virginia
+
+company_779:
+  id:           779
+  name:         Harman Intl. Industries
+  industry:     Technology
+  city:         Washington
+  state:        District of Columbia
+
+company_780:
+  id:           780
+  name:         Bausch & Lomb
+  industry:     Healthcare
+  city:         Rochester
+  state:        New York
+
+company_781:
+  id:           781
+  name:         Concord EFS
+  industry:     Technology
+  city:         Greenwood Village
+  state:        Colorado
+
+company_782:
+  id:           782
+  name:         Cabot
+  industry:     Manufacturing
+  city:         Alpharetta
+  state:        Georgia
+
+company_784:
+  id:           784
+  name:         Energizer Holdings
+  industry:     Consumer Goods
+  city:         St. Louis
+  state:        Missouri
+
+company_785:
+  id:           785
+  name:         Community Health Systems
+  industry:     Healthcare
+  city:         Franklin
+  state:        Tennessee
+
+company_786:
+  id:           786
+  name:         Integrated Electrical Services
+  industry:     Construction
+  city:         Houston
+  state:        Texas
+
+company_787:
+  id:           787
+  name:         Wallace Computer Services
+  industry:     Technology
+  city:         Sunrise
+  state:        Florida
+
+company_788:
+  id:           788
+  name:         Allergan
+  industry:     Healthcare
+  city:         Irvine
+  state:        California
+
+company_789:
+  id:           789
+  name:         Metals USA
+  industry:     Manufacturing
+  city:         Houston
+  state:        Texas
+
+company_790:
+  id:           790
+  name:         EGL
+  industry:     Other
+  city:         Houston
+  state:        Texas
+
+company_791:
+  id:           791
+  name:         Allete
+  industry:     Energy
+  city:         Duluth
+  state:        Minnesota
+
+company_792:
+  id:           792
+  name:         Reliance Steel & Aluminum
+  industry:     Manufacturing
+  city:         Los Angeles
+  state:        California
+
+company_793:
+  id:           793
+  name:         DST Systems
+  industry:     Technology
+  city:         Kansas City
+  state:        Missouri
+
+company_794:
+  id:           794
+  name:         Viad
+  industry:     Other
+  city:         Phoenix
+  state:        Arizona
+
+company_795:
+  id:           795
+  name:         Xilinx
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_796:
+  id:           796
+  name:         Raymond James Financial
+  industry:     Finance
+  city:         St. Petersburg
+  state:        Florida
+
+company_797:
+  id:           797
+  name:         Newmont Mining
+  industry:     Other
+  city:         Denver
+  state:        Colorado
+
+company_798:
+  id:           798
+  name:         Vishay Intertechnology
+  industry:     Technology
+  city:         Malvern
+  state:        Pennsylvania
+
+company_799:
+  id:           799
+  name:         EOG Resources
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_800:
+  id:           800
+  name:         Expeditors Intl of Washington
+  industry:     Other
+  city:         Seattle
+  state:        Washington
+
+company_801:
+  id:           801
+  name:         DaVita
+  industry:     Healthcare
+  city:         El Segundo
+  state:        California
+
+company_802:
+  id:           802
+  name:         D&K Healthcare Resources
+  industry:     Healthcare
+  city:         San Francisco
+  state:        California
+
+company_803:
+  id:           803
+  name:         Applera
+  industry:     Technology
+  city:         Norwalk
+  state:        Connecticut
+
+company_804:
+  id:           804
+  name:         UST
+  industry:     Other
+  city:         Greenwich
+  state:        Connecticut
+
+company_805:
+  id:           805
+  name:         Flowers Foods
+  industry:     Food Services
+  city:         Thomasville
+  state:        California
+
+company_806:
+  id:           806
+  name:         Airgas
+  industry:     Other
+  city:         Radnor
+  state:        Pennsylvania
+
+company_807:
+  id:           807
+  name:         Applied Industrial Technologies
+  industry:     Other
+  city:         Cleveland
+  state:        Ohio
+
+company_808:
+  id:           808
+  name:         Quintiles Transnational
+  industry:     Healthcare
+  city:         Research Triangle Park
+  state:        North Carolina
+
+company_809:
+  id:           809
+  name:         Tiffany & Co
+  industry:     Retail
+  city:         New York
+  state:        New York
+
+company_810:
+  id:           810
+  name:         Ciena
+  industry:     Technology
+  city:         Linthicum
+  state:        Maryland
+
+company_811:
+  id:           811
+  name:         PerkinElmer
+  industry:     Technology
+  city:         Waltham
+  state:        Massachusetts
+
+company_812:
+  id:           812
+  name:         Great Lakes Chemical
+  industry:     Other
+  city:         Middlebury
+  state:        Connecticut
+
+company_813:
+  id:           813
+  name:         Millennium Chemicals
+  industry:     Other
+  city:         Hunt Valley
+  state:        Maryland
+
+company_814:
+  id:           814
+  name:         Crane
+  industry:     Manufacturing
+  city:         Stamford
+  state:        Connecticut
+
+company_815:
+  id:           815
+  name:         StanCorp Financial
+  industry:     Finance
+  city:         Portland
+  state:        Oregon
+
+company_816:
+  id:           816
+  name:         Maxim Integrated Products
+  industry:     Technology
+  city:         Sunnyvale
+  state:        California
+
+company_818:
+  id:           818
+  name:         Noble Affiliates
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_819:
+  id:           819
+  name:         Jo Ann Stores
+  industry:     Retail
+  city:         Hudson
+  state:        Ohio
+
+company_820:
+  id:           820
+  name:         Lands' End
+  industry:     Retail
+  city:         Dodgeville
+  state:        Wisconsin
+
+company_821:
+  id:           821
+  name:         Cooper Cameron
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_822:
+  id:           822
+  name:         Black Hills
+  industry:     Energy
+  city:         Rapid City
+  state:        South Dakota
+
+company_823:
+  id:           823
+  name:         Stilwell Financial
+  industry:     Finance
+  city:         Denver
+  state:        Colorado
+
+company_824:
+  id:           824
+  name:         Perini
+  industry:     Construction
+  city:         Framingham
+  state:        Massachusetts
+
+company_825:
+  id:           825
+  name:         Thomas & Betts
+  industry:     Energy
+  city:         Memphis
+  state:        Tennessee
+
+company_826:
+  id:           826
+  name:         Imperial Sugar
+  industry:     Food Services
+  city:         Sugar Land
+  state:        Texas
+
+company_827:
+  id:           827
+  name:         MPS Group
+  industry:     Other
+  city:         Jacksonville
+  state:        Florida
+
+company_828:
+  id:           828
+  name:         Champion Enterprises
+  industry:     Real Estate
+  city:         Auburn Hills
+  state:        Michigan
+
+company_829:
+  id:           829
+  name:         Granite
+  industry:     Construction
+  city:         Watsonville
+  state:        California
+
+company_830:
+  id:           830
+  name:         National Commerce Financial
+  industry:     Finance
+  city:         Atlanta
+  state:        Georgia
+
+company_831:
+  id:           831
+  name:         Systemax
+  industry:     Technology
+  city:         Port Washington
+  state:        New York
+
+company_832:
+  id:           832
+  name:         Comfort Systems USA
+  industry:     Construction
+  city:         Houston
+  state:        Texas
+
+company_833:
+  id:           833
+  name:         Greif Bros.
+  industry:     Construction
+  city:         Delaware
+  state:        Ohio
+
+company_834:
+  id:           834
+  name:         Astoria Financial
+  industry:     Finance
+  city:         Lake Success
+  state:        New York
+
+company_835:
+  id:           835
+  name:         Shaw Group
+  industry:     Construction
+  city:         Baton Rouge
+  state:        Louisiana
+
+company_836:
+  id:           836
+  name:         Di Giorgio
+  industry:     Food Services
+  city:         Carteret
+  state:        New Jersey
+
+company_837:
+  id:           837
+  name:         Equifax
+  industry:     Other
+  city:         Atlanta
+  state:        Georgia
+
+company_838:
+  id:           838
+  name:         Legg Mason
+  industry:     Finance
+  city:         Baltimore
+  state:        Maryland
+
+company_839:
+  id:           839
+  name:         ACT Manufacturing
+  industry:     Manufacturing
+  city:         Hudson
+  state:        Massachusetts
+
+company_840:
+  id:           840
+  name:         Level 3 Communications
+  industry:     Telecommunications
+  city:         Broomfield
+  state:        Colorado
+
+company_841:
+  id:           841
+  name:         RGS Energy Group
+  industry:     Energy
+  city:         New Gloucester
+  state:        Maine
+
+company_842:
+  id:           842
+  name:         Universal Forest Products
+  industry:     Construction
+  city:         Grand Rapids
+  state:        Michigan
+
+company_843:
+  id:           843
+  name:         World Fuel Services
+  industry:     Energy
+  city:         Miami
+  state:        Florida
+
+company_845:
+  id:           845
+  name:         Arkansas Best
+  industry:     Transportation
+  city:         Fort Smith
+  state:        Arkansas
+
+company_846:
+  id:           846
+  name:         GATX
+  industry:     Other
+  city:         Chicago
+  state:        Illinois
+
+company_847:
+  id:           847
+  name:         Lam Research
+  industry:     Technology
+  city:         Fremont
+  state:        California
+
+company_848:
+  id:           848
+  name:         Amkor Technology
+  industry:     Technology
+  city:         Chandler
+  state:        Arizona
+
+company_849:
+  id:           849
+  name:         Pride International
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_850:
+  id:           850
+  name:         Polaris Industries
+  industry:     Manufacturing
+  city:         Medina
+  state:        Minnesota
+
+company_851:
+  id:           851
+  name:         Del Monte Foods
+  industry:     Food Services
+  city:         San Francisco
+  state:        California
+
+company_852:
+  id:           852
+  name:         Mercury General
+  industry:     Insurance
+  city:         Los Angeles
+  state:        California
+
+company_853:
+  id:           853
+  name:         Martin Marietta Materials
+  industry:     Manufacturing
+  city:         Raleigh
+  state:        North Carolina
+
+company_854:
+  id:           854
+  name:         US Oncology
+  industry:     Healthcare
+  city:         Houston
+  state:        Texas
+
+company_855:
+  id:           855
+  name:         Banknorth Group
+  industry:     Finance
+  city:         Portland
+  state:        Maine
+
+company_856:
+  id:           856
+  name:         BMC Software
+  industry:     Technology
+  city:         Houston
+  state:        Texas
+
+company_857:
+  id:           857
+  name:         Ferro
+  industry:     Manufacturing
+  city:         Cleveland
+  state:        Ohio
+
+company_858:
+  id:           858
+  name:         Veritas Software
+  industry:     Technology
+  city:         Mountain View
+  state:        California
+
+company_859:
+  id:           859
+  name:         Arch Coal
+  industry:     Energy
+  city:         St. Louis
+  state:        Missouri
+
+company_860:
+  id:           860
+  name:         CDI
+  industry:     Other
+  city:         Philadelphia
+  state:        Pennsylvania
+
+company_861:
+  id:           861
+  name:         GenCorp
+  industry:     Manufacturing
+  city:         Sacramento
+  state:        California
+
+company_862:
+  id:           862
+  name:         Hibernia Corp.
+  industry:     Finance
+  city:         McLean
+  state:        Virginia
+
+company_863:
+  id:           863
+  name:         Sierra Health Services
+  industry:     Healthcare
+  city:         Las Vegas
+  state:        Nevada
+
+company_864:
+  id:           864
+  name:         Atmel
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_865:
+  id:           865
+  name:         AIMCO
+  industry:     Real Estate
+  city:         Denver
+  state:        Colorado
+
+company_866:
+  id:           866
+  name:         Great Plains Energy
+  industry:     Energy
+  city:         Kansas City
+  state:        Missouri
+
+company_867:
+  id:           867
+  name:         E.W. Scripps
+  industry:     Media
+  city:         Cincinnati
+  state:        Ohio
+
+company_868:
+  id:           868
+  name:         Banta
+  industry:     Food Services
+  city:         Springfield
+  state:        Missouri
+
+company_869:
+  id:           869
+  name:         Symbol Technologies
+  industry:     Technology
+  city:         Holtsville
+  state:        New York
+
+company_870:
+  id:           870
+  name:         TMP Worldwide
+  industry:     Technology
+  city:         New York
+  state:        New York
+
+company_871:
+  id:           871
+  name:         Oshkosh Truck
+  industry:     Manufacturing
+  city:         Oshkosh
+  state:        Wisconsin
+
+company_872:
+  id:           872
+  name:         Unisource Energy
+  industry:     Energy
+  city:         Tuscon
+  state:        Arizona
+
+company_873:
+  id:           873
+  name:         Atmos Energy
+  industry:     Energy
+  city:         Dallas
+  state:        Texas
+
+company_874:
+  id:           874
+  name:         Rock-Tenn
+  industry:     Other
+  city:         Norcross
+  state:        Georgia
+
+company_875:
+  id:           875
+  name:         Teradyne
+  industry:     Technology
+  city:         North reading
+  state:        Massachusetts
+
+company_876:
+  id:           876
+  name:         Questar
+  industry:     Energy
+  city:         Salt Lake City
+  state:        Utah
+
+company_877:
+  id:           877
+  name:         American Water Works
+  industry:     Other
+  city:         Voorhees
+  state:        New Jersey
+
+company_878:
+  id:           878
+  name:         CSK Auto
+  industry:     Retail
+  city:         Phoenix
+  state:        Arizona
+
+company_879:
+  id:           879
+  name:         CKE Restaurants
+  industry:     Food Services
+  city:         Carpinteria
+  state:        California
+
+company_880:
+  id:           880
+  name:         American Power Conversion
+  industry:     Energy
+  city:         West Kingston
+  state:        Rhode Island
+
+company_881:
+  id:           881
+  name:         Phillips-Van Heusen
+  industry:     Retail
+  city:         New York
+  state:        New York
+
+company_882:
+  id:           882
+  name:         Cadence Design Systems
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_883:
+  id:           883
+  name:         Sports Authority
+  industry:     Retail
+  city:         Englewood
+  state:        Colorado
+
+company_884:
+  id:           884
+  name:         Pier 1 Imports
+  industry:     Retail
+  city:         Fort Worth
+  state:        Texas
+
+company_885:
+  id:           885
+  name:         Fairchild Semiconductor Intl.
+  industry:     Technology
+  city:         South Portland
+  state:        Maine
+
+company_886:
+  id:           886
+  name:         Kemet
+  industry:     Manufacturing
+  city:         Greenville
+  state:        South Carolina
+
+company_887:
+  id:           887
+  name:         Burlington Industries
+  industry:     Manufacturing
+  city:         Greensboro
+  state:        North Carolina
+
+company_888:
+  id:           888
+  name:         Dreyer's Grand Ice Cream
+  industry:     Food Services
+  city:         Oakland
+  state:        California
+
+company_890:
+  id:           890
+  name:         Stewart & Stevenson Services
+  industry:     Manufacturing
+  city:         Jacksonville
+  state:        Florida
+
+company_891:
+  id:           891
+  name:         Tecumseh Products
+  industry:     Manufacturing
+  city:         Tecumseh
+  state:        Michigan
+
+company_892:
+  id:           892
+  name:         Markel
+  industry:     Insurance
+  city:         Richmond
+  state:        Virginia
+
+company_893:
+  id:           893
+  name:         Southwest Gas
+  industry:     Energy
+  city:         Las Vegas
+  state:        Nevada
+
+company_894:
+  id:           894
+  name:         Landstar System
+  industry:     Transportation
+  city:         Jacksonville
+  state:        Florida
+
+company_896:
+  id:           896
+  name:         National Rural Utilities Cooperative
+  industry:     Finance
+  city:         Herndon
+  state:        Virginia
+
+company_897:
+  id:           897
+  name:         Trans World Entertainment
+  industry:     Entertainment
+  city:         Albany
+  state:        New York
+
+company_898:
+  id:           898
+  name:         Metro-Goldwyn-Mayer
+  industry:     Entertainment
+  city:         Los Angeles
+  state:        California
+
+company_899:
+  id:           899
+  name:         Cytec Industries
+  industry:     Manufacturing
+  city:         West Paterson
+  state:        New Jersey
+
+company_900:
+  id:           900
+  name:         Standard Pacific
+  industry:     Real Estate
+  city:         Irvine
+  state:        California
+
+company_901:
+  id:           901
+  name:         Hollywood Entertainment
+  industry:     Entertainment
+  city:         Wilsonville
+  state:        Oregon
+
+company_902:
+  id:           902
+  name:         Gentiva Health Services
+  industry:     Healthcare
+  city:         Long Island
+  state:        New York
+
+company_903:
+  id:           903
+  name:         American Eagle Outfitters
+  industry:     Retail
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_904:
+  id:           904
+  name:         OneAmerica Financial
+  industry:     Finance
+  city:         Indianapolis
+  state:        Indiana
+
+company_905:
+  id:           905
+  name:         Nvidia
+  industry:     Technology
+  city:         Santa Clara
+  state:        California
+
+company_906:
+  id:           906
+  name:         Gemstar-TV Guide International
+  industry:     Media
+  city:         Los Angeles
+  state:        California
+
+company_907:
+  id:           907
+  name:         Acterna
+  industry:     Telecommunications
+  city:         Milpitas
+  state:        California
+
+company_908:
+  id:           908
+  name:         Abercrombie & Fitch
+  industry:     Retail
+  city:         New Albany
+  state:        Ohio
+
+company_909:
+  id:           909
+  name:         Belo
+  industry:     Media
+  city:         Dallas
+  state:        Texas
+
+company_910:
+  id:           910
+  name:         MGIC Investment
+  industry:     Finance
+  city:         Milwaukee
+  state:        Wisconsin
+
+company_911:
+  id:           911
+  name:         Toro
+  industry:     Manufacturing
+  city:         Bloomington
+  state:        Minnesota
+
+company_912:
+  id:           912
+  name:         Knights of Columbus
+  industry:     Other
+  city:         New Haven
+  state:        Connecticut
+
+company_913:
+  id:           913
+  name:         St. Jude Medical
+  industry:     Healthcare
+  city:         St. Paul
+  state:        Minnesota
+
+company_914:
+  id:           914
+  name:         Novellus Systems
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_915:
+  id:           915
+  name:         Pro-Fac Cooperative
+  industry:     Agriculture
+  city:         Fairport
+  state:        New York
+
+company_916:
+  id:           916
+  name:         Provident Financial Group
+  industry:     Finance
+  city:         Cleveland
+  state:        Ohio
+
+company_917:
+  id:           917
+  name:         IMS Health
+  industry:     Healthcare
+  city:         Norwalk
+  state:        Connecticut
+
+company_918:
+  id:           918
+  name:         Gentek
+  industry:     Manufacturing
+  city:         Parsippany
+  state:        New Jersey
+
+company_919:
+  id:           919
+  name:         IT Group
+  industry:     Other
+  city:         Baton Rouge
+  state:        Louisiana
+
+company_920:
+  id:           920
+  name:         Carpenter Technology
+  industry:     Manufacturing
+  city:         Wyomissing
+  state:        California
+
+company_921:
+  id:           921
+  name:         Electronic Arts
+  industry:     Entertainment
+  city:         Redwood City
+  state:        California
+
+company_922:
+  id:           922
+  name:         Revlon
+  industry:     Other
+  city:         New York
+  state:        New York
+
+company_923:
+  id:           923
+  name:         Stein Mart
+  industry:     Retail
+  city:         Jacksonville
+  state:        Florida
+
+company_924:
+  id:           924
+  name:         Hub Group
+  industry:     Other
+  city:         Memphis
+  state:        Tennessee
+
+company_925:
+  id:           925
+  name:         United Defense Industries
+  industry:     Manufacturing
+  city:         Arlington
+  state:        Virginia
+
+company_926:
+  id:           926
+  name:         Briggs & Stratton
+  industry:     Manufacturing
+  city:         Wauwatosa
+  state:        Wisconsin
+
+company_927:
+  id:           927
+  name:         Hubbell
+  industry:     Manufacturing
+  city:         Orange
+  state:        Connecticut
+
+company_928:
+  id:           928
+  name:         Regis
+  industry:     Other
+  city:         Edina
+  state:        Minnesota
+
+company_929:
+  id:           929
+  name:         Dun & Bradstreet
+  industry:     Other
+  city:         Short Hills
+  state:        New Jersey
+
+company_930:
+  id:           930
+  name:         Petco Animal Supplies
+  industry:     Retail
+  city:         San Diego
+  state:        California
+
+company_931:
+  id:           931
+  name:         Federated Mutual Insurance
+  industry:     Insurance
+  city:         Owatonna
+  state:        Minnesota
+
+company_932:
+  id:           932
+  name:         AnnTaylor
+  industry:     Retail
+  city:         New York
+  state:        New York
+
+company_933:
+  id:           933
+  name:         First National of Nebraska
+  industry:     Finance
+  city:         Omaha
+  state:        Nebraska
+
+company_934:
+  id:           934
+  name:         DQE
+  industry:     Energy
+  city:         Pittsburgh
+  state:        Pennsylvania
+
+company_935:
+  id:           935
+  name:         Pacific Century Financial
+  industry:     Finance
+  city:         Honolulu
+  state:        Hawaii
+
+company_936:
+  id:           936
+  name:         Deluxe
+  industry:     Other
+  city:         Shoreview
+  state:        Minnesota
+
+company_937:
+  id:           937
+  name:         Benchmark Electronics
+  industry:     Technology
+  city:         Angleton
+  state:        Texas
+
+company_938:
+  id:           938
+  name:         Amtran
+  industry:     Transportation
+  city:         Indianapolis
+  state:        Iowa
+
+company_939:
+  id:           939
+  name:         H.B. Fuller
+  industry:     Manufacturing
+  city:         White Bear Lake
+  state:        Minnesota
+
+company_940:
+  id:           940
+  name:         Men's Wearhouse
+  industry:     Retail
+  city:         Houston
+  state:        Texas
+
+company_941:
+  id:           941
+  name:         Stewart Information Services
+  industry:     Real Estate
+  city:         Houston
+  state:        Texas
+
+company_942:
+  id:           942
+  name:         Olin
+  industry:     Manufacturing
+  city:         Clayton
+  state:        Missouri
+
+company_943:
+  id:           943
+  name:         Werner Enterprises
+  industry:     Transportation
+  city:         Omaha
+  state:        Nebraska
+
+company_944:
+  id:           944
+  name:         Comverse Technology
+  industry:     Technology
+  city:         New York
+  state:        New York
+
+company_945:
+  id:           945
+  name:         Varco International
+  industry:     Energy
+  city:         Houston
+  state:        Texas
+
+company_946:
+  id:           946
+  name:         Audiovox
+  industry:     Technology
+  city:         Hauppauge
+  state:        New York
+
+company_947:
+  id:           947
+  name:         Amica Mutual Insurance
+  industry:     Insurance
+  city:         Lincoln
+  state:        Rhode Island
+
+company_948:
+  id:           948
+  name:         Milacron
+  industry:     Manufacturing
+  city:         Cincinnatti
+  state:        Ohio
+
+company_949:
+  id:           949
+  name:         Intuit
+  industry:     Technology
+  city:         Mountain View
+  state:        California
+
+company_950:
+  id:           950
+  name:         Kimball International
+  industry:     Other
+  city:         Jasper
+  state:        Indiana
+
+company_951:
+  id:           951
+  name:         XO Communications
+  industry:     Telecommunications
+  city:         Reston
+  state:        Virginia
+
+company_952:
+  id:           952
+  name:         Domino's
+  industry:     Food Services
+  city:         Ann Arbor
+  state:        Michigan
+
+company_954:
+  id:           954
+  name:         Massey Energy
+  industry:     Energy
+  city:         Richmond
+  state:        Virginia
+
+company_955:
+  id:           955
+  name:         Texas Industries
+  industry:     Other
+  city:         Dallas
+  state:        Texas
+
+company_956:
+  id:           956
+  name:         Riverwood Holding
+  industry:     Manufacturing
+  city:         Marietta
+  state:        Georgia
+
+company_957:
+  id:           957
+  name:         EarthLink
+  industry:     Telecommunications
+  city:         Atlanta
+  state:        Georgia
+
+company_958:
+  id:           958
+  name:         Ceridian
+  industry:     Technology
+  city:         Bloomington
+  state:        Minnesota
+
+company_959:
+  id:           959
+  name:         Union Central Life
+  industry:     Insurance
+  city:         Cincinnati
+  state:        Ohio
+
+company_960:
+  id:           960
+  name:         Phar-Mor
+  industry:     Retail
+  city:         Youngstown
+  state:        Ohio
+
+company_961:
+  id:           961
+  name:         Watsco
+  industry:     Other
+  city:         Coconut Grove
+  state:        Florida
+
+company_962:
+  id:           962
+  name:         Foamex International
+  industry:     Other
+  city:         Linwood
+  state:        Pennsylvania
+
+company_963:
+  id:           963
+  name:         CMGI
+  industry:     Technology
+  city:         Waltham
+  state:        Massachusetts
+
+company_964:
+  id:           964
+  name:         Pall
+  industry:     Other
+  city:         East Hills
+  state:        New York
+
+company_965:
+  id:           965
+  name:         Harleysville Mutual Insurance
+  industry:     Insurance
+  city:         Harlesville
+  state:        Pennsylvania
+
+company_966:
+  id:           966
+  name:         Tektronix
+  industry:     Technology
+  city:         Beaverton
+  state:        Oregon
+
+company_967:
+  id:           967
+  name:         Oglethorpe Power
+  industry:     Energy
+  city:         Tucker
+  state:        Georgia
+
+company_968:
+  id:           968
+  name:         IDT
+  industry:     Telecommunications
+  city:         Newark
+  state:        New Jersey
+
+company_969:
+  id:           969
+  name:         Adobe Systems
+  industry:     Technology
+  city:         San Jose
+  state:        California
+
+company_970:
+  id:           970
+  name:         Alleghany
+  industry:     Insurance
+  city:         New York
+  state:        New York
+
+company_971:
+  id:           971
+  name:         Genzyme
+  industry:     Technology
+  city:         Cambridge
+  state:        Massachusetts
+
+company_972:
+  id:           972
+  name:         MasTec
+  industry:     Other
+  city:         Coral Gables
+  state:        Florida
+
+company_973:
+  id:           973
+  name:         Genuity
+  industry:     Other
+  city:         Broomfield
+  state:        Colorado
+
+company_974:
+  id:           974
+  name:         North Fork Bancorp.
+  industry:     Finance
+  city:         McLean
+  state:        Virginia
+
+company_975:
+  id:           975
+  name:         Grey Global
+  industry:     Other
+  city:         New York
+  state:        New York
+
+company_977:
+  id:           977
+  name:         AMC Entertainment
+  industry:     Entertainment
+  city:         Kansas City
+  state:        Missouri
+
+company_978:
+  id:           978
+  name:         On Semiconductor
+  industry:     Technology
+  city:         Phoenix
+  state:        Arizona
+
+company_979:
+  id:           979
+  name:         Software Spectrum
+  industry:     Technology
+  city:         Tempe
+  state:        Arizona
+
+company_980:
+  id:           980
+  name:         Viasystems Group
+  industry:     Technology
+  city:         St. Louis
+  state:        Missouri
+
+company_981:
+  id:           981
+  name:         Georgia Gulf
+  industry:     Manufacturing
+  city:         Atlanta
+  state:        Georgia
+
+company_982:
+  id:           982
+  name:         Forest Laboratories
+  industry:     Healthcare
+  city:         New York
+  state:        New York
+
+company_983:
+  id:           983
+  name:         Perot Systems
+  industry:     Technology
+  city:         Plano
+  state:        Texas
+
+company_984:
+  id:           984
+  name:         Trump Hotels & Casino Resorts
+  industry:     Real Estate
+  city:         Atlantic City
+  state:        New Jersey
+
+company_985:
+  id:           985
+  name:         FelCor Lodging
+  industry:     Real Estate
+  city:         Irving
+  state:        Texas
+
+company_986:
+  id:           986
+  name:         DPL
+  industry:     Energy
+  city:         Dayton
+  state:        Ohio
+
+company_987:
+  id:           987
+  name:         International Game Technology
+  industry:     Technology
+  city:         Reno
+  state:        Nevada
+
+company_988:
+  id:           988
+  name:         Blyth
+  industry:     Retail
+  city:         Greenwich
+  state:        Connecticut
+
+company_989:
+  id:           989
+  name:         TCF Financial Corp.
+  industry:     Finance
+  city:         Minneapolis
+  state:        Minnesota
+
+company_990:
+  id:           990
+  name:         Sealy
+  industry:     Manufacturing
+  city:         Trinity
+  state:        North Carolina
+
+company_991:
+  id:           991
+  name:         Standard Register
+  industry:     Other
+  city:         Dayton
+  state:        Ohio
+
+company_992:
+  id:           992
+  name:         eMerge Interactive
+  industry:     Other
+  city:         Sebastian
+  state:        Florida
+
+company_993:
+  id:           993
+  name:         Handleman
+  industry:     Retail
+  city:         Detroit
+  state:        Michigan
+
+company_994:
+  id:           994
+  name:         Goody's Family Clothing
+  industry:     Retail
+  city:         Knoxville
+  state:        Tennessee
+
+company_995:
+  id:           995
+  name:         Alexander & Baldwin
+  industry:     Real Estate
+  city:         Honolulu
+  state:        Hawaii
+  
+company_996:
+  id:           996
+  name:         Daisytek International
+  industry:     Other
+  city:         Allen
+  state:        Texas
+
+company_997:
+  id:           997
+  name:         Timberland
+  industry:     Retail
+  city:         Stratham
+  state:        New Hampshire
+
+company_999:
+  id:           999
+  name:         C.R. Bard
+  industry:     Healthcare
+  city:         Murray Hill
+  state:        New Jersey
+
+company_1000:
+  id:           1000
+  name:         PC Connection
+  industry:     Technology
+  city:         Merrimack
+  state:        New Hampshire
+
+company_1001:
+  id:           1001
+  name:         Google
+  industry:     Technology
+  city:         Mountain View
+  state:        California
+  

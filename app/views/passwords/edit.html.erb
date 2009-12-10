@@ -1,0 +1,18 @@
+<% @page_title = 'Edit password' %>
+
+<h1><%= @page_title %></h1>
+
+<h2>Enter your new password and click save</h2>
+
+<%= error_messages_for 'user' %>
+
+<%= render :partial => 'shared/flasher' %>
+
+<div class="form">
+  <% form_for(:user, :url => { :action => 'update' }, :html => { :method => :put }) do |form| %>
+    <p><label for="password">New Password:</label><%= form.password_field :password, :size => 30 %></p>
+    <p><label for="password_confirmation">Confirm:</label><%= form.password_field :password_confirmation, :size => 30 %></p>
+    <%= image_submit_tag "save.gif", :class => "submit" %>
+  <% end %>
+  <p>Want to edit your profile? <%= link_to "Click here", edit_user_url(@user) %></p>
+</div>

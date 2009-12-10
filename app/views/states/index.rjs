@@ -1,0 +1,13 @@
+@option_html = @states.inject("<option>Please select</option>\n") do |options, state|
+  options << "<option value=\"#{state.id}\">#{state.name}</option>\n"
+  options
+end
+
+if @states.size > 0
+  page.replace_html :office_state_id, @option_html
+  page.show :state_field
+  page.show :zip_field
+else
+  page.hide :state_field
+  page.hide :zip_field
+end

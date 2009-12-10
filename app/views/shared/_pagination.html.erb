@@ -1,0 +1,13 @@
+<!--[start:shared/pagination]-->
+<p class='pagination'>
+<% if @pages.current.previous %>
+  <%= link_to 'Previous page', { :page => @pages.current.previous } %> |
+<% end %>
+
+<%= @pages.current_page.first_item %>-<%= @pages.current_page.last_item %> of <%= @total %>
+
+<% if @pages.current.next %>
+  | <%= link_to 'Next page', { :page => @pages.current.next } %> 
+<% end %>
+</p>
+<!--[end:shared/pagination]-->

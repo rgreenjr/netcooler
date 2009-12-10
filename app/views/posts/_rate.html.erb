@@ -1,0 +1,22 @@
+<!--[start:post/rate]-->
+<% rating = post.user_rating(current_user) if logged_in? %>
+<div id="<%= post.dom_id %>-rating" class="<%= rating ? 'post-rating' : 'post-rating-off' %>">
+  <p class="coolness"><%= post.coolness %></p>
+  <div class="post-rating-buttons">
+  <% if logged_in? %>
+    <% form_remote_tag :url => post_ratings_url(post) do %>
+      <%= hidden_field_tag 'value', '1' %>
+      <%= cool_rating_image_submit_tag(rating) %>
+    <% end %>
+    <% form_remote_tag :url => post_ratings_url(post) do %>
+      <%= hidden_field_tag 'value', '-1' %>
+      <%= uncool_rating_image_submit_tag(rating) %>
+    <% end %>
+  <% else %>
+      <%= link_to(image_tag('rate-cool-off.gif'), new_session_url) %>
+      <%= link_to(image_tag('rate-uncool-off.gif'), new_session_url) %>
+  <% end %>
+  </div>
+  <p class="ratings"><%= pluralize(number_with_delimiter(post.ratings.size), 'vote') %></p>
+</div>
+<!--[end:post/rate]-->

@@ -1,0 +1,17 @@
+<% @page_title = 'Edit Profile Image' %>
+
+<h1><%= @page_title %></h1>
+
+<h2>Click below to locate a photo, then click the "Save" button to save your changes.</h2>
+
+<%= error_messages_for :avatar %>
+
+<div style="margin: 40px">
+<% form_for([@user, @avatar], :html => { :multipart => true }) do |f| %>
+	<p>
+		<label><strong>Photo:</strong></label>
+		<%= file_field_tag :filename %>
+	</p>
+	<p><%= image_submit_tag "save.gif", :class => "submit" %></p>  
+<% end %>
+</div>

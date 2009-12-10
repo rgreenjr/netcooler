@@ -1,0 +1,12 @@
+<!--[start:shared/bubble]-->
+<% title ||= title %>
+<div class="bubble">  
+  <% rounded_box(title) do %>
+    <% companies.each do |company| %>
+      <p><%= link_to h(company.name), company %></p>
+    <% end %>
+  <% end %>
+</div>
+<!--[end:shared/bubble]-->
+
+

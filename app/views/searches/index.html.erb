@@ -1,0 +1,34 @@
+<% @page_title = 'Search' %>
+
+<h1><%= @heading %> <span class="highlight"><%= h @query %></span></h1>
+
+<% if flash[:error] %>
+  <div id="errorExplanation">
+    <p><%= flash[:error] %></p>
+  </div>
+<% else %>
+  <h2 class="section"><%= pluralize(@companies.size, "Company") %></h2>
+
+  <%= render :partial => 'companies/companies', :locals => { :companies => @companies } %>
+
+  <% if not @news.empty? %>
+    <h2 class="section"><%= pluralize(@news.size, "News Story") %></h2>
+    <% @news.each do |news| %>
+      <%= render :partial => 'posts/summary', :locals => { :post => news } %>
+    <% end %>
+  <% end %>
+
+  <% if not @gossip.empty? %>
+    <h2 class="section"><%= pluralize(@gossip.size, "Gossip Item") %></h2>
+    <% @gossip.each do |gossip| %>
+      <%= render :partial => 'posts/summary', :locals => { :post => gossip } %>
+    <% end %>
+  <% end %>
+
+  <% if not @questions.empty? %>
+    <h2 class="section"><%= pluralize(@questions.size, "Question") %></h2>
+    <% @questions.each do |question| %>
+      <%= render :partial => 'posts/summary', :locals => { :post => question } %>
+    <% end %>
+  <% end %>
+<% end %>

@@ -1,0 +1,363 @@
+alabama:
+  id:             1
+  name:           Alabama
+  abbreviation:   AL
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+alaska:
+  id:             2
+  name:           Alaska
+  abbreviation:   AK
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+arizona:
+  id:             3
+  name:           Arizona
+  abbreviation:   AZ
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+arkansas:
+  id:             4
+  name:           Arkansas
+  abbreviation:   AR
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+california:
+  id:             5
+  name:           California
+  abbreviation:   CA
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+colorado:
+  id:             6
+  name:           Colorado
+  abbreviation:   CO
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+connecticut:
+  id:             7
+  name:           Connecticut
+  abbreviation:   CT
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+delaware:
+  id:             8
+  name:           Delaware
+  abbreviation:   DE
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+florida:
+  id:             9
+  name:           Florida
+  abbreviation:   FL
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+georgia:
+  id:             10
+  name:           Georgia
+  abbreviation:   GA
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+hawaii:
+  id:             11
+  name:           Hawaii
+  abbreviation:   HI
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+idaho:
+  id:             12
+  name:           Idaho
+  abbreviation:   ID
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+illinois:
+  id:             13
+  name:           Illinois
+  abbreviation:   IL
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+indiana:
+  id:             14
+  name:           Indiana
+  abbreviation:   IN
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+iowa:
+  id:             15
+  name:           Iowa
+  abbreviation:   IA
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+kansas:
+  id:             16
+  name:           Kansas
+  abbreviation:   KS
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+kentucky:
+  id:             17
+  name:           Kentucky
+  abbreviation:   KY
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+louisiana:
+  id:             18
+  name:           Louisiana
+  abbreviation:   LA
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+maine:
+  id:             19
+  name:           Maine
+  abbreviation:   ME
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+maryland:
+  id:             20
+  name:           Maryland
+  abbreviation:   MD
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+massachusetts:
+  id:             21
+  name:           Massachusetts
+  abbreviation:   MA
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+michigan:
+  id:             22
+  name:           Michigan
+  abbreviation:   MI
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+minnesota:
+  id:             23
+  name:           Minnesota
+  abbreviation:   MN
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+mississippi:
+  id:             24
+  name:           Mississippi
+  abbreviation:   MS
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+missouri:
+  id:             25
+  name:           Missouri
+  abbreviation:   MO
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+montana:
+  id:             26
+  name:           Montana
+  abbreviation:   MT
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+nebraska:
+  id:             27
+  name:           Nebraska
+  abbreviation:   NE
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+nevada:
+  id:             28
+  name:           Nevada
+  abbreviation:   NV
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+new_hampshire:
+  id:             29
+  name:           New Hampshire
+  abbreviation:   NH
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+new_jersey:
+  id:             30
+  name:           New Jersey
+  abbreviation:   NJ
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+new_mexico:
+  id:             31
+  name:           New Mexico
+  abbreviation:   NM
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+new_york:
+  id:             32
+  name:           New York
+  abbreviation:   NY
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+north_carolina:
+  id:             33
+  name:           North Carolina
+  abbreviation:   NC
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+north_dakota:
+  id:             34
+  name:           North Dakota
+  abbreviation:   ND
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+ohio:
+  id:             35
+  name:           Ohio
+  abbreviation:   OH
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+oklahoma:
+  id:             36
+  name:           Oklahoma
+  abbreviation:   OK
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+oregon:
+  id:             37
+  name:           Oregon
+  abbreviation:   OR
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+pennsylvania:
+  id:             38
+  name:           Pennsylvania
+  abbreviation:   PA
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+rhode_island:
+  id:             39
+  name:           Rhode Island
+  abbreviation:   RI
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+south_carolina:
+  id:             40
+  name:           South Carolina
+  abbreviation:   SC
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+south_dakota:
+  id:             41
+  name:           South Dakota
+  abbreviation:   SD
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+tennessee:
+  id:             42
+  name:           Tennessee
+  abbreviation:   TN
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+texas:
+  id:             43
+  name:           Texas
+  abbreviation:   TX
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+utah:
+  id:             44
+  name:           Utah
+  abbreviation:   UT
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+vermont:
+  id:             45
+  name:           Vermont
+  abbreviation:   VT
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+virginia:
+  id:             46
+  name:           Virginia
+  abbreviation:   VA
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+washington:
+  id:             47
+  name:           Washington
+  abbreviation:   WA
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+west_virginia:
+  id:             48
+  name:           West Virginia
+  abbreviation:   WV
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+wisconsin:
+  id:             49
+  name:           Wisconsin
+  abbreviation:   WI
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+wyoming:
+  id:             50
+  name:           Wyoming
+  abbreviation:   WY
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+district_of_columbia:
+  id:             51
+  name:           District of Columbia
+  abbreviation:   DC
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+international:
+  id:             52
+  name:           International
+  abbreviation:   International
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>

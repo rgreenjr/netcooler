@@ -1,0 +1,15 @@
+<%= error_messages_for 'post' %>
+
+<p><label>Company:</label><span style="font-size: large; font-weight: bold"><%= link_to h(@post.company.name), @post.company %></span></p>
+
+<p><label>Title:</label><%= form.text_field :title, :size => 60 %></p>
+
+<% unless @category == 'Question' || @post.question? %>
+<p><label>URL:</label><%= form.text_field :url, :size => 60 %></p>
+<% end %>
+
+<p><label>Tags:</label><%= form.text_field :tag_string, :size => 60, :autocomplete => 'off' %> 
+  <br />
+ <label>&nbsp;</label><span class="note">Enter one or more tags separated by spaces. Tags are keywords used to describe your post.</span></p>
+
+<p><label>Body:</label><%= form.text_area :body, :size => '1x10' %></p>

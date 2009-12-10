@@ -1,0 +1,49 @@
+apple_iphone_news:
+  id:           1
+  user_id:      2
+  company_id:   1
+  category:     News
+  title:        Apple iPhone launch sparks Beatles digital hopes
+  url:          http://today.reuters.com/news/articleinvesting.aspx?view=CN&storyID=2007-01-10T023424Z_01_N09174865_RTRIDST_0_APPLE-MACWORLD-BEATLES.XML&rpc=66&type=qcna
+  body:         Are the Beatles finally going digital? After decades of legal bickering between the Fab Four's holding company, Apple Corps, and computer maker Apple Inc. (AAPL Quote, Profile , Research), the two seem to be getting cozier.
+  created_at:   <%= Time.now.to_s(:db) %>
+
+google_ipo_news:
+  id:           2
+  user_id:      2
+  company_id:   2
+  category:     News
+  title:        Google sets $2.7 billion IPO
+  url:          http://money.cnn.com/2004/04/29/technology/google/
+  body:         Google, the world's No. 1 Internet search engine, finally filed for its initial public stock offering Thursday and promised to maintain its long-term focus even though it will soon face the intense scrutiny of Wall Street.
+  created_at:   <%= 2.hours.ago.to_s(:db) %>
+
+apple_iphone_gossip:
+  id:           3
+  user_id:      1
+  company_id:   1
+  category:     Gossip
+  title:        New filing seen as proof of Apple cell phone
+  url:          http://www.appleinsider.com/article.php?id=2025
+  body:         The March 2006 filing, published Thursday by the United States Patent and Trademark Office, offers broad illustrations and descriptions of several potential hand held devices that each contain multiple touch sensing devices.
+  created_at:   <%= Time.now.to_s(:db) %>
+
+dell_printer_gossip:
+  id:           4
+  user_id:      3
+  company_id:   3
+  category:     Gossip
+  title:        Dell is rumored to be entering the printer market
+  url:          http://www.internetnews.com/ent-news/article.php/1469101
+  body:         After months of speculation, Dell Computer finally made its move into the lucrative printer market Tuesday, inking an agreement with Lexmark to produce Dell printers and setting up a battle with HP for supremacy in the printer market.
+  created_at:   <%= Time.now.to_s(:db) %>
+
+apple_question:
+  id:           5
+  user_id:      1
+  company_id:   1
+  category:     Question
+  title:        Will Apple's market share increase next year?
+  body:         Do you think Apple's market share increase significantly in the next year?
+  created_at:   <%= Time.now.to_s(:db) %>
+

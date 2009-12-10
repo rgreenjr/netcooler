@@ -1,0 +1,11 @@
+<% @page_title = 'Email A Friend Complete' %>  
+
+<h1><%= @page_title %></h1>
+
+<h2>An email has been sent to:</h2>
+<ul>
+  <% for recipient in @email.recipients_array %>
+  <li><%= h recipient %></li>
+  <% end %>
+</ul>
+<p>Return to <%= link_to @post.title, @post %></p>

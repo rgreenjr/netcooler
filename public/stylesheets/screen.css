@@ -1,0 +1,998 @@
+body {
+  margin: 0px;
+  background: #fff;
+  text-align: center; /* fix for bug in IE5: makes layout centered on page */
+}
+
+body, p, ol, ul, td {
+  color: #333;
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #105cb6;
+}
+
+table {
+  border-spacing: 0 8px;
+}
+
+textarea {
+  background: #eee;
+  width: 500px;
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  background: #eee;
+}
+
+div {
+  margin: 0px;
+  background: #fff;
+}
+
+img {
+  border: 0px;
+}
+
+h1 {
+  color: #c60;
+  font-size: x-large;
+  padding-bottom: 5px;
+  margin: 10px 0px;
+  border-bottom: 1px solid #c7d3df;
+}
+
+h1 .highlight {
+  color: #4e463f;
+}
+
+h2 {
+  color: #4e463f;
+  font-size: large;
+  margin: 10px 0px;
+}
+
+h2.section {
+  clear: both;
+  padding-top: 20px;
+  margin-bottom: 3px;
+  border-bottom: 1px solid #c7d3df;
+}
+
+h3 {
+  color: #4e463f;
+  font-size: medium;
+}
+
+h3.section {
+  clear: both;
+  margin-bottom: 3px;
+  border-bottom: 1px solid #c7d3df;
+}
+
+th {
+  text-align: left;
+  font-weight: bold;
+}
+
+.more {
+  color: #999;
+}
+
+.note {
+  font-size: small;
+  color: gray;
+}
+
+.username a {
+  font-weight: bold;
+}
+
+.divider {
+  width: 100%;
+  border-bottom: 1px solid #c7d3df;
+  margin: 5px 0px;
+  min-height: 10px;
+  vertical-align: top;
+  line-height: 5px;
+  clear: both;
+}
+
+/* pagination */
+
+.pagination {
+  clear: both;
+  padding: 40px 0px;
+  margin: 3px;
+  text-align: center;
+}
+
+.pagination a {
+  padding: 2px 5px 2px 5px;
+  margin: 2px;
+  border: 1px solid #aaaadd;
+  text-decoration: none;
+  color: #105cb6;
+}
+
+.pagination a:hover, .pagination a:active {
+  border: 1px solid #000099;
+  color: #000;
+}
+
+.pagination span.current {
+  padding: 2px 5px 2px 5px;
+  margin: 2px;
+  border: 1px solid #105cb6;
+  font-weight: bold;
+  background-color: #105cb6;
+  color: #FFF;
+}
+
+.pagination span.disabled {
+  padding: 2px 5px 2px 5px;
+  margin: 2px;
+  border: 1px solid #eee;
+  color: #ddd;
+}
+
+
+/* forms */
+
+.form {
+  margin-top: 25px;
+}
+
+.form label {
+  width: 10em;
+  float: left;
+  text-align: right;
+  margin-right: 0.5em;
+  display: block;
+  font-weight: bold;
+}
+
+.form .submit { 
+  margin-left: 12em; 
+}
+
+.form-spacer {
+  width: 100%;
+  border-bottom: #CFD5B9 1px dotted;
+  margin-bottom: 3px;
+  min-height: 2px;
+  vertical-align: top;
+  line-height: 5px;
+  clear: both;
+}
+
+/* about us and contact us */
+
+.about-us {
+  float: left;
+  width: 427px;
+  font-size: large;
+}
+
+.contact-us {
+  float: right;
+  width: 303px;
+  padding: 15px 8px 8px 8px;
+}
+
+.contact-us .title {
+  margin: 0px;
+  font-size: large;
+}
+
+/* recent posts */
+
+.recent-posts {
+  float: left;
+  width: 247px;
+  margin: 8px 8px 8px 0px;
+}
+
+.recent-posts .title {
+  margin: 0px 0px 8px 0px;
+  font-weight: bold;
+  font-size: small;
+}
+
+.recent-posts .company {
+  font-weight: bold;
+  font-size: 16px;
+  margin: 0px;
+}
+
+.recent-posts .link {
+  margin: 3px 0px;
+}
+
+.recent-posts .date {
+  color: #666;
+  font-size: 11px;
+  margin: 0px 0px 12px 0px;
+}
+
+/* recent posts 2 */
+
+.recent-posts2 {
+  float: left;
+  width: 100%;
+  margin: 8px 8px 8px 0px;
+}
+
+.recent-posts2 .entry {
+  clear: both;
+}
+
+.recent-posts2 .coolness {
+  color: gray;
+  font-size: large;
+  float: left;
+  width: 40px;
+  height: 40px;
+  text-align: right;
+  margin: 0px 8px 8px 0px;
+}
+
+.recent-posts2 .title {
+  margin: 3px 0px;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.recent-posts2 .link {
+  margin: 3px 0px;
+}
+
+.recent-posts2 .date {
+  color: #666;
+  font-size: 11px;
+  margin: 0px 0px 12px 0px;
+}
+
+/* homepage */
+
+#homepage-search {
+  margin: 8px 0px 8px 0px;
+}
+
+#homepage-search .title {
+  color: #c60;
+  font-size: x-large;
+  font-weight: bold;
+  margin: 0px 0px 8px 0px;
+}
+
+#homepage-search input#q {
+  color: #4e463f;
+  font-size: 18px;
+  background: white;
+  width: 560px;
+  margin: 0px 0px 0px 25px;
+}
+
+#homepage-search input#button {
+  margin: 2px 0px 5px 8px; 
+  height: 26px;
+  width: 116px;
+  vertical-align: top;
+}
+
+/* google ads */
+
+.google-ad {
+  background: #eff8f8;
+  border: 1px solid #c7d3df;
+  padding: 0px 8px;
+  margin: 10px 0px;
+  color: #105cb6;
+}
+
+.google-ad p {
+  color: #105cb6;
+}
+
+/* company styles */
+
+#company-summary .rating {
+  width: 92px;
+  height: 40px;
+  float: left;
+  clear: right;
+  padding: 0px;
+  margin: 0px 8px 8px 0px;
+  background-image: url(/images/company-rating-bubble.gif);
+}
+
+#company-summary .rating p {
+  font-size: x-large;
+  padding: 0px;
+  margin:  7px;
+  color: #dba800;
+  text-align: center;
+}
+
+#company-summary .data {
+  width: 667px;
+  float: left;
+}
+
+#company-summary .name {
+  color: #c60;
+  font-size: x-large;
+  font-weight: bold;
+  margin: 0px 0;
+}
+
+#company-summary .name a {
+  color: #c60;
+  text-decoration: none;
+}
+
+#company-summary .name a:hover {
+  text-decoration: underline;
+}
+
+#company-summary .address, .industry {
+  color: gray;
+  margin: 3px 0px 3px 0px;
+}
+
+#company-summary .address a {
+  color: gray;
+  text-decoration: none;
+}
+
+#company-summary .address a:hover {
+  text-decoration: underline;
+}
+
+#companies-container {
+  width: 767px;
+}
+
+#companies-list {
+  float: left;
+  width: 323px;
+  padding: 0px 0px 0px 10px;
+  display: inline;
+}
+
+#companies-list .name {
+  font-size: large;
+  margin: 12px 0px 3px 15px;
+}
+
+#companies-list .address {
+  font-size: small;
+  margin: 0px 0px 18px 15px;
+}
+
+#companies-list .address a {
+  color: gray;
+  text-decoration: none;
+}
+
+#companies-list .address a:hover {
+  text-decoration: underline;
+}
+
+#company-add {
+  float: left;
+  width: 407px;
+  border-left: 0px solid #999;
+  padding: 30px 8px 8px 8px;
+}
+
+#company-add .title {
+  font-size: large;
+  margin: 0px;
+}
+
+/* industries */
+
+.industries {
+  float: left;
+  width: 323px;
+  padding: 0px 0px 0px 10px;
+  display: inline;
+}
+
+.industries p.industry {
+  font-size: large;
+  margin: 12px 0px 3px 15px;
+}
+
+.industry .name {
+  color: #c60;
+  font-size: x-large;
+  font-weight: bold;
+  margin: 0px 0;
+}
+
+.industries p.companies {
+  font-size: small;
+  margin: 5px 0px 18px 15px;
+}
+
+.industries p.companies a {
+  color: gray;
+  text-decoration: none;
+}
+
+.industries p.companies a:hover {
+  text-decoration: underline;
+}
+
+
+/* tabs */
+
+#tabs {
+  clear: both;
+  width: 767px;
+  float: left;
+}
+
+/* post styles */
+
+.post-container {
+  clear: both;
+  float: left;
+  width: 767px;
+}
+
+.post-main {
+  float: left;
+  width: 679px; /* should be 692px but IE6 doesn't render correctly */
+  margin: 0px 0px 0px 8px;
+  padding: 0px;
+}
+
+.post-second {
+  clear: both;
+  float: left;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  width: 751px;
+}
+
+.post-main .title {
+  font-size: large;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.post-main .post-second, .data {
+  color: #666;
+  font-size: 11px;
+  margin: 5px 0px;
+}
+
+.post-data {
+  color: #666;
+  font-size: 11px;
+  margin: 5px 0px;
+}
+
+.post-main .body {
+  margin: 2px 0px 8px 0px;
+}
+
+.post-rating, .post-rating-off  {
+  width: 50px;
+  float: left;
+  padding: 0px;
+  margin: 8px 0px 8px 15px;
+  background: url(/images/rating-bubble3.gif) no-repeat;
+}
+
+.post-rating-off {
+  background: url(/images/rating-bubble-off2.gif) no-repeat;
+}
+
+.post-rating .coolness, .post-rating-off .coolness {
+  font-size: large;
+  padding: 0px;
+  margin:  2px;
+  text-align: center;
+  color: white;
+}
+
+.post-rating-off .coolness {
+  color: #4f4f4f;
+}
+
+.post-rating .ratings, .post-rating-off .ratings {
+  font-size: x-small;
+  padding: 0px;
+  margin: 0px;
+  color: gray;
+  text-align: center;
+}
+
+.post-rating-buttons {
+  padding: 3px;
+}
+
+.post-rating-buttons form {
+  display: inline;
+  margin: 0px;
+}
+
+.post-rating-buttons img {
+  padding: 0px;
+}
+
+#post-form {
+  margin: 8px 0px 0px 0px;
+}
+
+.post-status {
+  padding: 3px;
+  margin: 0px;
+}
+
+/* comment styles */
+
+.comment {
+  padding: 0px;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  margin: 8px 0px;
+}
+
+.comment .header {
+  color: white;
+  font-size: 11px;
+  padding: 8px;
+  margin: 0px;
+  background: #1a6aaf;
+}
+
+.comment .body {
+  padding: 0px;
+  margin: 8px;
+  background: #f0f0f0;
+}
+
+.comment .username a {
+  font-weight: bold;
+  color: #fd9c00;
+}
+
+.comment .coolness {
+  color: white;
+  font-size: small;
+  float: left;
+  width: 20px;
+  background: #1a6aaf;
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+}
+
+.comment div {
+  background: #1a6aaf;
+}
+
+.comment form {
+  float: left;
+  padding: 0px;
+  margin-right: 4px;
+}
+
+.comment .edit {
+  color: #666;
+  font-size: 11px;
+  padding: 0px;
+  margin: 8px;
+  background: #f0f0f0;
+}
+
+/* sub-nav */
+
+#sub-nav {
+  clear: both;
+  padding: 10px 0px 35px 15px;
+}
+
+#sub-nav .add-post {
+  float: left;
+}
+
+#sub-nav .atom {
+  float: right;
+}
+
+#sub-nav .atom img {
+  vertical-align: top;  
+}
+
+/* blue box */
+
+.cB-blue {
+  background: #edf2f6;
+  border: 1px #d9e6f2 solid;
+  border-width: 0 1px;
+  padding: 0 10px;
+}
+
+.cBt-blue, .cBb-blue, .cBt-blue div, .cBb-blue div {
+  background: url(/images/blue-box.gif) top right;
+  height: 15px;
+}
+
+.cBt-blue div { 
+  background-position: top left;
+}
+
+.cBb-blue div { 
+  background-position: bottom left;
+}
+
+.cBb-blue { 
+  background-position: bottom right;
+}
+
+.cBt-blue, .cBb-blue {
+  margin:0 -11px 0 -11px;
+  padding-right: 18px;
+}
+
+/* green box */
+
+.cB-green {
+  background: #eaf8ea;
+  border: 1px #eaf8ea solid;
+  border-width: 0 1px;
+  padding: 0 10px;
+}
+
+.cBt-green, .cBb-green, .cBt-green div, .cBb-green div {
+  background: url(/images/green-box.gif) top right;
+  height: 15px;
+}
+
+.cBt-green div { 
+  background-position: top left;
+}
+
+.cBb-green div { 
+  background-position: bottom left;
+}
+
+.cBb-green { 
+  background-position: bottom right;
+}
+
+.cBt-green, .cBb-green {
+  margin:0 -11px 0 -11px;
+  padding-right: 18px;
+}
+
+
+/* Rails built-in error styles */
+
+#errorExplanation {
+  padding: 4px 8px;
+  border: 1px solid #f7de56;
+  background: #f7f5b5;
+  margin: 12px 0px;
+}
+
+#errorExplanation h2 {
+  display: none;
+  color: #000;
+  font-size: medium;
+}
+
+#errorExplanation p {
+  color: #c22;
+  margin: 5px;
+}
+
+#errorExplanation ul {
+  color: #c22;
+  margin: 5px 0px;
+}
+
+.fieldWithErrors {
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+}
+
+.fieldWithErrors input, textarea {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* flash styles */
+
+.flash-notice, .flash-error {
+  padding: 0px 12px;
+  border: 1px solid #f7de56;
+  background: #f7f5b5;
+  margin: 12px 0px;
+}
+
+.flash-notice .flash-error, img {
+  vertical-align: bottom;
+}
+
+.flash-notice p {
+  color: green;
+}
+
+.flash-error p {
+  color: #c22;
+}
+
+/* bubble */
+
+.bubble {
+  clear: both;
+  margin: 12px 0px;
+}
+
+.bubble p {
+  margin: 8px 0;
+  font-size: 14px;
+}
+
+.bubble a {
+  text-decoration: none;
+}
+
+.bubble a:hover {
+  text-decoration: underline;
+}
+
+.bubble .title {
+  font-size: medium;
+  font-weight: bold;
+  margin: 0px 0px 10px 0px;
+}
+
+
+
+/* tag cloud styles */
+
+.tag-cloud {
+  clear: both;
+  margin: 12px 0px;
+  text-align:justify;
+}
+
+.tag-cloud a {
+  text-decoration: none;
+}
+
+.tag-cloud a:hover {
+  text-decoration: underline;
+}
+
+.tag-cloud .title {
+  font-size: medium;
+  font-weight: bold;
+  margin: 0px 0px 10px 0px;
+}
+
+.tag-1 {
+  font-size: 0.9em;
+  color: rgba(0,89,189,0.75);
+}
+	
+.tag-2 {
+  font-size: 1.2em;
+  color: rgba(0,86,197,0.9);
+}
+		
+.tag-3 {
+  font-size: 2.0em;
+  color: rgba(0,89,189,1.0);
+}
+
+.tag-add {
+  background: #edf2f6;
+  text-align: right;
+}
+
+.tag-add a {
+  color: gray;
+}
+
+.tag-add input {
+  color: gray;
+  font-size: x-small;
+  background-color: white;
+  border: 1px solid #ddd;
+  float: right;
+}
+
+.tag-rate {
+  background: #b0e57c;
+  display: inline;
+}
+
+.tag-arrows {
+  display: inline;
+}
+
+.tag-arrows form {
+  background: #edf2f6;
+  display: inline;
+}
+
+/* user profile */
+
+.user-profile {
+  margin-left: 15px;
+}
+
+.user-profile table td {
+  font-size: 15px;
+}
+
+.user-avatar {
+  padding: 1px;	
+  border: 1px solid lightgray;
+}
+
+/* admin */
+
+div.admin {
+  clear: both;
+  border: 1px solid #c7d3df;
+  background: #e8eff6;
+  margin: 15px 15px;
+  padding: 0px 8px;
+}
+
+div.admin table {
+  border-collapse: collapse;
+  margin: 8px;
+}
+
+div.admin table td {
+  font-size: small;
+  margin: 5px;
+  padding: 4px 4px 4px 25px;
+  text-align: left;
+}
+
+div.admin table td.key {
+  text-align: right;
+  font-weight: bold;
+}
+
+/* core layout div ids */
+
+#wrapper {
+  background: #fff;
+  height: 1000px; /* keeps layout from shifting when main-content is shorter than right-nav */
+  width: 972px;
+  margin: 0 auto;   /* this is key: makes layout centered on page */
+  text-align: left; /* necessary to reset text alignment after fix for bug in IE5 */
+}
+
+#header {
+  width: 972px;
+  height: 78px;
+}
+
+#header-logo {
+  height: 78px;
+  width: 249px;
+  float: left;
+}
+
+#header-controls {
+  float: right;
+  background: url(/images/header-fill.gif);
+  width: 723px;
+  height: 78px;
+}
+
+#header-search {
+  text-align: right;
+  background: none; 
+  color: white;
+  margin: 15px 40px 0px 0px;
+}
+
+#header-search label {
+  color: #fff;
+  font-size: small;
+}
+
+#header-search input.submit {
+  background: none;
+  vertical-align: bottom;
+}
+
+#header-navigation {
+  background: none;
+  color: white;
+  margin: 18px 25px 0px 0px;  
+  text-align: right;
+}
+
+#header-navigation a {
+  color: #e1eaf2;
+  text-decoration: none;
+  margin: 0px 3px 0px 3px;
+}
+
+#header-navigation p {
+  color: #d8ebf8;
+}
+
+#header-navigation a:hover {
+  text-decoration: underline;
+}
+
+#main-content {
+  width: 767px;
+  display: inline;
+  float: left;
+  padding: 30px 10px 10px 10px;
+  border-right: 1px solid #c7d3df;
+  background: url(/images/body-background2.gif) repeat-x top;
+}
+
+#sidebar {
+  width: 164px;
+  float: left;
+  margin-left: 0px;
+  padding: 30px 10px 10px 10px;
+  background: url(/images/body-background2.gif) repeat-x top;
+}
+
+#footer {
+  clear: both;
+  padding: 5px;
+  text-align: center;
+  border-top: 1px solid #c7d3df;
+}
+
+/* auto complete */
+
+div.auto_complete {
+  width: 350px;
+  background: #fff;
+/*  position:absolute;*/
+/*  margin: -14px 0 0 1px;*/
+  padding: 0px
+}
+
+div.auto_complete ul {
+  border: 1px solid #888;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style-type: none;
+}
+
+div.auto_complete ul li {
+  margin: 0;
+  padding: 3px;
+  color: black;
+}
+
+div.auto_complete ul li.selected { 
+  background-color: #ffb; 
+}
+
+div.auto_complete ul strong.highlight { 
+  color: #800; 
+  margin: 0;
+  padding: 0;
+}

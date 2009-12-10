@@ -1,0 +1,74 @@
+in_demand_networks:
+  name:         iN DEMAND NETWORKS
+  url:          http://www.indemand.com/
+  industry:     Technology
+
+yahoo:
+  name:         Yahoo! Incorporated
+  url:          http://www.yahoo.com/
+  industry:     Technology
+
+quarles_brady:
+  name:         Quarles & Brady LLP
+  url:          http://www.quarles.com/
+  industry:     Legal
+
+open_pages:
+  name:         Open Pages
+  url:          http://www.openpages.com/
+  industry:     Technology
+
+whole_foods_market:
+  name:         Whole Foods Market
+  url:          http://www.wholefoodsmarket.com/
+  industry:     Retail
+
+united_states_department_of_justice:
+  name:         United States Department of Justice
+  url:          http://www.usdoj.gov/
+  industry:     Government
+
+getty_images:
+  name:         Getty Images
+  url:          http://creative.gettyimages.com/
+  industry:     Technology
+
+blackstone_group:
+  name:         The Blackstone Group
+  url:          http://www.blackstone.com/
+  industry:     Finance
+
+sirenza_microdevices:
+  name:         Sirenza Microdevices, Inc.
+  url:          http://www.sirenza.com/
+  industry:     Technology
+
+myspace:
+  name:         MySpace
+  url:          http://www.myspace.com/
+  industry:     Technology
+
+akamai_technologies:
+  name:         Akamai Technologies
+  url:          http://www.akamai.com/
+  industry:     Technology
+
+wintegra:
+  name:         Wintegra Inc.
+  url:          http://www.wintegra.com/
+  industry:     Technology
+
+pluck:
+  name:         Pluck
+  url:          http://www.pluck.com/
+  industry:     Technology
+
+ebay:
+  name:         eBay, Inc.
+  url:          http://www.ebay.com/
+  industry:     Technology
+
+pricewaterhousecoopers:
+  name:         PricewaterhouseCoopers
+  url:          http://www.pwc.com/
+  industry:     Finance

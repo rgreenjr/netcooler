@@ -1,0 +1,15 @@
+<% @page_title = "Add #{@post.category}" %>
+
+<h1><%= @page_title %></h1>
+<h2>Posts are editable for 5 minutes after creation (HTML tags are not allowed).</h2>
+
+<div class="form">
+  <% form_for :post, :url => company_posts_url(@company) do |form| %>
+    <%= render :partial => 'posts/form', :locals => { :form => form } %>
+    <%= hidden_field_tag :category, @post.category %>
+    <input id="category" name="post[category]" type="hidden" value="<%= @post.category %>" />    
+    <%= image_submit_tag "add_#{@post.category}.gif", :class => 'submit' %>
+  <% end %>
+</div>
+
+<%#= text_field_with_auto_complete :tag, :name, { :tokens => ',' } %>

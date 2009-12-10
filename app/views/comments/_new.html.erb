@@ -1,0 +1,18 @@
+<div id="add-comment">
+<% type = post.question? ? 'Answer' : 'Comment' %>
+<% if logged_in? %>
+  <h2 class="section">Add <%= type %></h2>
+  <p>Posts are editable for 5 minutes after creation (HTML tags are not allowed).</p>
+  <% form_for :comment, :url => post_comments_url(post) do |form| %>
+    <%= render :partial => 'comments/form', :locals => { :form => form } %>
+    <% if post.question? %>
+      <%= image_submit_tag 'add_answer.gif' %>
+    <% else %>
+      <%= image_submit_tag 'add_comment.gif' %>
+    <% end %>
+  <% end %>
+<% else %>
+  <h2 class="section">Would you like to <%= type.downcase %>?</h2>
+  <p><%= new_user_url_with_redirect 'Join Netcooler', post_url(post) %> for free to <%= type.downcase %>. Have account already? Just <%= new_session_url_with_redirect 'login now', post_url(post) %>.</p>
+<% end %>
+</div>

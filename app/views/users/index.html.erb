@@ -1,0 +1,29 @@
+<% @page_title = 'Users' %>
+
+<h1><%= pluralize(@users.total_entries, "User") %></h1>
+
+<div class="container">
+  <table cellpadding="3px">
+    <tr>
+      <td width="5%" align="right">ID</td> 
+      <td width="10%">Status</td> 
+      <td width="15%">Username</td> 
+      <td width="30%">Email</td> 
+      <td width="20%">First Name</td> 
+      <td width="20%">Last Name</td> 
+    </tr> 
+    <% for user in @users %>
+    <tr id="user-<%= user.id %>">
+      <td align="right"><%= h user.id %></td>
+      <td><%= image_tag(user.admin? ? 'admin.png' : 'spacer.gif' ) %> <%= image_tag(user.blocked? ? 'block.png' : 'spacer.gif' ) %></td>
+      <td><%= link_to h(user.username), user %></td>
+      <td><%= h user.email %></td>
+      <td><%= h user.first_name %></td>
+      <td><%= h user.last_name %></td>
+    </tr>
+    <% end %>
+  </table>
+</div>
+
+<p>&nbsp;</p>
+<%= will_paginate @users %>

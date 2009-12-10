@@ -1,0 +1,12 @@
+uk:
+    id:         1
+    name:       United Kingdom
+    code:       GB
+    created_at: <%= Time.now.to_s(:db) %>
+
+usa:
+    id:         2
+    name:       United States
+    code:       US
+    created_at: <%= Time.now.to_s(:db) %>
+    

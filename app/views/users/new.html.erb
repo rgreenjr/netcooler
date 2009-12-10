@@ -1,0 +1,25 @@
+<% @page_title = 'Registration' %>
+
+<h1><%= @page_title %></h1>
+
+<h2>Please complete the fields below</h2>
+
+<%= error_messages_for :user %>
+
+<div class="form">
+  <% form_for :user, :url => users_url, :html => { :id => 'user_form' } do |form| %>
+    <p><label>Username:</label><%= form.text_field :username, :id => "username", :size => 40 %> <span id="username_status"></span></p>
+    <p><label>Email:</label><%= form.text_field :email, :size => 40 %></p>
+    <p><label>Password:</label><%= form.password_field :password, :size => 40 %></p>
+    <p><label>Confirm Password:</label><%= form.password_field :password_confirmation, :size => 40 %></p>
+    <%= image_submit_tag "register.gif", :class => "submit" %>
+  <% end %>
+</div>
+
+<%= observe_field "username", 
+  :frequency => 1, 
+  :loading   => "Element.update('username_status', '<img src=\"/images/spinner.gif\" align=\"top\"/>')",
+  :url       => check_username_url,
+  :with      => "'username=' + escape(value)"
+%>
+

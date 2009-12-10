@@ -1,0 +1,31 @@
+<% @page_title = 'Email A Friend' %>
+
+<h1><%= @page_title %></h1>
+
+<div id="<%= @post.dom_id %>" class="post-container">
+  <div class="post-main">
+    <p class="title"><%= h @post.title %></p>
+    <% if @post.url %>
+      <p class="data"><%= link_to h(@post.url), @post.url %></p>
+    <% end %>
+    <p class="data" style="margin-top: 12px"><%= posted_by_with_date(@post) %> | <%= pluralize(number_with_delimiter(@post.hits), "view") %> </p>
+    <p class="body"><%= h @post.body %></p>
+  </div>
+</div>
+
+<div class="divider">
+</div>
+
+<div class='form'>
+  
+  <%= error_messages_for 'email' %>
+  
+  <% form_for :email, :url => post_emails_url(@post) do |form| %>
+    <p><label>Your Email:</label><%= current_user.email %></p>
+    <p><label>Recipient's Email:</label><%= form.text_field :recipients, :size => 50 %> <span class="note">Separate email addresses with commas.</span></p>
+    <p><label>Subject:</label><%= form.text_field :subject, :size => 50 %></p>
+    <p><label>Message:</label><%= form.text_area :message, :size => '1x10' %></p>
+    <%= image_submit_tag 'send.gif', :class => 'submit' %>
+  <% end %>
+  
+</div>

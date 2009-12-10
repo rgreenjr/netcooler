@@ -1,0 +1,35 @@
+<!--[start:shared/header]-->
+<div id="header">
+  
+  <div id="header-logo">
+    <a href="/"><img src="/images/header-logo.gif" alt="logo"/></a>
+  </div>
+    
+  <div id="header-controls">
+    <div id="header-search">
+      <% form_tag searches_url, :method => :get do %>
+        <label for="q">Search </label>
+        <%= text_field_tag :q, '', :size => 25 %>
+        <%= image_submit_tag 'search-icon.jpg', :class => 'submit' %>
+      <% end %>
+    </div> 
+
+    <div id="header-navigation">
+      <% if logged_in? %>
+        <%= link_to(current_user.username, current_user) %> |
+        <%= link_to 'Settings', edit_user_url(current_user) %> | 
+        <%= link_to('Logout', session_url, :method => :delete) %> |
+      <% else %>
+        <%= link_to 'Register', new_user_url %> | 
+        <%= link_to('Login', new_session_url) %> |
+      <% end %>
+
+      <%= link_to 'All Companies', companies_url %> |
+      <%= link_to 'All Industries', industries_url %> |
+      <%= link_to 'All Tags', tags_url %> |
+      <%= link_to 'FAQ', faq_url %>    
+    </div>
+  </div> 
+
+</div> 
+<!-- [end:shared/header] -->

@@ -1,0 +1,15 @@
+<div id="companies-container">
+  <div id="companies-list">
+    <%= render :partial => @companies %>  
+  </div>
+  <div id="company-add">
+    <% rounded_box("Didn't find the company you were looking for?") do %>
+      <% if logged_in? %>
+        <p>You can <%= link_to 'add the company now', new_company_url %></p>
+      <% else %>
+        <p><%= link_to 'Join Netcooler', new_user_url %> for free and add the company now.</p>
+        <p> Have account already? <%= new_session_url_with_redirect 'Login now' %></p>
+      <% end %>
+    <% end %>
+  </div>
+</div>

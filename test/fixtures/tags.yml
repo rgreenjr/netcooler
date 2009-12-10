@@ -1,0 +1,9 @@
+innovative:
+  id:           1
+  name:         innovative
+  created_at:   <%= Time.now.to_s(:db) %>
+
+creative:
+  id:           2
+  name:         creative
+  created_at:   <%= Time.now.to_s(:db) %>

@@ -1,0 +1,15 @@
+<% @page_title = "Comments by #{h @user.username}" %>
+
+<h1><%= pluralize(number_with_delimiter(@comments.total_entries), "Comment") %> by <span class="highlight"><%= h @user.username %></span></h1>
+
+<div id="comments">
+<% if not @comments.empty? %>
+  <% for comment in @comments do %>
+    <p style="font-size: large; margin: 20px 0 0 0"><%= link_to h(comment.commentable.title), post_url(comment.commentable) %></p>
+    <%= render :partial => 'comments/comment',  :locals => { :comment => comment } %>
+  <% end %>
+  
+  <p>&nbsp;</p>
+  <%= will_paginate @comments %>
+<% end %>
+</div>

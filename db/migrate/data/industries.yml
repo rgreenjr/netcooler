@@ -1,0 +1,107 @@
+other:
+  id:             1
+  name:           Other
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+agriculture:
+  id:             2
+  name:           Agriculture
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+education:
+  id:             3
+  name:           Education
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+entertainment:
+  id:             4
+  name:           Entertainment
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+finance:
+  id:             5
+  name:           Finance
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+government:
+  id:             6
+  name:           Government
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+healthcare:
+  id:             7
+  name:           Healthcare
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+insurance:
+  id:             8
+  name:           Insurance
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+legal:
+  id:             9
+  name:           Legal
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+marketing:
+  id:             10
+  name:           Marketing
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+technology:
+  id:             11
+  name:           Technology
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+manufacturing:
+  id:             12
+  name:           Manufacturing
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+non_profit:
+  id:             13
+  name:           Non Profit
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+real_estate:
+  id:             14
+  name:           Real Estate
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+retail:
+  id:             15
+  name:           Retail
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+utilities:
+  id:             16
+  name:           Utilities
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+telecommunications:
+  id:             17
+  name:           Telecommunications
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>
+
+food_services:
+  id:             18
+  name:           Food Services
+  created_at:     <%= Time.now.to_s(:db) %>
+  updated_at:     <%= Time.now.to_s(:db) %>

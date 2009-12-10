@@ -1,0 +1,39 @@
+first_news_comment:
+  id:               1
+  user_id:          3
+  commentable_id:   1
+  commentable_type: Post
+  body:             So we should expect some more leather sleeves and perhaps a new boombox? Oh, and maybe a new computer. I remember what happened last time we all got excited about an Apple event.
+  created_at:       <%= Time.now.to_s(:db) %>
+
+second_news_comment:
+  id:               2
+  user_id:          4
+  commentable_id:   1
+  commentable_type: Post
+  body:             Maybe the Apple stores in California update immediately, but the one near where I work in Texas takes a few days to get the new stuff. We've gone a few times during lunch on the day of, and the day after big announcements and haven't seen whatever it was they announced (nano, macbook, etc). They had a launch party for OS X, but anything being announced by "suprise" won't be available right away.
+  created_at:       <%= Time.now.to_s(:db) %>
+
+third_news_comment:
+  id:               3
+  user_id:          3
+  commentable_id:   1
+  commentable_type: Post
+  body:             An Apple special event where the aforementioned items were released is considerably different than WWDC.
+  created_at:       <%= Time.now.to_s(:db) %>
+
+first_question_comment:
+  id:               4
+  user_id:          2
+  commentable_id:   1
+  commentable_type: Post
+  body:             I think this question is interesting.
+  created_at:       <%= Time.now.to_s(:db) %>
+
+first_gossip_comment:
+  id:               5
+  user_id:          1
+  commentable_id:   1
+  commentable_type: Post
+  body:             I think gossip is accurate.
+  created_at:       <%= Time.now.to_s(:db) %>

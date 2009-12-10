@@ -1,0 +1,7 @@
+<% @page_title = h(@post.company.name) %>
+<%= render :partial => 'companies/summary', :locals => { :company => @post.company } %>
+<%= render :partial => 'shared/tabs',       :locals => { :company => @post.company, :highlight_tab => @post.category.pluralize } %>
+<%= render :partial => 'posts/sub_nav',     :locals => { :company => @post.company, :category => @post.category } %>  
+<%= render :partial => 'posts/post',        :locals => { :post => @post } %>
+<%= render :partial => 'comments/comments', :locals => { :post => @post } %>
+<%= render :partial => 'comments/new',      :locals => { :post => @post } %>

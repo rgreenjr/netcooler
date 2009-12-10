@@ -1,0 +1,12 @@
+<% if admin? %>
+  <div class='post-status' style="border-top: 1px solid #c7d3df">
+    <p>Post status: <%= post_status_icon(post) %> <strong><%= post.status %></strong>
+    <% submit_value = post.blocked? ? 'Approved'         : 'Blocked' %>
+    <% submit_image = post.blocked? ? 'approve-post.gif' : 'block-post.gif' %>
+    <% form_for :post, :html => { :method => :put } do |form| %>
+      <%= form.hidden_field :status, :value => submit_value %>
+      <%= image_submit_tag submit_image %>
+    <% end %>
+    </p>
+  </div>
+<% end %>

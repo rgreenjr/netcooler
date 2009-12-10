@@ -1,0 +1,16 @@
+<div id="<%= comment.dom_id %>" class="comment">
+  <div class="header">
+    <%= render :partial => 'comments/rate', :locals => { :comment => comment } %>
+    <div class="poster">
+      <%= posted_by_with_date(comment) %>
+    </div>
+  </div>
+  <div class="body">
+    <%= comment.body_html %>
+  </div>
+  <% if comment.editable_by?(current_user) %>
+    <div class="edit">
+      <%= link_to 'Edit comment', edit_comment_url(comment) %> (comments are editable for 5 minutes after creation)
+    </div>
+  <% end %>
+</div>

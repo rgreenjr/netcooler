@@ -1,0 +1,12 @@
+<% if admin? %>
+  <div class='user-admin' style="border-top: 1px solid #c7d3df">
+    <p>User privileges: <%= user_privileges_icon(user) %> <strong><%= user.privileges %></strong>
+    <% submit_value = user.admin? ? 0 : 1 %>
+    <% submit_image = user.admin? ? 'revoke-admin.gif' : 'grant-admin.gif' %>
+    <% form_for :user, :html => { :method => :put } do |form| %>
+      <%= form.hidden_field :admin, :value => submit_value %>
+      <%= image_submit_tag submit_image %>
+    <% end %>
+    </p>
+  </div>
+<% end %>

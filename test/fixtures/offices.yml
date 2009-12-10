@@ -1,0 +1,20 @@
+apple_office:
+  id:           1
+  company_id:   1
+  street1:      1 Infinite Loop
+  city:         Cupertino
+  state_id:     5
+  country_id:   2
+  zip:          95014
+  created_at:   <%= Time.now.to_s(:db) %>
+
+goggle_office:
+  id:           2
+  company_id:   2
+  street1:      1600 Amphitheatre Parkway
+  city:         Mountain View
+  state_id:     5
+  country_id:   2
+  zip:          94043
+  created_at:   <%= Time.now.to_s(:db) %>
+  

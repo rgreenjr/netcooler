@@ -1,0 +1,12 @@
+<!--[start:posts/summary]-->
+<div id="<%= post.dom_id %>" class="post-container">
+  <%= render :partial => 'posts/rate', :locals => { :post => post } -%>
+  <div class="post-main">
+    <p class="title"><%= link_to h(post.title), post %></p>
+    <p class="data"><%= link_to h(post.company.name), post.company %> | <%= posted_by_with_date(post) %></p>
+    <p class="body"><%= h truncate_words(post.body) %> <%= link_to 'more', post, { :class => 'more' } %></p>
+    <p style="tags">Tags: <%= render :partial => 'tags/tag', :collection => post.tags %></p>
+    <p class="data"><%= comments_link(post) %> | <%= email_link(post) %> <%= edit_post_link(post, current_user) %></p>
+  </div>
+</div>
+<!--[end:posts/summary]-->

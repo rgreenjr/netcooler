@@ -1,0 +1,43 @@
+bob:
+  id:                 1
+  first_name:         Bob
+  last_name:          Jones
+  username:           bobjones
+  email:              bob.jones@example.com
+  admin:              false
+  password_hash:      <%= User.hash_password('pass') %>
+  last_login_at:      <%= Time.now.to_s(:db) %>
+  created_at:         <%= Time.now.to_s(:db) %>
+
+sally:
+  id:                 2
+  first_name:         Sally
+  last_name:          Johnson
+  username:           sjohnson
+  email:              sjohnson@example.com
+  admin:              false
+  password_hash:      <%= User.hash_password('pass') %>
+  last_login_at:      <%= Time.now.to_s(:db) %>
+  created_at:         <%= Time.now.to_s(:db) %>
+
+jack:
+  id:                 3
+  first_name:         Jack
+  last_name:          Wilson
+  username:           jwilson
+  email:              jwilson@example.com
+  admin:              false
+  password_hash:      <%= User.hash_password('pass') %>
+  last_login_at:      <%= Time.now.to_s(:db) %>
+  created_at:         <%= Time.now.to_s(:db) %>
+
+dave:
+  id:                 4
+  first_name:         Dave
+  last_name:          Smith
+  username:           davesmith
+  email:              dave.smith@example.com
+  admin:              true
+  password_hash:      <%= User.hash_password('pass') %>
+  last_login_at:      <%= Time.now.to_s(:db) %>
+  created_at:         <%= Time.now.to_s(:db) %>

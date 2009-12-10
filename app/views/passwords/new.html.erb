@@ -1,0 +1,16 @@
+<% @page_title = "Reset Password" %>
+
+<h1><%= @page_title %></h1>
+
+<h2>Forgot your Netcooler password?</h2>
+
+<p> Don't worry, it happens to the best of us. Enter your email and a new password will be generated and sent to you. If you don't get the email please check your spam box.</p>
+
+<%= render :partial => "shared/flasher" %>
+
+<div class="form">
+  <% form_tag :action => 'create' do %>
+    <p><label>Email Address:</label><%= text_field_tag "email", params[:email], :size => 40 %></p>
+    <%= image_submit_tag "send_password.gif", :class => "submit" %>
+  <% end %>
+</div>

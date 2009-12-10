@@ -1,0 +1,95 @@
+- fix company search now that state_id is optional on offices
+- use more error rendering in tests: assert company.valid?, company.errors.inspect
+
+-----
+assert_efficient_sql
+http://www.oreillynet.com/ruby/blog/2008/01/assert_efficient_sql.html
+-----
+Plugins - Html Test
+http://agilewebdevelopment.com/plugins/http_test
+-----
+
+
+# great way to DRY up your controllers if you use save! and create! in your RESTful application.
+rescue_from  ActiveRecord::RecordInvalid do |exception|
+  render :action => (exception.record.new_record? ? 'new' : 'edit')
+end
+
+
+
+
+====================
+=== Examine new Rails 2.0 admin namespace capabilities ===
+====================
+
+Action Pack: Exception handling
+
+Lots of common exceptions would do better to be rescued at a shared level rather than per action. This has always been possible by overwriting rescue_action_in_public, but then you had to roll out your own case statement and call super. Bah. So now we have a class level macro called rescue_from, which you can use to declaratively point certain exceptions to a given action. Example:
+
+  class PostsController < ApplicationController
+    rescue_from User::NotAuthorized, :with => :deny_access
+
+    protected
+      def deny_access
+        ...
+      end
+  end
+====================
+====================
+
+- change database to from latin1 to utf-8
+- add SQL trick to Post find so that positive, negative, and total ratings are pulled simultaneously
+- add count_cache on rateable items
+- correct the industry associations for the initial company load
+- configure media temple to use mongrel_cluster
+- sanitize attributes (or use attr_protected)
+- make tags clicked on via company/user scope to only company/user posts
+- view all tags link to tag cloud
+- news  --  most recent / most popular / most active
+- add tag auto completion
+- change tags to have two tabs: one shows for company specific taggings, site wide taggings
+- add observer/caching for ATOM feeds - see http://robertrevans.com/article/rails-caching
+
+IDEAS
+================
+- search query tag cloud (nytimes.com)
+- show most tag cloud for tag acceleration
+- simply hired tab - http://www.jobamatic.com/a/jbb/learn-more
+
+---------------
+
+done - fix tag select query
+done - add Paul's copy updates
+done - replace add sidebar with tag cloud (most recent, most popular), who we are (at top)
+done - change comment rating design
+done - make homepage items use normal rating widget
+done - use new orange rating icons
+done - make "add news..." standout more
+done - remove beta agreement acceptance from registration
+done - change posts/_post layout so it differs from posts/_summary
+done - finalize company rating interface
+done - make post rating update entire post view (not just post-rating view)
+done - flesh out tagging user interface
+done - add exception handling page
+done - fix right border layout problem
+done - add tags to user profile page
+done - rate comments
+done - allow posts to be submitted without tags
+done - change header image so home page link is correct
+done - unify post_ratings and company_ratings
+done - unit test ratings
+done - add UTF-8 support
+done - kill tag weighting
+done - change questions comments to answers
+done - add description to company creation
+done - remove http:// from company creation
+done - remove domain from company creation and make it auto created
+done - make gossip URLs as optional
+done - overhaul tagging
+done - figure why 1.2.3 routes don't work
+done - figure out why will_paginate cause infinite loop
+done - look for cases where eager loading can be used
+done - find database hot spots
+done - check validates_presence_of logic
+done - cache tag clouds
+done - do explain on DB to find missing indexes (add multi-column indexes to DB)

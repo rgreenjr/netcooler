@@ -1,0 +1,21 @@
+<!--[start:comments/rate]-->
+<% rating = comment.user_rating(current_user) if logged_in? %>
+<div id="<%= comment.dom_id %>-rating" class="rating">
+  <p class="coolness"><%= comment.coolness %></p>
+  <% if logged_in? %>
+    <% form_remote_tag :url => comment_ratings_url(comment), :html => { :style => 'background: #f0f0f0;'} do %>
+      <%= hidden_field_tag 'value', '1' %>
+      <%= comment_cool_rating_image_submit_tag(rating) %>
+    <% end %>
+    <% form_remote_tag :url => comment_ratings_url(comment), :html => { :style => 'background: #f0f0f0;'} do %>
+      <%= hidden_field_tag 'value', '-1' %>
+      <%= comment_uncool_rating_image_submit_tag(rating) %>
+    <% end %>
+  <% else %>
+  <div style="margin-right: 4px; float: left">
+    <%= link_to(image_tag('comment-rate-cool-off.gif'), new_session_url) %>
+    <%= link_to(image_tag('comment-rate-uncool-off.gif'), new_session_url) %>
+    </div>
+  <% end %>
+</div>
+<!--[end:comments/rate]-->

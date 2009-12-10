@@ -1,0 +1,18 @@
+<!--[start:posts/sub-nav]-->
+<% url = atom_url(company, category.downcase.pluralize) -%>
+<% title = "#{h company.name} - #{category}" -%>
+
+<% content_for :atom_feed do %>
+<link rel="alternate" title="<%= title %>" href="<%= url %>" type="application/atom+xml" />
+<% end %>
+
+<div id="sub-nav">
+  <div class="add-post">
+    <%= add_post_link(company, category) %>
+  </div>
+  <div class="atom">
+    <%= link_to title, url%>
+    <%= link_to image_tag("atom.gif"), url %> 
+  </div>
+</div>
+<!--[end:posts/sub-nav]-->

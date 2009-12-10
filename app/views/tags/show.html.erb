@@ -1,0 +1,32 @@
+<% @page_title = h @tag_name %>
+
+<% if @tag %>
+
+  <h1>Tagged with <span class="highlight"><%= h @tag_name %></span></h1>
+
+  <h2 class="section"><%= pluralize(@news_taggings.size, "News Post") %></h2>
+  <div id="news">
+    <% for tagging in @news_taggings do %>
+      <%= render :partial => 'posts/summary', :locals => { :post => tagging.taggable } %>  
+    <% end %>
+  </div>
+
+  <h2 class="section"><%= pluralize(@gossip_taggings.size, "Gossip Post") %></h2>
+  <div id="gossip">
+    <% for tagging in @gossip_taggings do %>
+      <%= render :partial => 'posts/summary', :locals => { :post => tagging.taggable } %>  
+    <% end %>
+  </div>
+
+  <h2 class="section"><%= pluralize(@question_taggings.size, "Question Post") %></h2>
+  <div id="questions">
+    <% for tagging in @question_taggings do %>
+      <%= render :partial => 'posts/summary', :locals => { :post => tagging.taggable } %>  
+    <% end %>
+  </div>
+
+<% else %>
+  
+  <h1>Tag not found <span class="highlight"><%= h @tag_name %></span></h1>
+
+<% end %>

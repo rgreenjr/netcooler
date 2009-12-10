@@ -1,0 +1,7 @@
+<% @page_title = h(@company.name) %>
+<%= render :partial => 'companies/summary', :locals => { :company => @company } %>
+<%= render :partial => 'shared/tabs',       :locals => { :company => @company, :highlight_tab => 'Overview' } %>
+<%= render :partial => 'sub_nav' %>  
+<%= render :partial => 'posts/recent',      :locals => { :title => 'Recent News',       :posts => @news } %>
+<%= render :partial => 'posts/recent',      :locals => { :title => 'Recent Gossip',     :posts => @gossip } %>
+<%= render :partial => 'posts/recent',      :locals => { :title => 'Recent Questions',  :posts => @questions } %>

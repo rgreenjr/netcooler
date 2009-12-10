@@ -1,0 +1,7 @@
+<% @page_title = h(@industry.name) %>
+<div class="industry">
+  <p class="name"><%= h(@industry.name) %></p>
+  <%= render :partial => 'posts/recent', :locals => { :title => "Recent #{@industry.name} News",      :posts => @news,     } %>
+  <%= render :partial => 'posts/recent', :locals => { :title => "Recent #{@industry.name} Gossip",    :posts => @gossip,   } %>
+  <%= render :partial => 'posts/recent', :locals => { :title => "Recent #{@industry.name} Questions", :posts => @questions } %>
+</div>

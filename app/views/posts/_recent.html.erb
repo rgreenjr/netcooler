@@ -1,0 +1,11 @@
+<h3 class="section" style="color: #c60"><%= title %></h3>
+<% posts.each do |post| %>
+  <div id="<%= post.dom_id %>" class="post-container">
+    <%= render :partial => 'posts/rate', :locals => { :post => post } -%>
+    <div class="post-main">
+      <p class="title"><%= link_to h(post.title), post %></p>
+      <p class="data"><%= link_to h(post.company.name), post.company %> | <%= posted_by(post) %> <%= time_ago_in_words(post.created_at) %> ago | <%= pluralize(post.comments.size, "comment") %></p>
+      <p class="body"><%= h truncate_words(post.body, 15) %> <%= link_to 'more', post, { :class => 'more' } %></p>
+    </div>
+  </div>
+<% end %>

@@ -1,0 +1,16 @@
+<% @page_title = "Login" %>
+
+<h1><%= @page_title %></h1>
+
+<h2>Enter your username and password</h2>
+
+<%= render :partial => "shared/flasher" %>
+
+<div class="form">
+  <% form_tag :action => "create" do %>
+    <p><label for="username">Username:</label><%= text_field_tag :username, params[:username], :size => 30 %></p>
+    <p><label for="password">Password:</label><%= password_field_tag :password, params[:password], :size => 30 %> <%= link_to "Forgot your password?", new_password_url %></p>
+    <%= image_submit_tag "login.gif", :class => "submit" %>
+  <% end %>
+  <p>Not a member yet? <%= link_to "Register now", new_user_url %></p>
+</div>

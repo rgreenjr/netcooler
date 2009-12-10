@@ -1,0 +1,11 @@
+<!--[start:companies/summary]-->
+<div id="company-summary">
+  <p class="name"><%= link_to h(company.name), h(company.url) %></p>
+  <% if !company.offices.empty? %>
+  	<p class="address"><%= link_to h(company.city), city_and_state_search_url(company) %><% if !company.state_name.blank? -%>, <%= link_to h(company.state_name), state_search_url(company) %><% end -%>
+	</p>
+  	<p class="address"><%= link_to h(company.country_name), country_search_url(company) %></p>
+  <% end %>
+</div>
+<!--[end:companies/summary]-->
+

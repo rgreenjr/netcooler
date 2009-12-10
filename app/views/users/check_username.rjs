@@ -1,0 +1,11 @@
+if @hide_field
+  page.hide :username_status
+else
+  page.show :username_status
+end
+
+if @available
+  page.replace_html :username_status, "<span style='color: green;'>Available</span>"
+else
+  page.replace_html :username_status, "<span style='color: red;'>Not Available</span>"
+end

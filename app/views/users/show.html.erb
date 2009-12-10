@@ -1,0 +1,54 @@
+<% @page_title = 'User Profile' %>
+
+<h1>User Profile <span class="highlight"><%= @user.username %></span></h1>
+
+<%= render :partial => 'shared/flasher' %>
+
+<div style="float: left; margin: 15px 50px 0 15px">
+  <%= avatar_for(@user)  %>
+  <p><%= change_avatar_link(@user) %></p>
+</div>
+
+<div class="user-profile">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="150px">Username:</td>
+      <td><%= h @user.username %></td>
+    </tr>
+    <tr>
+      <td>Member Since:</td>
+      <td><%= @user.created_at.to_s(:short_date) %></td>
+    </tr>
+    <tr>
+      <td>Last Login:</td>
+      <td><%= @user.last_login_at.strftime('%B %e, %Y at %I:%M %p') if @user.last_login_at %></td>
+    </tr>
+    <tr>
+      <td colspan="2"><hr /></td>
+    </tr>
+    <tr>
+      <td>News Posts:</td>
+      <td><%= link_to number_with_delimiter(@user.posts.news.size), user_posts_url(@user) + '?category=news' %></td>
+    </tr>
+    <tr>
+      <td>Gossip Posts:</td>
+      <td><%= link_to number_with_delimiter(@user.posts.gossip.size), user_posts_url(@user) + '?category=gossip' %></td>
+    </tr>
+    <tr>
+      <td>Question Posts:</td>
+      <td><%= link_to number_with_delimiter(@user.posts.questions.size), user_posts_url(@user) + '?category=questions' %></td>
+    </tr>
+    <tr>
+      <td>Comments:</td>
+      <td><%= link_to number_with_delimiter(@user.comments.size), user_comments_url(@user) %></td>
+    </tr>
+    <tr>
+      <td>Tags:</td>
+      <td><%= link_to number_with_delimiter(@user.tags.size), user_tags_url(@user) %></td>
+    </tr>
+  </table>
+  
+  <p><%= render :partial => 'users/admin', :locals => { :user => @user } %></p>
+  <p><%= render :partial => 'users/status', :locals => { :user => @user } %></p>
+
+</div>

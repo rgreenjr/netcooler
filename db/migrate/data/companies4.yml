@@ -1,0 +1,263 @@
+a1_networks:
+  name:           A10 Networks
+  url:            http://www.a10networks.com/
+  industry:       Technology
+  description:    Innovators in Networking and Security.
+  city:           San Jose
+  state:          CA
+
+a123systems:
+  name:           A123Systems
+  url:            http://www.a123systems.com/
+  industry:       Technology
+  description:    A123Systems is now one of the world's leading suppliers of high-power lithium ion batteries
+  city:           Watertown
+  state:          MA
+
+adknowledge_inc_:
+  name:           Adknowledge, Inc.
+  url:            http://www.adknowledge.com/
+  industry:       Technology
+  city:           Kansas City
+  state:          MO
+
+amp_d_mobile:
+  name:           Amp'd Mobile
+  url:            http://www.ampd.com/
+  industry:       Technology
+  city:           Aliso Viejo
+  state:          CA
+
+amplimed:
+  name:           AmpliMed
+  url:            http://www.amplimed.com/
+  industry:       Technology
+  description:    AmpliMed¨ Corporation, a clinical-stage pharmaceutical company founded by world-renowned oncologists
+  city:           Tucson
+  state:          AZ
+
+amyris_biotechnologies_inc_:
+  name:           Amyris Biotechnologies, Inc.
+  url:            http://www.amyrisbiotech.com/
+  industry:       Technology
+  description:    Amyris Biotechnologies is translating the promise of synthetic biology into solutions for real-world problems
+  city:           Emeryville
+  state:          CA
+
+anda_networks_inc:
+  name:           ANDA Networks, Inc
+  url:            http://www.andanetworks.com/
+  industry:       Technology
+  description:    ANDA Networks provides innovative carrier-class Ethernet equipment solutions for delivering cost-effective Metro Ethernet services
+  city:           Sunnyvale
+  state:          CA
+
+aperto_networks:
+  name:           Aperto Networks
+  url:            http://www.apertonet.com/
+  industry:       Technology
+  city:           Milpitas
+  state:          CA
+
+application_security_inc_:
+  name:           Application Security, Inc.
+  url:            http://www.appsecinc.com/
+  industry:       Technology
+  description:    Application Security Inc. provides comprehensive solutions for database security
+  city:           New York
+  state:          NY
+
+barracuda_networks_inc_:
+  name:           Barracuda Networks, Inc.
+  url:            http://www.barracudanetworks.com/
+  industry:       Technology
+  description:    SPAM firewall company
+  city:           Mountain View
+  state:          CA
+
+bay_microsystems_inc_:
+  name:           Bay Microsystems, Inc.
+  url:            http://www.baymicrosystems.com/
+  industry:       Technology
+  city:           San Jose
+  state:          CA
+
+bazaarvoice_inc_:
+  name:           Bazaarvoice, Inc.
+  url:            http://www.bazaarvoice.com/
+  industry:       Technology
+  description:    Help customers build your business with word of mouth on your eCommerce website.
+  city:           Austin
+  state:          TX
+
+become_inc_:
+  name:           Become, Inc.
+  url:            http://www.become.com/
+  industry:       Technology
+  city:           Mountain View
+  state:          CA
+
+berkeley_design_automation:
+  name:           Berkeley Design Automation
+  url:            http://www.berkeley-da.com/
+  industry:       Technology
+  description:    Berkeley Design Automation is an innovative chip design software company
+  city:           Santa Clara
+  state:          CA
+
+bharosa:
+  name:           Bharosa
+  url:            http://www.bharosa.com/
+  industry:       Technology
+  description:    Protection against Keylogging, Phishing & Data Sniffing.
+  city:           Santa Clara
+  state:          CA
+
+biopassword_inc_:
+  name:           BioPassword, Inc.
+  url:            http://www.biopassword.com/
+  industry:       Technology
+  description:    BioPassword - the leader in biometric authentication software
+  city:           Issaquah
+  state:          WA
+
+bittorrent:
+  name:           BitTorrent
+  url:            http://www.bittorrent.com/
+  industry:       Technology
+  description:    Download thousands of movies and TV shows from BitTorrent.
+  city:           San Francisco
+  state:          CA
+
+black_duck_software_inc_:
+  name:           Black Duck Software, Inc.
+  url:            http://www.blackducksoftware.com
+  industry:       Technology
+  description:    Intellectual Property Management
+  city:           Waltham
+  state:          MA
+
+boston_circuits_inc_:
+  name:           Boston Circuits, Inc.
+  url:            http://www.bostoncircuits.com/
+  industry:       Technology
+  description:    Boston Circuits, Inc. (BCI) is a fabless semiconductor company, specializing in multi-core embedded processors and software
+  city:           Burlington
+  state:          MA
+
+broadlight_inc_:
+  name:           BroadLight, Inc.
+  url:            http://www.broadlight.com/
+  industry:       Technology
+  description:    BroadLight delivers cost effective components that enable high performance, end-to-end, easy to integrate PON solutions that accelerate FTTP deployment
+  city:           Mountain View
+  state:          CA
+
+calix_networks_inc_:
+  name:           Calix Networks, Inc.
+  url:            http://www.calix.com/
+  industry:       Technology
+  city:           Petaluma
+  state:          CA
+
+cape_clear_software:
+  name:           Cape Clear Software
+  url:            http://www.capeclear.com/
+  industry:       Technology
+  city:           Waltham
+  state:          MA
+
+cavium_networks_inc_:
+  name:           Cavium Networks, Inc.
+  url:            http://www.cavium.com/
+  industry:       Technology
+  description:    Specializing in multicore networking and communication processors.
+  city:           Santa Clara
+  state:          CA
+
+centrality_communications_inc_:
+  name:           Centrality Communications Inc.
+  url:            http://www.centralitycomm.com/
+  industry:       Technology
+  description:    Centrality is a leading developer of semiconductor system solutions for GPS navigation products
+  city:           Santa Clara
+  state:          CA
+
+clairmail:
+  name:           ClairMail
+  url:            http://www.clairmail.com/
+  industry:       Technology
+  description:    ClairMail optimizes any mobile phone for 2-way customer interaction, mobile banking, mobile payments, text banking, and multifactor authentication
+  city:           Novato
+  state:          CA
+
+cloudmark:
+  name:           Cloudmark
+  url:            http://www.cloudmark.com
+  industry:       Technology
+  description:    Cloudmark's award-winning software products and services provide anti-spam, anti-virus, anti-phishing, spam-filtering and spam-blocking
+  city:           San Francisco
+  state:          CA
+
+cobasys:
+  name:           Cobasys
+  url:            http://www.cobasys.com/
+  industry:       Technology
+  description:    The technology leader in NiMH batteries for both transportation and stationary applications.
+  city:           Orion
+  state:          MI
+
+collabnet:
+  name:           CollabNet
+  url:            http://www.collab.net/
+  industry:       Technology
+  description:    CollabNet is the primary corporate sponsor of Subversion and the #1 solution for multi-site software development.
+  city:           Brisbane
+  state:          CA
+
+contactual_inc:
+  name:           Contactual, Inc
+  url:            http://www.contactual.com
+  industry:       Technology
+  description:    Contactual is a global provider of on-demand contact center solutions.
+  city:           San Mateo
+  state:          CA
+
+contextweb_inc:
+  name:           ContextWeb Inc
+  url:            http://www.contextweb.com/
+  industry:       Technology
+  description:    A leading provider of high-precision, real-time contextual advertising solutions
+  city:           New York
+  state:          NY
+
+converged_access:
+  name:           Converged Access
+  url:            http://www.convergedaccess.com/
+  industry:       Technology
+  city:           Billerica
+  state:          MA
+
+current_communications_group:
+  name:           Current Communications Group
+  url:            http://www.currentgroup.com/
+  industry:       Technology
+  description:    A Broadband over Powerline (BPL) multiple systems operator offering service over existing electric power lines and in-home electric wiring.
+  city:           Germantown
+  state:          MD
+
+remax:
+  name:           RE/MAX
+  url:            http://www.remax.com/
+  industry:       Real Estate
+  description:    RE/MAX is a global real estate system of franchisee owned and operated offices and their affiliated independent professionals.
+  city:           Denver
+  state:          CO
+
+careerbuilder:
+  name:           CareerBuilder.com
+  url:            http://www.careerbuilder.com/
+  industry:       Other
+  city:           Chicago
+  state:          IL
+

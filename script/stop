@@ -1,0 +1,3 @@
+mongrel_rails cluster::stop
+echo "Stoping pen..."
+sudo kill `ps -auxww | grep pen | grep -v grep | awk '{print $2}'`

@@ -1,0 +1,13 @@
+<!--[start:tags/cloud]-->
+<% title ||= title %>
+<div class="tag-cloud">  
+  <% rounded_box(title) do %>
+   Tags: 
+    <% for tag in tags %>
+      <%= link_to h(tag.name), tag %>
+    <% end %>
+  <% end %>
+</div>
+<!--[end:tags/cloud]-->
+
+

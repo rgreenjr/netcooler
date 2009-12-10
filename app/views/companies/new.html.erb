@@ -1,0 +1,37 @@
+<% @page_title = "Create Company" %>
+
+<h1><%= @page_title %></h1>
+<h2>Please enter the following company information</h2>
+
+<% if @matching_company %>
+  <div class="errorExplanation" id="errorExplanation">
+    <p>A company already exists with the domain <%= @matching_company.domain %>: <%= link_to h(@matching_company.name), company_url(@matching_company) %></p>
+  </div>
+<% end %>
+
+<% form_for :company, :url => companies_url do |form| %> 
+  <div class="form"> 
+    <%= error_messages_for :company unless @matching_company %>
+    <p><label>Name:</label><%= form.text_field :name, :size => 40 %></p>
+    <p><label>Description:</label><%= form.text_area :description, :size => "1x10" %></p>
+    <p><label>URL:</label><%= form.text_field :url, :id => "company_url", :size => 40 %> (e.g. www.netcooler.com)</p>
+    <p><label>Industry:</label><%= form.collection_select(:industry_id, Industry.find(:all, :order => "name"), :id, :name, :prompt => "Please select")  %></p>
+  </div>
+  <div class="form-spacer">
+  </div>
+  <div class="form">
+    <%= error_messages_for :office unless @matching_company %>
+    <% fields_for :office do |office| %>
+    <p><label>Street 1:</label><%= office.text_field :street1, :size => 40 %> (optional)</p>
+    <p><label>Street 2:</label><%= office.text_field :street2, :size => 40 %> (optional)</p>
+    <p><label>City:</label><%= office.text_field :city, :size => 40 %></p>
+    <p><label>Country:</label><%= collection_select(:office, :country_id, Country.all_by_name, :id, :name, :prompt => "Please select", :id => "country_id")  %></p>
+    <p id="state_field"><label>State or Province:</label><%= collection_select(:office, :state_id, @office.country.states, :id, :name, :prompt => "Please select")  %></p>
+    <p id="zip_field"><label>Zip or Postal Code:</label><%= office.text_field :zip, :size => 40 %> (optional)</p>
+    <% end %>
+    <%= image_submit_tag "add_company.gif", :class => "submit" %>
+  </div>
+<% end %>
+
+<%= observe_field "office_country_id", :url => states_url, :method => :get, :with => "'country_id=' + escape(value)" %>
+

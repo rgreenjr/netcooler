@@ -1,0 +1,47 @@
+ron:
+  id:                 1
+  first_name:         Ron
+  last_name:          Green
+  username:           rgreen
+  email:              rgreenjr@gmail.com
+  admin:              true
+  password_hash:      <%= User.hash_password('pass') %>
+  last_login_at:      <%= Time.now.to_s(:db) %>
+  created_at:         <%= Time.now.to_s(:db) %>
+  updated_at:         <%= Time.now.to_s(:db) %>
+
+alan:
+  id:                 2
+  first_name:         Alan
+  last_name:          Bickerstaff
+  username:           whistleblower
+  email:              abickerstaff@gmail.com
+  admin:              true
+  password_hash:      <%= User.hash_password('fightclub') %>
+  last_login_at:      <%= Time.now.to_s(:db) %>
+  created_at:         <%= Time.now.to_s(:db) %>
+  updated_at:         <%= Time.now.to_s(:db) %>
+
+paul:
+  id:                 3
+  first_name:         Paul
+  last_name:          Huggins
+  username:           phuggins
+  email:              paul.a.huggins@gmail.com
+  admin:              true
+  password_hash:      <%= User.hash_password('fightclub') %>
+  last_login_at:      <%= Time.now.to_s(:db) %>
+  created_at:         <%= Time.now.to_s(:db) %>
+  updated_at:         <%= Time.now.to_s(:db) %>
+  
+scott:
+  id:                 4
+  first_name:         Scott
+  last_name:          Ryder
+  username:           sryder
+  email:              sryder@gmail.com
+  admin:              true
+  password_hash:      <%= User.hash_password('fightclub') %>
+  last_login_at:      <%= Time.now.to_s(:db) %>
+  created_at:         <%= Time.now.to_s(:db) %>
+  updated_at:         <%= Time.now.to_s(:db) %>

@@ -1,0 +1,12 @@
+<% if @industry %>
+  <% @page_title = "#{@industry.name} Companies" %>
+  <h1><%= pluralize(number_with_delimiter(@companies.total_entries), "#{@industry.name} Company") %></h1>
+<% else %>
+  <% @page_title = 'Companies' %>
+  <h1><%= pluralize(number_with_delimiter(@companies.total_entries), "Company") %></h1>
+<% end %>
+<%= render :partial => 'companies/companies' %>
+<%= will_paginate @companies %>
+
+
+

@@ -1,0 +1,15 @@
+<!--[start:companies/sub_nav]-->
+<% url = atom_url(@company) %>
+<% title = "#{h @company.name}" %>
+
+<% content_for :atom_feed do %>
+<link rel='alternate' title="<%= title %>" href="<%= url %>" type='application/atom+xml' />
+<% end %>
+
+<div id='sub-nav'>
+  <div class='atom'>
+    <%= link_to title, url %>
+    <%= link_to image_tag('atom.gif'), url %> 
+  </div>
+</div>
+<!--[end:companies/sub_nav]-->

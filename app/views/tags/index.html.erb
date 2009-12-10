@@ -1,0 +1,15 @@
+<% if @user %>
+  <% @page_title = "Tags created by #{h @user.username}" %>
+  <h1><%= pluralize(number_with_delimiter(@tags.size), "Tag") %> by <span class="highlight"><%= h @user.username %></span></h1>
+<% elsif @company %>
+  <% @page_title = h(@company.name) %>
+  <%= render :partial => 'companies/summary', :locals => { :company => @company } %>
+  <%= render :partial => 'shared/tabs',       :locals => { :company => @company, :highlight_tab => 'Tags' } %>
+  <%= render :partial => 'companies/sub_nav' %>
+<% else %>
+  <% @page_title = "All Tags" %>
+  <h1><%= @page_title %></h1>
+<% end %>
+
+<%= render :partial => 'tags/cloud', :locals => { :tags => @tags } %>
+

@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Netcooler - <%= @page_title || 'Tap into it' -%></title>
+  <%= yield :atom_feed %>
+  <%= stylesheet_link_tag 'screen' %>
+  <%= javascript_include_tag :defaults %>
+  <%= yield :head %>
+</head>
+<body>
+  <div id="wrapper">
+    <%= render :partial => 'shared/header' %>
+    <div id="main-content">
+      <%= yield %>
+    </div> 
+    <%= render :partial => 'shared/sidebar' %>
+    <%= render :partial => 'shared/footer' %>
+  </div>
+<!-- Google Analytics Start -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5976239-1");
+pageTracker._trackPageview();
+</script>
+<!-- Google Analytics End -->
+</body>
+</html>

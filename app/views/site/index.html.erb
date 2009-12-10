@@ -1,0 +1,18 @@
+<% @page_title = "Homepage" %>
+
+<% content_for :atom_feed do %>
+  <link rel="alternate" title="Netcooler" href="/index.atom" type="application/atom+xml" />
+<% end %>
+
+<div id="homepage-search">
+  <% rounded_box("What's going on at your company?") do %>
+    <% form_tag searches_url, :method => :get do %>
+      <%= text_field_tag :q, 'Search for a company...', :onclick => "if(this.value=='Search for a company...'){this.value=''}" %>
+      <%= image_submit_tag 'search.gif', :id => 'button' %>
+    <% end %>  
+  <% end %>
+</div>
+
+<%= render :partial => 'posts/recent', :locals => { :title => 'Recent News',      :posts => @news,     } %>
+<%= render :partial => 'posts/recent', :locals => { :title => 'Recent Gossip',    :posts => @gossip,   } %>
+<%= render :partial => 'posts/recent', :locals => { :title => 'Recent Questions', :posts => @questions } %>

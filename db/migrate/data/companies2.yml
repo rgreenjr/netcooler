@@ -1,0 +1,658 @@
+king_spalding:
+  name:           King & Spalding
+  url:            www.kslaw.com/portal/server.pt
+  industry:       Legal
+  city:           Atlanta
+  state:          GA
+
+alston_bird:
+  name:           Alston & Bird
+  url:            www.alston.com/
+  industry:       Legal
+  city:           Atlanta
+  state:          GA
+
+kilpatrick_stockton:
+  name:           Kilpatrick Stockton
+  url:            www.kilpatrickstockton.com/
+  industry:       Legal
+  city:           Atlanta
+  state:          GA
+
+troutman_sanders:
+  name:           Troutman Sanders
+  url:            www.troutmansanders.com/Home.aspx
+  industry:       Legal
+  city:           Atlanta
+  state:          GA
+
+venable:
+  name:           Venable
+  url:            www.venable.com/
+  industry:       Legal
+  city:           Baltimore
+  state:          MD
+
+wilmerhale:
+  name:           WilmerHale
+  url:            www.wilmerhale.com/
+  industry:       Legal
+  city:           Boston
+  state:          MA
+
+ropes_gray:
+  name:           Ropes & Gray
+  url:            www.ropesgray.com/
+  industry:       Legal
+  city:           Boston
+  state:          MA
+
+goodwin_procter:
+  name:           Goodwin Procter
+  url:            www.goodwinprocter.com/
+  industry:       Legal
+  city:           Boston
+  state:          MA
+
+mintz_levin_cohn_ferris_glovsky_and_popeo:
+  name:           Mintz, Levin, Cohn, Ferris, Glovsky and Popeo
+  url:            www.mintz.com/
+  industry:       Legal
+  city:           Boston
+  state:          MA
+
+winston_strawn:
+  name:           Winston & Strawn
+  url:            www.winston.com/
+  industry:       Legal
+  city:           Chicago
+  state:          IL
+
+sonnenschein_nath_rosenthal:
+  name:           Sonnenschein Nath & Rosenthal
+  url:            www.sonnenschein.com/
+  industry:       Legal
+  city:           Chicago
+  state:          IL
+
+jenner_block:
+  name:           Jenner & Block
+  url:            www.jenner.com/
+  industry:       Legal
+  city:           Chicago
+  state:          IL
+
+baker_hostetler:
+  name:           Baker & Hostetler
+  url:            www.bakerlaw.com/
+  industry:       Legal
+  city:           Cleveland
+  state:          OH
+
+jenkens_gilchrist:
+  name:           Jenkens & Gilchrist
+  url:            www.jenkens.com/Jenkens/Default.asp
+  industry:       Legal
+  city:           Dallas
+  state:          TX
+
+locke_liddell_sapp:
+  name:           Locke Liddell & Sapp
+  url:            www.lockeliddell.com/Home.aspx
+  industry:       Legal
+  city:           Dallas
+  state:          TX
+
+haynes_and_boone:
+  name:           Haynes and Boone
+  url:            www.haynesboone.com/
+  industry:       Legal
+  city:           Dallas
+  state:          TX
+
+vinson_elkins:
+  name:           Vinson & Elkins
+  url:            www.velaw.com/
+  industry:       Legal
+  city:           Houston
+  state:          TX
+
+fulbright_jaworski:
+  name:           Fulbright & Jaworski
+  url:            www.fulbright.com/
+  industry:       Legal
+  city:           Houston
+  state:          TX
+
+baker_botts:
+  name:           Baker Botts
+  url:            www.bakerbotts.com/
+  industry:       Legal
+  city:           Houston
+  state:          TX
+
+andrews_kurth:
+  name:           Andrews & Kurth
+  url:            www.akllp.com/
+  industry:       Legal
+  city:           Houston
+  state:          TX
+
+white_case:
+  name:           White & Case
+  url:            www.whitecase.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+shook_hardy_bacon:
+  name:           Shook, Hardy & Bacon
+  url:            www.shb.com/
+  industry:       Legal
+  city:           Kansas City
+  state:          MO
+
+gibson_dunn_crutcher:
+  name:           Gibson, Dunn & Crutcher
+  url:            www.gibsondunn.com/
+  industry:       Legal
+  city:           Los Angeles
+  state:          CA
+
+o_melveny_myers:
+  name:           O'Melveny & Myers
+  url:            www.omm.com/
+  industry:       Legal
+  city:           Los Angeles
+  state:          CA
+
+foley_lardner:
+  name:           Foley & Lardner
+  url:            www.foley.com/
+  industry:       Legal
+  city:           Milwaukee
+  state:          WI
+
+dorsey_whitney:
+  name:           Dorsey & Whitney
+  url:            www.dorsey.com/
+  industry:       Legal
+  city:           Minneapolis
+  state:          MN
+
+mcdermott_will_emery:
+  name:           McDermott, Will & Emery
+  url:            www.mwe.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+akin_gump_strauss_hauer_feld:
+  name:           Akin Gump Strauss Hauer & Feld
+  url:            www.akingump.com/
+  industry:       Legal
+  city:           Washington
+  state:          DC
+
+morgan_lewis_bockius:
+  name:           Morgan, Lewis & Bockius
+  url:            www.morganlewis.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+holland_knight:
+  name:           Holland & Knight
+  url:            www.hklaw.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+paul_hastings_janofsky_walker:
+  name:           Paul, Hastings, Janofsky & Walker
+  url:            www.paulhastings.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+greenberg_traurig:
+  name:           Greenberg Traurig
+  url:            www.gtlaw.com/home.aspx
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+dla_piper:
+  name:           DLA Piper
+  url:            www.dlapiper.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+bingham_mccutchen:
+  name:           Bingham McCutchen
+  url:            www.bingham.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+dechert:
+  name:           Dechert
+  url:            www.dechert.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+squire_sanders_dempsey:
+  name:           Squire, Sanders & Dempsey
+  url:            www.ssd.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+leboeuf_lamb_greene_macrae:
+  name:           LeBoeuf, Lamb, Greene & MacRae
+  url:            www.llgm.com/Home.aspx
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+bryan_cave:
+  name:           Bryan Cave
+  url:            www.bryancave.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+katten_muchin_zavis_rosenman:
+  name:           Katten Muchin Zavis Rosenman
+  url:            www.kattenlaw.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+reed_smith:
+  name:           Reed Smith
+  url:            www.reedsmith.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+kirkpatrick_lockhart:
+  name:           Kirkpatrick & Lockhart
+  url:            www.klgates.com/Home.aspx
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+nixon_peabody:
+  name:           Nixon Peabody
+  url:            www.nixonpeabody.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+seyfarth_shaw:
+  name:           Seyfarth Shaw
+  url:            www.seyfarth.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+duane_morris:
+  name:           Duane Morris
+  url:            www.duanemorris.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+skadden_arps_slate_meagher_flom:
+  name:           Skadden, Arps, Slate, Meagher & Flom
+  url:            www.skadden.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+shearman_sterling:
+  name:           Shearman & Sterling
+  url:            www.shearman.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+weil_gotshal_manges:
+  name:           Weil, Gotshal & Manges
+  url:            www.weil.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+sullivan_cromwell:
+  name:           Sullivan & Cromwell
+  url:            www.sullivanandcromwell.com/Home.aspx
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+davis_polk_wardwell:
+  name:           Davis Polk & Wardwell
+  url:            www.davispolk.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+simpson_thacher_bartlett:
+  name:           Simpson Thacher & Bartlett
+  url:            www.simpsonthacher.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+cleary_gottlieb_steen_hamilton:
+  name:           Cleary, Gottlieb, Steen & Hamilton
+  url:            www.cgsh.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+paul_weiss_rifkind_wharton_garrison:
+  name:           Paul, Weiss, Rifkind, Wharton & Garrison
+  url:            www.paulweiss.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+milbank_tweed_hadley_mccloy:
+  name:           Milbank, Tweed, Hadley & McCloy
+  url:            www.milbank.com/en
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+dewey_ballantine:
+  name:           Dewey Ballantine
+  url:            www.deweyballantine.com/home1024.cfm
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+debevoise_plimpton:
+  name:           Debevoise & Plimpton
+  url:            www.debevoise.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+proskauer_rose:
+  name:           Proskauer Rose
+  url:            www.proskauer.com/index.html
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+cravath_swaine_moore:
+  name:           Cravath, Swaine & Moore
+  url:            www.cravath.com/Cravath.html
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+fried_frank_harris_shriver_jacobson:
+  name:           Fried, Frank, Harris, Shriver & Jacobson
+  url:            www.ffhsj.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+wachtell_lipton_rosen_katz:
+  name:           Wachtell, Lipton, Rosen & Katz
+  url:            www.wlrk.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+willkie_farr_gallagher:
+  name:           Willkie Farr & Gallagher
+  url:            www.willkie.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+cadwalader_wickersham_taft:
+  name:           Cadwalader, Wickersham & Taft
+  url:            www.cadwalader.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+kaye_scholer:
+  name:           Kaye Scholer
+  url:            www.kayescholer.com/web.nsf/HomePage?OpenForm
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+chadbourne_parke:
+  name:           Chadbourne & Parke
+  url:            www.chadbourne.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+schulte_roth_zabel:
+  name:           Schulte Roth & Zabel
+  url:            www.srz.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+stroock_stroock_lavan:
+  name:           Stroock & Stroock & Lavan
+  url:            www.stroock.com/
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+cahill_gordon_reindel:
+  name:           Cahill Gordon & Reindel
+  url:            www.cahill.com/index.html
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+kelley_drye_warren:
+  name:           Kelley Drye & Warren
+  url:            www.animusrex.com/about/testimonials/kdw
+  industry:       Legal
+  city:           New York
+  state:          NY
+
+wilson_sonsini_goodrich_rosati:
+  name:           Wilson Sonsini Goodrich & Rosati
+  url:            http://www.wsgr.com/WSGR/Index.aspx
+  industry:       Legal
+  city:           Palo Alto
+  state:          CA
+
+cooley_godward:
+  name:           Cooley Godward
+  url:            www.cooley.com/
+  industry:       Legal
+  city:           Palo Alto
+  state:          CA
+
+cozen_o_connor:
+  name:           Cozen O'Connor
+  url:            www.cozen.com/
+  industry:       Legal
+  city:           Philadelphia
+  state:          PA
+
+drinker_biddle_reath:
+  name:           Drinker Biddle & Reath
+  url:            www.drinkerbiddle.com/
+  industry:       Legal
+  city:           Philadelphia
+  state:          PA
+
+blank_rome:
+  name:           Blank Rome
+  url:            www.blankrome.com/
+  industry:       Legal
+  city:           Philadelphia
+  state:          PA
+
+hunton_williams:
+  name:           Hunton & Williams
+  url:            www.hunton.com/
+  industry:       Legal
+  city:           Richmond
+  state:          VA
+
+mcguirewoods:
+  name:           McGuireWoods
+  url:            www.mcguirewoods.com/
+  industry:       Legal
+  city:           Richmond
+  state:          VA
+
+morrison_foerster:
+  name:           Morrison & Foerster
+  url:            www.mofo.com/
+  industry:       Legal
+  city:           San Francisco
+  state:          CA
+
+pillsbury_winthrop_shaw_pittmen:
+  name:           Pillsbury Winthrop  Shaw Pittmen
+  url:            www.pillsburylaw.com/LawPortal/ep/entrance.do
+  industry:       Legal
+  city:           San Francisco
+  state:          CA
+
+orrick_herrington_sutcliffe:
+  name:           Orrick, Herrington & Sutcliffe
+  url:            www.orrick.com/
+  industry:       Legal
+  city:           San Francisco
+  state:          CA
+
+heller_ehrman_white_mcauliffe:
+  name:           Heller Ehrman White & McAuliffe
+  url:            www.hewm.com/en/index.html
+  industry:       Legal
+  city:           San Francisco
+  state:          CA
+
+thelen_reid_priest:
+  name:           Thelen Reid & Priest
+  url:            www.thelenreid.com/
+  industry:       Legal
+  city:           San Francisco
+  state:          CA
+
+perkins_coie:
+  name:           Perkins Coie
+  url:            www.perkinscoie.com/
+  industry:       Legal
+  city:           Seattle
+  state:          WA
+
+hogan_hartson:
+  name:           Hogan & Hartson
+  url:            www.hhlaw.com/home/
+  industry:       Legal
+  city:           Washington
+  state:          DC
+
+arnold_porter:
+  name:           Arnold & Porter
+  url:            www.arnoldporter.com/
+  industry:       Legal
+  city:           Washington
+  state:          DC
+
+howrey_simon_arnold_white:
+  name:           Howrey Simon Arnold & White
+  url:            www.howrey.com
+  industry:       Legal
+  city:           Washington
+  state:          DC
+
+covington_burling:
+  name:           Covington & Burling
+  url:            www.cov.com/
+  industry:       Legal
+  city:           Washington
+  state:          DC
+
+dickstein_shapiro_morin_oshinsky:
+  name:           Dickstein Shapiro Morin & Oshinsky
+  url:            www.dicksteinshapiro.com/
+  industry:       Legal
+  city:           Washington
+  state:          DC
+
+finnegan_henderson_farabow_garrett_dunner:
+  name:           Finnegan, Henderson, Farabow, Garrett & Dunner
+  url:            www.finnegan.com/
+  industry:       Legal
+  city:           Washington
+  state:          DC
+
+steptoe_johnson:
+  name:           Steptoe & Johnson
+  url:            www.steptoe.com/
+  industry:       Legal
+  city:           Washington
+  state:          DC
+
+patton_boggs:
+  name:           Patton Boggs
+  url:            www.pattonboggs.com/
+  industry:       Legal
+  city:           Washington
+  state:          DC
+
+womble_carlyle_sandridge_rice:
+  name:           Womble Carlyle Sandridge & Rice
+  url:            www.wcsr.com/
+  industry:       Legal
+  city:           Winston-Salem
+  state:          NC
+
+baker_mckenzie:
+  name:           Baker & McKenzie
+  url:            www.bakernet.com/BakerNet/default.htm
+  industry:       Legal
+  city:           Chicago
+  state:          IL
+
+jones_day:
+  name:           Jones Day
+  url:            www.jonesday.com/
+  industry:       Legal
+  city:           Cleveland
+  state:          OH
+
+latham_watkins:
+  name:           Latham & Watkins
+  url:            www.lw.com/
+  industry:       Legal
+  city:           Los Angeles
+  state:          CA
+
+sidley_austin_brown_wood:
+  name:           Sidley Austin Brown & Wood
+  url:            www.sidley.com/
+  industry:       Legal
+  city:           Chicago
+  state:          IL
+
+mayer_brown_rowe_maw:
+  name:           Mayer, Brown, Rowe & Maw
+  url:            www.mayerbrownrowe.com/
+  industry:       Legal
+  city:           Chicago
+  state:          IL
+

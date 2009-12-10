@@ -1,0 +1,20 @@
+<!--[start:posts/post]-->
+<div id="<%= post.dom_id %>" class="post-container">
+  <%= render :partial => 'posts/rate', :locals => { :post => post } -%>
+  <div class="post-main">
+    <p class="title"><%= h post.title %></p>
+    <% if post.url %>
+      <p class="data"><%= link_to h(post.url), post.url %></p>
+    <% end %>
+  </div>
+
+  <div class="post-second">
+    <p class="data"><%= posted_by_with_date(post) %> | <%= pluralize(number_with_delimiter(post.hits), "view") %> </p>
+    <p class="body"><%= post.body_html %></p>
+    <%= render :partial => 'tags/list', :locals => { :tags => post.tags } %>
+    <p class="data"><%= post_comment_link %> | <%= email_link(post) %> <%= edit_post_link(post, current_user) %></p>
+    <p><%= render :partial => 'posts/status', :locals => { :post => post } %></p>
+  </div>
+
+ </div>
+<!--[end:posts/post]-->

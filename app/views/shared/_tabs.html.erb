@@ -1,0 +1,14 @@
+<!--[start:shared/tabs]-->
+<div id="tabs">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><%= link_to image_tag("overview-tab#{highlight_tab   == 'Overview'  ? '' : '-off'}.gif", :border => 0), company_path(company) %></td>
+      <td><%= link_to image_tag("news-tab#{highlight_tab       == 'News'      ? '' : '-off'}.gif", :border => 0), company_posts_url(company) + '?category=news' %></td>
+      <td><%= link_to image_tag("gossip-tab#{highlight_tab     == 'Gossip'    ? '' : '-off'}.gif", :border => 0), company_posts_url(company) + '?category=gossip' %></td>
+      <td><%= link_to image_tag("questions-tab#{highlight_tab  == 'Questions' ? '' : '-off'}.gif", :border => 0), company_posts_url(company) + '?category=questions' %></td>
+      <td><%= link_to image_tag("tags-tab#{highlight_tab       == 'Tags'      ? '' : '-off'}.gif", :border => 0), company_tags_url(company) %></td>
+      <td><%= image_tag("tab-filler.gif", :border => 0) %></td>
+    </tr>
+  </table>
+</div>
+<!--[end:shared/tabs]-->
